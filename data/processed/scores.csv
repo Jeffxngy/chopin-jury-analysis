@@ -1,0 +1,2109 @@
+stage,number,name,juror,original,corrected,official_avg
+Stage 1,1,Ziye Tao,Garrick Ohlsson,14.0,15.31,18.41
+Stage 1,1,Ziye Tao,John Allison,17.0,17.0,18.41
+Stage 1,1,Ziye Tao,Yulianna Avdeeva,19.0,19.0,18.41
+Stage 1,1,Ziye Tao,Michel Beroff,21.0,21.0,18.41
+Stage 1,1,Ziye Tao,Sa Chen,21.0,21.0,18.41
+Stage 1,1,Ziye Tao,Dang Thai Son,,,18.41
+Stage 1,1,Ziye Tao,Akiko Ebi,18.0,18.0,18.41
+Stage 1,1,Ziye Tao,Nelson Goerner,16.0,16.0,18.41
+Stage 1,1,Ziye Tao,Krzysztof Jabłoński,17.0,17.0,18.41
+Stage 1,1,Ziye Tao,Kevin Kenner,20.0,20.0,18.41
+Stage 1,1,Ziye Tao,Momo Kodama,21.0,21.0,18.41
+Stage 1,1,Ziye Tao,Robert McDonald,21.0,21.0,18.41
+Stage 1,1,Ziye Tao,Piotr Paleczny,18.0,18.0,18.41
+Stage 1,1,Ziye Tao,Ewa Pobłocka,21.0,21.0,18.41
+Stage 1,1,Ziye Tao,K. Popowa-Zydroń,18.0,18.0,18.41
+Stage 1,1,Ziye Tao,John Rink,16.0,16.0,18.41
+Stage 1,1,Ziye Tao,Wojciech Świtała,15.0,15.31,18.41
+Stage 1,2,Chun Lam U,Garrick Ohlsson,9.0,12.56,15.79
+Stage 1,2,Chun Lam U,John Allison,14.0,14.0,15.79
+Stage 1,2,Chun Lam U,Yulianna Avdeeva,18.0,18.0,15.79
+Stage 1,2,Chun Lam U,Michel Beroff,16.0,16.0,15.79
+Stage 1,2,Chun Lam U,Sa Chen,17.0,17.0,15.79
+Stage 1,2,Chun Lam U,Dang Thai Son,,,15.79
+Stage 1,2,Chun Lam U,Akiko Ebi,16.0,16.0,15.79
+Stage 1,2,Chun Lam U,Nelson Goerner,17.0,17.0,15.79
+Stage 1,2,Chun Lam U,Krzysztof Jabłoński,16.0,16.0,15.79
+Stage 1,2,Chun Lam U,Kevin Kenner,15.0,15.0,15.79
+Stage 1,2,Chun Lam U,Momo Kodama,17.0,17.0,15.79
+Stage 1,2,Chun Lam U,Robert McDonald,16.0,16.0,15.79
+Stage 1,2,Chun Lam U,Piotr Paleczny,16.0,16.0,15.79
+Stage 1,2,Chun Lam U,Ewa Pobłocka,19.0,18.56,15.79
+Stage 1,2,Chun Lam U,K. Popowa-Zydroń,16.0,16.0,15.79
+Stage 1,2,Chun Lam U,John Rink,15.0,15.0,15.79
+Stage 1,2,Chun Lam U,Wojciech Świtała,12.0,12.56,15.79
+Stage 1,3,Tomoharu Ushida,Garrick Ohlsson,19.0,19.0,20.81
+Stage 1,3,Tomoharu Ushida,John Allison,16.0,17.75,20.81
+Stage 1,3,Tomoharu Ushida,Yulianna Avdeeva,20.0,20.0,20.81
+Stage 1,3,Tomoharu Ushida,Michel Beroff,19.0,19.0,20.81
+Stage 1,3,Tomoharu Ushida,Sa Chen,22.0,22.0,20.81
+Stage 1,3,Tomoharu Ushida,Dang Thai Son,21.0,21.0,20.81
+Stage 1,3,Tomoharu Ushida,Akiko Ebi,24.0,23.75,20.81
+Stage 1,3,Tomoharu Ushida,Nelson Goerner,24.0,23.75,20.81
+Stage 1,3,Tomoharu Ushida,Krzysztof Jabłoński,20.0,20.0,20.81
+Stage 1,3,Tomoharu Ushida,Kevin Kenner,19.0,19.0,20.81
+Stage 1,3,Tomoharu Ushida,Momo Kodama,22.0,22.0,20.81
+Stage 1,3,Tomoharu Ushida,Robert McDonald,24.0,23.75,20.81
+Stage 1,3,Tomoharu Ushida,Piotr Paleczny,,,20.81
+Stage 1,3,Tomoharu Ushida,Ewa Pobłocka,22.0,22.0,20.81
+Stage 1,3,Tomoharu Ushida,K. Popowa-Zydroń,23.0,23.0,20.81
+Stage 1,3,Tomoharu Ushida,John Rink,19.0,19.0,20.81
+Stage 1,3,Tomoharu Ushida,Wojciech Świtała,18.0,18.0,20.81
+Stage 1,4,Ryan Wang,Garrick Ohlsson,17.0,17.0,17.07
+Stage 1,4,Ryan Wang,John Allison,19.0,19.0,17.07
+Stage 1,4,Ryan Wang,Yulianna Avdeeva,19.0,19.0,17.07
+Stage 1,4,Ryan Wang,Michel Beroff,17.0,17.0,17.07
+Stage 1,4,Ryan Wang,Sa Chen,21.0,20.12,17.07
+Stage 1,4,Ryan Wang,Dang Thai Son,16.0,16.0,17.07
+Stage 1,4,Ryan Wang,Akiko Ebi,18.0,18.0,17.07
+Stage 1,4,Ryan Wang,Nelson Goerner,18.0,18.0,17.07
+Stage 1,4,Ryan Wang,Krzysztof Jabłoński,15.0,15.0,17.07
+Stage 1,4,Ryan Wang,Kevin Kenner,17.0,17.0,17.07
+Stage 1,4,Ryan Wang,Momo Kodama,17.0,17.0,17.07
+Stage 1,4,Ryan Wang,Robert McDonald,15.0,15.0,17.07
+Stage 1,4,Ryan Wang,Piotr Paleczny,16.0,16.0,17.07
+Stage 1,4,Ryan Wang,Ewa Pobłocka,15.0,15.0,17.07
+Stage 1,4,Ryan Wang,K. Popowa-Zydroń,17.0,17.0,17.07
+Stage 1,4,Ryan Wang,John Rink,18.0,18.0,17.07
+Stage 1,4,Ryan Wang,Wojciech Świtała,16.0,16.0,17.07
+Stage 1,5,Zitong Wang,Garrick Ohlsson,22.0,22.0,21.03
+Stage 1,5,Zitong Wang,John Allison,21.0,21.0,21.03
+Stage 1,5,Zitong Wang,Yulianna Avdeeva,21.0,21.0,21.03
+Stage 1,5,Zitong Wang,Michel Beroff,17.0,17.81,21.03
+Stage 1,5,Zitong Wang,Sa Chen,22.0,22.0,21.03
+Stage 1,5,Zitong Wang,Dang Thai Son,,,21.03
+Stage 1,5,Zitong Wang,Akiko Ebi,22.0,22.0,21.03
+Stage 1,5,Zitong Wang,Nelson Goerner,17.0,17.81,21.03
+Stage 1,5,Zitong Wang,Krzysztof Jabłoński,16.0,17.81,21.03
+Stage 1,5,Zitong Wang,Kevin Kenner,23.0,23.0,21.03
+Stage 1,5,Zitong Wang,Momo Kodama,23.0,23.0,21.03
+Stage 1,5,Zitong Wang,Robert McDonald,21.0,21.0,21.03
+Stage 1,5,Zitong Wang,Piotr Paleczny,19.0,19.0,21.03
+Stage 1,5,Zitong Wang,Ewa Pobłocka,23.0,23.0,21.03
+Stage 1,5,Zitong Wang,K. Popowa-Zydroń,22.0,22.0,21.03
+Stage 1,5,Zitong Wang,John Rink,22.0,22.0,21.03
+Stage 1,5,Zitong Wang,Wojciech Świtała,22.0,22.0,21.03
+Stage 1,6,Jan Widlarz,Garrick Ohlsson,19.0,19.0,18.5
+Stage 1,6,Jan Widlarz,John Allison,16.0,16.0,18.5
+Stage 1,6,Jan Widlarz,Yulianna Avdeeva,20.0,20.0,18.5
+Stage 1,6,Jan Widlarz,Michel Beroff,17.0,17.0,18.5
+Stage 1,6,Jan Widlarz,Sa Chen,20.0,20.0,18.5
+Stage 1,6,Jan Widlarz,Dang Thai Son,17.0,17.0,18.5
+Stage 1,6,Jan Widlarz,Akiko Ebi,17.0,17.0,18.5
+Stage 1,6,Jan Widlarz,Nelson Goerner,17.0,17.0,18.5
+Stage 1,6,Jan Widlarz,Krzysztof Jabłoński,16.0,16.0,18.5
+Stage 1,6,Jan Widlarz,Kevin Kenner,19.0,19.0,18.5
+Stage 1,6,Jan Widlarz,Momo Kodama,20.0,20.0,18.5
+Stage 1,6,Jan Widlarz,Robert McDonald,18.0,18.0,18.5
+Stage 1,6,Jan Widlarz,Piotr Paleczny,21.0,21.0,18.5
+Stage 1,6,Jan Widlarz,Ewa Pobłocka,21.0,21.0,18.5
+Stage 1,6,Jan Widlarz,K. Popowa-Zydroń,,,18.5
+Stage 1,6,Jan Widlarz,John Rink,18.0,18.0,18.5
+Stage 1,6,Jan Widlarz,Wojciech Świtała,20.0,20.0,18.5
+Stage 1,7,Andrzej Wierciński,Garrick Ohlsson,17.0,17.0,19.02
+Stage 1,7,Andrzej Wierciński,John Allison,18.0,18.0,19.02
+Stage 1,7,Andrzej Wierciński,Yulianna Avdeeva,21.0,21.0,19.02
+Stage 1,7,Andrzej Wierciński,Michel Beroff,24.0,22.06,19.02
+Stage 1,7,Andrzej Wierciński,Sa Chen,20.0,20.0,19.02
+Stage 1,7,Andrzej Wierciński,Dang Thai Son,18.0,18.0,19.02
+Stage 1,7,Andrzej Wierciński,Akiko Ebi,21.0,21.0,19.02
+Stage 1,7,Andrzej Wierciński,Nelson Goerner,16.0,16.06,19.02
+Stage 1,7,Andrzej Wierciński,Krzysztof Jabłoński,16.0,16.06,19.02
+Stage 1,7,Andrzej Wierciński,Kevin Kenner,15.0,16.06,19.02
+Stage 1,7,Andrzej Wierciński,Momo Kodama,21.0,21.0,19.02
+Stage 1,7,Andrzej Wierciński,Robert McDonald,20.0,20.0,19.02
+Stage 1,7,Andrzej Wierciński,Piotr Paleczny,21.0,21.0,19.02
+Stage 1,7,Andrzej Wierciński,Ewa Pobłocka,17.0,17.0,19.02
+Stage 1,7,Andrzej Wierciński,K. Popowa-Zydroń,19.0,19.0,19.02
+Stage 1,7,Andrzej Wierciński,John Rink,21.0,21.0,19.02
+Stage 1,7,Andrzej Wierciński,Wojciech Świtała,,,19.02
+Stage 1,8,Krzysztof Wierciński,Garrick Ohlsson,18.0,18.0,18.4
+Stage 1,8,Krzysztof Wierciński,John Allison,12.0,15.29,18.4
+Stage 1,8,Krzysztof Wierciński,Yulianna Avdeeva,19.0,19.0,18.4
+Stage 1,8,Krzysztof Wierciński,Michel Beroff,17.0,17.0,18.4
+Stage 1,8,Krzysztof Wierciński,Sa Chen,22.0,21.29,18.4
+Stage 1,8,Krzysztof Wierciński,Dang Thai Son,19.0,19.0,18.4
+Stage 1,8,Krzysztof Wierciński,Akiko Ebi,21.0,21.0,18.4
+Stage 1,8,Krzysztof Wierciński,Nelson Goerner,17.0,17.0,18.4
+Stage 1,8,Krzysztof Wierciński,Krzysztof Jabłoński,16.0,16.0,18.4
+Stage 1,8,Krzysztof Wierciński,Kevin Kenner,20.0,20.0,18.4
+Stage 1,8,Krzysztof Wierciński,Momo Kodama,19.0,19.0,18.4
+Stage 1,8,Krzysztof Wierciński,Robert McDonald,18.0,18.0,18.4
+Stage 1,8,Krzysztof Wierciński,Piotr Paleczny,22.0,21.29,18.4
+Stage 1,8,Krzysztof Wierciński,Ewa Pobłocka,17.0,17.0,18.4
+Stage 1,8,Krzysztof Wierciński,K. Popowa-Zydroń,18.0,18.0,18.4
+Stage 1,8,Krzysztof Wierciński,John Rink,18.0,18.0,18.4
+Stage 1,8,Krzysztof Wierciński,Wojciech Świtała,18.0,18.0,18.4
+Stage 1,9,Victoria Wong,Garrick Ohlsson,18.0,18.0,18.29
+Stage 1,9,Victoria Wong,John Allison,18.0,18.0,18.29
+Stage 1,9,Victoria Wong,Yulianna Avdeeva,20.0,20.0,18.29
+Stage 1,9,Victoria Wong,Michel Beroff,17.0,17.0,18.29
+Stage 1,9,Victoria Wong,Sa Chen,22.0,21.31,18.29
+Stage 1,9,Victoria Wong,Dang Thai Son,17.0,17.0,18.29
+Stage 1,9,Victoria Wong,Akiko Ebi,18.0,18.0,18.29
+Stage 1,9,Victoria Wong,Nelson Goerner,17.0,17.0,18.29
+Stage 1,9,Victoria Wong,Krzysztof Jabłoński,15.0,15.31,18.29
+Stage 1,9,Victoria Wong,Kevin Kenner,,,18.29
+Stage 1,9,Victoria Wong,Momo Kodama,18.0,18.0,18.29
+Stage 1,9,Victoria Wong,Robert McDonald,19.0,19.0,18.29
+Stage 1,9,Victoria Wong,Piotr Paleczny,20.0,20.0,18.29
+Stage 1,9,Victoria Wong,Ewa Pobłocka,20.0,20.0,18.29
+Stage 1,9,Victoria Wong,K. Popowa-Zydroń,18.0,18.0,18.29
+Stage 1,9,Victoria Wong,John Rink,19.0,19.0,18.29
+Stage 1,9,Victoria Wong,Wojciech Świtała,17.0,17.0,18.29
+Stage 1,10,Maiqi Wu,Garrick Ohlsson,20.0,20.0,18.66
+Stage 1,10,Maiqi Wu,John Allison,15.0,15.63,18.66
+Stage 1,10,Maiqi Wu,Yulianna Avdeeva,19.0,19.0,18.66
+Stage 1,10,Maiqi Wu,Michel Beroff,19.0,19.0,18.66
+Stage 1,10,Maiqi Wu,Sa Chen,21.0,21.0,18.66
+Stage 1,10,Maiqi Wu,Dang Thai Son,19.0,19.0,18.66
+Stage 1,10,Maiqi Wu,Akiko Ebi,17.0,17.0,18.66
+Stage 1,10,Maiqi Wu,Nelson Goerner,18.0,18.0,18.66
+Stage 1,10,Maiqi Wu,Krzysztof Jabłoński,19.0,19.0,18.66
+Stage 1,10,Maiqi Wu,Kevin Kenner,19.0,19.0,18.66
+Stage 1,10,Maiqi Wu,Momo Kodama,18.0,18.0,18.66
+Stage 1,10,Maiqi Wu,Robert McDonald,17.0,17.0,18.66
+Stage 1,10,Maiqi Wu,Piotr Paleczny,19.0,19.0,18.66
+Stage 1,10,Maiqi Wu,Ewa Pobłocka,,,18.66
+Stage 1,10,Maiqi Wu,K. Popowa-Zydroń,21.0,21.0,18.66
+Stage 1,10,Maiqi Wu,John Rink,17.0,17.0,18.66
+Stage 1,10,Maiqi Wu,Wojciech Świtała,20.0,20.0,18.66
+Stage 1,11,Yifan Wu,Garrick Ohlsson,20.0,20.0,21.47
+Stage 1,11,Yifan Wu,John Allison,20.0,20.0,21.47
+Stage 1,11,Yifan Wu,Yulianna Avdeeva,19.0,19.0,21.47
+Stage 1,11,Yifan Wu,Michel Beroff,24.0,24.0,21.47
+Stage 1,11,Yifan Wu,Sa Chen,23.0,23.0,21.47
+Stage 1,11,Yifan Wu,Dang Thai Son,20.0,20.0,21.47
+Stage 1,11,Yifan Wu,Akiko Ebi,23.0,23.0,21.47
+Stage 1,11,Yifan Wu,Nelson Goerner,24.0,24.0,21.47
+Stage 1,11,Yifan Wu,Krzysztof Jabłoński,19.0,19.0,21.47
+Stage 1,11,Yifan Wu,Kevin Kenner,20.0,20.0,21.47
+Stage 1,11,Yifan Wu,Momo Kodama,24.0,24.0,21.47
+Stage 1,11,Yifan Wu,Robert McDonald,20.0,20.0,21.47
+Stage 1,11,Yifan Wu,Piotr Paleczny,21.0,21.0,21.47
+Stage 1,11,Yifan Wu,Ewa Pobłocka,22.0,22.0,21.47
+Stage 1,11,Yifan Wu,K. Popowa-Zydroń,21.0,21.0,21.47
+Stage 1,11,Yifan Wu,John Rink,22.0,22.0,21.47
+Stage 1,11,Yifan Wu,Wojciech Świtała,23.0,23.0,21.47
+Stage 1,12,Miki Yamagata,Garrick Ohlsson,20.0,20.0,19.61
+Stage 1,12,Miki Yamagata,John Allison,13.0,16.47,19.61
+Stage 1,12,Miki Yamagata,Yulianna Avdeeva,18.0,18.0,19.61
+Stage 1,12,Miki Yamagata,Michel Beroff,22.0,22.0,19.61
+Stage 1,12,Miki Yamagata,Sa Chen,21.0,21.0,19.61
+Stage 1,12,Miki Yamagata,Dang Thai Son,17.0,17.0,19.61
+Stage 1,12,Miki Yamagata,Akiko Ebi,22.0,22.0,19.61
+Stage 1,12,Miki Yamagata,Nelson Goerner,20.0,20.0,19.61
+Stage 1,12,Miki Yamagata,Krzysztof Jabłoński,19.0,19.0,19.61
+Stage 1,12,Miki Yamagata,Kevin Kenner,23.0,22.47,19.61
+Stage 1,12,Miki Yamagata,Momo Kodama,23.0,22.47,19.61
+Stage 1,12,Miki Yamagata,Robert McDonald,22.0,22.0,19.61
+Stage 1,12,Miki Yamagata,Piotr Paleczny,19.0,19.0,19.61
+Stage 1,12,Miki Yamagata,Ewa Pobłocka,17.0,17.0,19.61
+Stage 1,12,Miki Yamagata,K. Popowa-Zydroń,18.0,18.0,19.61
+Stage 1,12,Miki Yamagata,John Rink,18.0,18.0,19.61
+Stage 1,12,Miki Yamagata,Wojciech Świtała,19.0,19.0,19.61
+Stage 1,13,Ryota Yamazaki,Garrick Ohlsson,19.0,19.0,17.54
+Stage 1,13,Ryota Yamazaki,John Allison,13.0,14.53,17.54
+Stage 1,13,Ryota Yamazaki,Yulianna Avdeeva,20.0,20.0,17.54
+Stage 1,13,Ryota Yamazaki,Michel Beroff,16.0,16.0,17.54
+Stage 1,13,Ryota Yamazaki,Sa Chen,21.0,20.53,17.54
+Stage 1,13,Ryota Yamazaki,Dang Thai Son,17.0,17.0,17.54
+Stage 1,13,Ryota Yamazaki,Akiko Ebi,21.0,20.53,17.54
+Stage 1,13,Ryota Yamazaki,Nelson Goerner,20.0,20.0,17.54
+Stage 1,13,Ryota Yamazaki,Krzysztof Jabłoński,16.0,16.0,17.54
+Stage 1,13,Ryota Yamazaki,Kevin Kenner,16.0,16.0,17.54
+Stage 1,13,Ryota Yamazaki,Momo Kodama,21.0,20.53,17.54
+Stage 1,13,Ryota Yamazaki,Robert McDonald,16.0,16.0,17.54
+Stage 1,13,Ryota Yamazaki,Piotr Paleczny,18.0,18.0,17.54
+Stage 1,13,Ryota Yamazaki,Ewa Pobłocka,16.0,16.0,17.54
+Stage 1,13,Ryota Yamazaki,K. Popowa-Zydroń,17.0,17.0,17.54
+Stage 1,13,Ryota Yamazaki,John Rink,16.0,16.0,17.54
+Stage 1,13,Ryota Yamazaki,Wojciech Świtała,15.0,15.0,17.54
+Stage 1,14,Fanze Yang,Garrick Ohlsson,19.0,19.0,18.95
+Stage 1,14,Fanze Yang,John Allison,10.0,15.71,18.95
+Stage 1,14,Fanze Yang,Yulianna Avdeeva,20.0,20.0,18.95
+Stage 1,14,Fanze Yang,Michel Beroff,18.0,18.0,18.95
+Stage 1,14,Fanze Yang,Sa Chen,21.0,21.0,18.95
+Stage 1,14,Fanze Yang,Dang Thai Son,21.0,21.0,18.95
+Stage 1,14,Fanze Yang,Akiko Ebi,22.0,21.71,18.95
+Stage 1,14,Fanze Yang,Nelson Goerner,20.0,20.0,18.95
+Stage 1,14,Fanze Yang,Krzysztof Jabłoński,16.0,16.0,18.95
+Stage 1,14,Fanze Yang,Kevin Kenner,19.0,19.0,18.95
+Stage 1,14,Fanze Yang,Momo Kodama,18.0,18.0,18.95
+Stage 1,14,Fanze Yang,Robert McDonald,23.0,21.71,18.95
+Stage 1,14,Fanze Yang,Piotr Paleczny,19.0,19.0,18.95
+Stage 1,14,Fanze Yang,Ewa Pobłocka,21.0,21.0,18.95
+Stage 1,14,Fanze Yang,K. Popowa-Zydroń,19.0,19.0,18.95
+Stage 1,14,Fanze Yang,John Rink,16.0,16.0,18.95
+Stage 1,14,Fanze Yang,Wojciech Świtała,16.0,16.0,18.95
+Stage 1,15,William Yang,Garrick Ohlsson,19.0,19.0,20.22
+Stage 1,15,William Yang,John Allison,21.0,21.0,20.22
+Stage 1,15,William Yang,Yulianna Avdeeva,18.0,18.0,20.22
+Stage 1,15,William Yang,Michel Beroff,17.0,17.25,20.22
+Stage 1,15,William Yang,Sa Chen,20.0,20.0,20.22
+Stage 1,15,William Yang,Dang Thai Son,22.0,22.0,20.22
+Stage 1,15,William Yang,Akiko Ebi,24.0,23.25,20.22
+Stage 1,15,William Yang,Nelson Goerner,22.0,22.0,20.22
+Stage 1,15,William Yang,Krzysztof Jabłoński,21.0,21.0,20.22
+Stage 1,15,William Yang,Kevin Kenner,20.0,20.0,20.22
+Stage 1,15,William Yang,Momo Kodama,18.0,18.0,20.22
+Stage 1,15,William Yang,Robert McDonald,,,20.22
+Stage 1,15,William Yang,Piotr Paleczny,18.0,18.0,20.22
+Stage 1,15,William Yang,Ewa Pobłocka,21.0,21.0,20.22
+Stage 1,15,William Yang,K. Popowa-Zydroń,20.0,20.0,20.22
+Stage 1,15,William Yang,John Rink,23.0,23.0,20.22
+Stage 1,15,William Yang,Wojciech Świtała,20.0,20.0,20.22
+Stage 1,16,Yuanfan Yang,Garrick Ohlsson,17.0,17.0,18.38
+Stage 1,16,Yuanfan Yang,John Allison,22.0,21.41,18.38
+Stage 1,16,Yuanfan Yang,Yulianna Avdeeva,20.0,20.0,18.38
+Stage 1,16,Yuanfan Yang,Michel Beroff,18.0,18.0,18.38
+Stage 1,16,Yuanfan Yang,Sa Chen,20.0,20.0,18.38
+Stage 1,16,Yuanfan Yang,Dang Thai Son,17.0,17.0,18.38
+Stage 1,16,Yuanfan Yang,Akiko Ebi,17.0,17.0,18.38
+Stage 1,16,Yuanfan Yang,Nelson Goerner,19.0,19.0,18.38
+Stage 1,16,Yuanfan Yang,Krzysztof Jabłoński,20.0,20.0,18.38
+Stage 1,16,Yuanfan Yang,Kevin Kenner,17.0,17.0,18.38
+Stage 1,16,Yuanfan Yang,Momo Kodama,18.0,18.0,18.38
+Stage 1,16,Yuanfan Yang,Robert McDonald,16.0,16.0,18.38
+Stage 1,16,Yuanfan Yang,Piotr Paleczny,20.0,20.0,18.38
+Stage 1,16,Yuanfan Yang,Ewa Pobłocka,17.0,17.0,18.38
+Stage 1,16,Yuanfan Yang,K. Popowa-Zydroń,19.0,19.0,18.38
+Stage 1,16,Yuanfan Yang,John Rink,16.0,16.0,18.38
+Stage 1,16,Yuanfan Yang,Wojciech Świtała,20.0,20.0,18.38
+Stage 1,17,Yichen Yu,Garrick Ohlsson,17.0,17.0,18.79
+Stage 1,17,Yichen Yu,John Allison,22.0,21.82,18.79
+Stage 1,17,Yichen Yu,Yulianna Avdeeva,18.0,18.0,18.79
+Stage 1,17,Yichen Yu,Michel Beroff,17.0,17.0,18.79
+Stage 1,17,Yichen Yu,Sa Chen,21.0,21.0,18.79
+Stage 1,17,Yichen Yu,Dang Thai Son,16.0,16.0,18.79
+Stage 1,17,Yichen Yu,Akiko Ebi,17.0,17.0,18.79
+Stage 1,17,Yichen Yu,Nelson Goerner,20.0,20.0,18.79
+Stage 1,17,Yichen Yu,Krzysztof Jabłoński,22.0,21.82,18.79
+Stage 1,17,Yichen Yu,Kevin Kenner,22.0,21.82,18.79
+Stage 1,17,Yichen Yu,Momo Kodama,20.0,20.0,18.79
+Stage 1,17,Yichen Yu,Robert McDonald,16.0,16.0,18.79
+Stage 1,17,Yichen Yu,Piotr Paleczny,21.0,21.0,18.79
+Stage 1,17,Yichen Yu,Ewa Pobłocka,18.0,18.0,18.79
+Stage 1,17,Yichen Yu,K. Popowa-Zydroń,21.0,21.0,18.79
+Stage 1,17,Yichen Yu,John Rink,16.0,16.0,18.79
+Stage 1,17,Yichen Yu,Wojciech Świtała,16.0,16.0,18.79
+Stage 1,18,Yuewen Yu,Garrick Ohlsson,23.0,21.71,18.46
+Stage 1,18,Yuewen Yu,John Allison,17.0,17.0,18.46
+Stage 1,18,Yuewen Yu,Yulianna Avdeeva,20.0,20.0,18.46
+Stage 1,18,Yuewen Yu,Michel Beroff,16.0,16.0,18.46
+Stage 1,18,Yuewen Yu,Sa Chen,21.0,21.0,18.46
+Stage 1,18,Yuewen Yu,Dang Thai Son,16.0,16.0,18.46
+Stage 1,18,Yuewen Yu,Akiko Ebi,17.0,17.0,18.46
+Stage 1,18,Yuewen Yu,Nelson Goerner,15.0,15.71,18.46
+Stage 1,18,Yuewen Yu,Krzysztof Jabłoński,16.0,16.0,18.46
+Stage 1,18,Yuewen Yu,Kevin Kenner,16.0,16.0,18.46
+Stage 1,18,Yuewen Yu,Momo Kodama,19.0,19.0,18.46
+Stage 1,18,Yuewen Yu,Robert McDonald,19.0,19.0,18.46
+Stage 1,18,Yuewen Yu,Piotr Paleczny,19.0,19.0,18.46
+Stage 1,18,Yuewen Yu,Ewa Pobłocka,21.0,21.0,18.46
+Stage 1,18,Yuewen Yu,K. Popowa-Zydroń,24.0,21.71,18.46
+Stage 1,18,Yuewen Yu,John Rink,23.0,21.71,18.46
+Stage 1,18,Yuewen Yu,Wojciech Świtała,16.0,16.0,18.46
+Stage 1,19,Andrey Zenin,Garrick Ohlsson,21.0,20.76,17.78
+Stage 1,19,Andrey Zenin,John Allison,22.0,20.76,17.78
+Stage 1,19,Andrey Zenin,Yulianna Avdeeva,21.0,20.76,17.78
+Stage 1,19,Andrey Zenin,Michel Beroff,19.0,19.0,17.78
+Stage 1,19,Andrey Zenin,Sa Chen,22.0,20.76,17.78
+Stage 1,19,Andrey Zenin,Dang Thai Son,15.0,15.0,17.78
+Stage 1,19,Andrey Zenin,Akiko Ebi,19.0,19.0,17.78
+Stage 1,19,Andrey Zenin,Nelson Goerner,14.0,14.76,17.78
+Stage 1,19,Andrey Zenin,Krzysztof Jabłoński,12.0,14.76,17.78
+Stage 1,19,Andrey Zenin,Kevin Kenner,15.0,15.0,17.78
+Stage 1,19,Andrey Zenin,Momo Kodama,18.0,18.0,17.78
+Stage 1,19,Andrey Zenin,Robert McDonald,18.0,18.0,17.78
+Stage 1,19,Andrey Zenin,Piotr Paleczny,21.0,20.76,17.78
+Stage 1,19,Andrey Zenin,Ewa Pobłocka,15.0,15.0,17.78
+Stage 1,19,Andrey Zenin,K. Popowa-Zydroń,19.0,19.0,17.78
+Stage 1,19,Andrey Zenin,John Rink,16.0,16.0,17.78
+Stage 1,19,Andrey Zenin,Wojciech Świtała,15.0,15.0,17.78
+Stage 1,20,Jacky Zhang,Garrick Ohlsson,15.0,17.59,20.75
+Stage 1,20,Jacky Zhang,John Allison,17.0,17.59,20.75
+Stage 1,20,Jacky Zhang,Yulianna Avdeeva,21.0,21.0,20.75
+Stage 1,20,Jacky Zhang,Michel Beroff,25.0,23.59,20.75
+Stage 1,20,Jacky Zhang,Sa Chen,24.0,23.59,20.75
+Stage 1,20,Jacky Zhang,Dang Thai Son,17.0,17.59,20.75
+Stage 1,20,Jacky Zhang,Akiko Ebi,23.0,23.0,20.75
+Stage 1,20,Jacky Zhang,Nelson Goerner,20.0,20.0,20.75
+Stage 1,20,Jacky Zhang,Krzysztof Jabłoński,16.0,17.59,20.75
+Stage 1,20,Jacky Zhang,Kevin Kenner,19.0,19.0,20.75
+Stage 1,20,Jacky Zhang,Momo Kodama,20.0,20.0,20.75
+Stage 1,20,Jacky Zhang,Robert McDonald,24.0,23.59,20.75
+Stage 1,20,Jacky Zhang,Piotr Paleczny,23.0,23.0,20.75
+Stage 1,20,Jacky Zhang,Ewa Pobłocka,24.0,23.59,20.75
+Stage 1,20,Jacky Zhang,K. Popowa-Zydroń,20.0,20.0,20.75
+Stage 1,20,Jacky Zhang,John Rink,20.0,20.0,20.75
+Stage 1,20,Jacky Zhang,Wojciech Świtała,22.0,22.0,20.75
+Stage 1,21,Yonghuan Zhong,Garrick Ohlsson,16.0,16.0,17.33
+Stage 1,21,Yonghuan Zhong,John Allison,20.0,20.0,17.33
+Stage 1,21,Yonghuan Zhong,Yulianna Avdeeva,18.0,18.0,17.33
+Stage 1,21,Yonghuan Zhong,Michel Beroff,15.0,15.0,17.33
+Stage 1,21,Yonghuan Zhong,Sa Chen,21.0,20.44,17.33
+Stage 1,21,Yonghuan Zhong,Dang Thai Son,18.0,18.0,17.33
+Stage 1,21,Yonghuan Zhong,Akiko Ebi,17.0,17.0,17.33
+Stage 1,21,Yonghuan Zhong,Nelson Goerner,16.0,16.0,17.33
+Stage 1,21,Yonghuan Zhong,Krzysztof Jabłoński,16.0,16.0,17.33
+Stage 1,21,Yonghuan Zhong,Kevin Kenner,16.0,16.0,17.33
+Stage 1,21,Yonghuan Zhong,Momo Kodama,21.0,20.44,17.33
+Stage 1,21,Yonghuan Zhong,Robert McDonald,16.0,16.0,17.33
+Stage 1,21,Yonghuan Zhong,Piotr Paleczny,21.0,20.44,17.33
+Stage 1,21,Yonghuan Zhong,Ewa Pobłocka,15.0,15.0,17.33
+Stage 1,21,Yonghuan Zhong,K. Popowa-Zydroń,17.0,17.0,17.33
+Stage 1,21,Yonghuan Zhong,John Rink,16.0,16.0,17.33
+Stage 1,21,Yonghuan Zhong,Wojciech Świtała,,,17.33
+Stage 1,22,Hanyuan Zhu,Garrick Ohlsson,15.0,15.75,18.59
+Stage 1,22,Hanyuan Zhu,John Allison,16.0,16.0,18.59
+Stage 1,22,Hanyuan Zhu,Yulianna Avdeeva,18.0,18.0,18.59
+Stage 1,22,Hanyuan Zhu,Michel Beroff,15.0,15.75,18.59
+Stage 1,22,Hanyuan Zhu,Sa Chen,22.0,21.75,18.59
+Stage 1,22,Hanyuan Zhu,Dang Thai Son,,,18.59
+Stage 1,22,Hanyuan Zhu,Akiko Ebi,24.0,21.75,18.59
+Stage 1,22,Hanyuan Zhu,Nelson Goerner,17.0,17.0,18.59
+Stage 1,22,Hanyuan Zhu,Krzysztof Jabłoński,16.0,16.0,18.59
+Stage 1,22,Hanyuan Zhu,Kevin Kenner,23.0,21.75,18.59
+Stage 1,22,Hanyuan Zhu,Momo Kodama,22.0,21.75,18.59
+Stage 1,22,Hanyuan Zhu,Robert McDonald,20.0,20.0,18.59
+Stage 1,22,Hanyuan Zhu,Piotr Paleczny,18.0,18.0,18.59
+Stage 1,22,Hanyuan Zhu,Ewa Pobłocka,21.0,21.0,18.59
+Stage 1,22,Hanyuan Zhu,K. Popowa-Zydroń,21.0,21.0,18.59
+Stage 1,22,Hanyuan Zhu,John Rink,16.0,16.0,18.59
+Stage 1,22,Hanyuan Zhu,Wojciech Świtała,16.0,16.0,18.59
+Stage 1,23,Jingting Zhu,Garrick Ohlsson,15.0,15.31,18.33
+Stage 1,23,Jingting Zhu,John Allison,18.0,18.0,18.33
+Stage 1,23,Jingting Zhu,Yulianna Avdeeva,19.0,19.0,18.33
+Stage 1,23,Jingting Zhu,Michel Beroff,17.0,17.0,18.33
+Stage 1,23,Jingting Zhu,Sa Chen,20.0,20.0,18.33
+Stage 1,23,Jingting Zhu,Dang Thai Son,16.0,16.0,18.33
+Stage 1,23,Jingting Zhu,Akiko Ebi,17.0,17.0,18.33
+Stage 1,23,Jingting Zhu,Nelson Goerner,18.0,18.0,18.33
+Stage 1,23,Jingting Zhu,Krzysztof Jabłoński,21.0,21.0,18.33
+Stage 1,23,Jingting Zhu,Kevin Kenner,18.0,18.0,18.33
+Stage 1,23,Jingting Zhu,Momo Kodama,20.0,20.0,18.33
+Stage 1,23,Jingting Zhu,Robert McDonald,,,18.33
+Stage 1,23,Jingting Zhu,Piotr Paleczny,19.0,19.0,18.33
+Stage 1,23,Jingting Zhu,Ewa Pobłocka,20.0,20.0,18.33
+Stage 1,23,Jingting Zhu,K. Popowa-Zydroń,20.0,20.0,18.33
+Stage 1,23,Jingting Zhu,John Rink,19.0,19.0,18.33
+Stage 1,23,Jingting Zhu,Wojciech Świtała,16.0,16.0,18.33
+Stage 1,24,Piotr Alexewicz,Garrick Ohlsson,15.0,17.88,21.02
+Stage 1,24,Piotr Alexewicz,John Allison,22.0,22.0,21.02
+Stage 1,24,Piotr Alexewicz,Yulianna Avdeeva,21.0,21.0,21.02
+Stage 1,24,Piotr Alexewicz,Michel Beroff,19.0,19.0,21.02
+Stage 1,24,Piotr Alexewicz,Sa Chen,21.0,21.0,21.02
+Stage 1,24,Piotr Alexewicz,Dang Thai Son,21.0,21.0,21.02
+Stage 1,24,Piotr Alexewicz,Akiko Ebi,24.0,23.88,21.02
+Stage 1,24,Piotr Alexewicz,Nelson Goerner,24.0,23.88,21.02
+Stage 1,24,Piotr Alexewicz,Krzysztof Jabłoński,18.0,18.0,21.02
+Stage 1,24,Piotr Alexewicz,Kevin Kenner,18.0,18.0,21.02
+Stage 1,24,Piotr Alexewicz,Momo Kodama,24.0,23.88,21.02
+Stage 1,24,Piotr Alexewicz,Robert McDonald,20.0,20.0,21.02
+Stage 1,24,Piotr Alexewicz,Piotr Paleczny,23.0,23.0,21.02
+Stage 1,24,Piotr Alexewicz,Ewa Pobłocka,22.0,22.0,21.02
+Stage 1,24,Piotr Alexewicz,K. Popowa-Zydroń,19.0,19.0,21.02
+Stage 1,24,Piotr Alexewicz,John Rink,24.0,23.88,21.02
+Stage 1,24,Piotr Alexewicz,Wojciech Świtała,20.0,20.0,21.02
+Stage 1,25,Jonas Aumiller,Garrick Ohlsson,15.0,17.29,20.46
+Stage 1,25,Jonas Aumiller,John Allison,23.0,23.0,20.46
+Stage 1,25,Jonas Aumiller,Yulianna Avdeeva,20.0,20.0,20.46
+Stage 1,25,Jonas Aumiller,Michel Beroff,18.0,18.0,20.46
+Stage 1,25,Jonas Aumiller,Sa Chen,23.0,23.0,20.46
+Stage 1,25,Jonas Aumiller,Dang Thai Son,22.0,22.0,20.46
+Stage 1,25,Jonas Aumiller,Akiko Ebi,21.0,21.0,20.46
+Stage 1,25,Jonas Aumiller,Nelson Goerner,21.0,21.0,20.46
+Stage 1,25,Jonas Aumiller,Krzysztof Jabłoński,19.0,19.0,20.46
+Stage 1,25,Jonas Aumiller,Kevin Kenner,17.0,17.29,20.46
+Stage 1,25,Jonas Aumiller,Momo Kodama,23.0,23.0,20.46
+Stage 1,25,Jonas Aumiller,Robert McDonald,22.0,22.0,20.46
+Stage 1,25,Jonas Aumiller,Piotr Paleczny,22.0,22.0,20.46
+Stage 1,25,Jonas Aumiller,Ewa Pobłocka,22.0,22.0,20.46
+Stage 1,25,Jonas Aumiller,K. Popowa-Zydroń,20.0,20.0,20.46
+Stage 1,25,Jonas Aumiller,John Rink,20.0,20.0,20.46
+Stage 1,25,Jonas Aumiller,Wojciech Świtała,17.0,17.29,20.46
+Stage 1,26,Yanyan Bao,Garrick Ohlsson,22.0,22.0,20.35
+Stage 1,26,Yanyan Bao,John Allison,13.0,17.0,20.35
+Stage 1,26,Yanyan Bao,Yulianna Avdeeva,22.0,22.0,20.35
+Stage 1,26,Yanyan Bao,Michel Beroff,19.0,19.0,20.35
+Stage 1,26,Yanyan Bao,Sa Chen,23.0,23.0,20.35
+Stage 1,26,Yanyan Bao,Dang Thai Son,22.0,22.0,20.35
+Stage 1,26,Yanyan Bao,Akiko Ebi,21.0,21.0,20.35
+Stage 1,26,Yanyan Bao,Nelson Goerner,16.0,17.0,20.35
+Stage 1,26,Yanyan Bao,Krzysztof Jabłoński,16.0,17.0,20.35
+Stage 1,26,Yanyan Bao,Kevin Kenner,21.0,21.0,20.35
+Stage 1,26,Yanyan Bao,Momo Kodama,18.0,18.0,20.35
+Stage 1,26,Yanyan Bao,Robert McDonald,23.0,23.0,20.35
+Stage 1,26,Yanyan Bao,Piotr Paleczny,23.0,23.0,20.35
+Stage 1,26,Yanyan Bao,Ewa Pobłocka,22.0,22.0,20.35
+Stage 1,26,Yanyan Bao,K. Popowa-Zydroń,19.0,19.0,20.35
+Stage 1,26,Yanyan Bao,John Rink,17.0,17.0,20.35
+Stage 1,26,Yanyan Bao,Wojciech Świtała,23.0,23.0,20.35
+Stage 1,27,Michał Basista,Garrick Ohlsson,22.0,20.94,17.87
+Stage 1,27,Michał Basista,John Allison,15.0,15.0,17.87
+Stage 1,27,Michał Basista,Yulianna Avdeeva,21.0,20.94,17.87
+Stage 1,27,Michał Basista,Michel Beroff,17.0,17.0,17.87
+Stage 1,27,Michał Basista,Sa Chen,21.0,20.94,17.87
+Stage 1,27,Michał Basista,Dang Thai Son,17.0,17.0,17.87
+Stage 1,27,Michał Basista,Akiko Ebi,17.0,17.0,17.87
+Stage 1,27,Michał Basista,Nelson Goerner,17.0,17.0,17.87
+Stage 1,27,Michał Basista,Krzysztof Jabłoński,15.0,15.0,17.87
+Stage 1,27,Michał Basista,Kevin Kenner,18.0,18.0,17.87
+Stage 1,27,Michał Basista,Momo Kodama,18.0,18.0,17.87
+Stage 1,27,Michał Basista,Robert McDonald,19.0,19.0,17.87
+Stage 1,27,Michał Basista,Piotr Paleczny,18.0,18.0,17.87
+Stage 1,27,Michał Basista,Ewa Pobłocka,16.0,16.0,17.87
+Stage 1,27,Michał Basista,K. Popowa-Zydroń,18.0,18.0,17.87
+Stage 1,27,Michał Basista,John Rink,16.0,16.0,17.87
+Stage 1,27,Michał Basista,Wojciech Świtała,20.0,20.0,17.87
+Stage 1,28,Kai-Min Chang,Garrick Ohlsson,22.0,22.0,19.59
+Stage 1,28,Kai-Min Chang,John Allison,17.0,17.0,19.59
+Stage 1,28,Kai-Min Chang,Yulianna Avdeeva,20.0,20.0,19.59
+Stage 1,28,Kai-Min Chang,Michel Beroff,18.0,18.0,19.59
+Stage 1,28,Kai-Min Chang,Sa Chen,23.0,22.69,19.59
+Stage 1,28,Kai-Min Chang,Dang Thai Son,,,19.59
+Stage 1,28,Kai-Min Chang,Akiko Ebi,19.0,19.0,19.59
+Stage 1,28,Kai-Min Chang,Nelson Goerner,17.0,17.0,19.59
+Stage 1,28,Kai-Min Chang,Krzysztof Jabłoński,17.0,17.0,19.59
+Stage 1,28,Kai-Min Chang,Kevin Kenner,21.0,21.0,19.59
+Stage 1,28,Kai-Min Chang,Momo Kodama,20.0,20.0,19.59
+Stage 1,28,Kai-Min Chang,Robert McDonald,19.0,19.0,19.59
+Stage 1,28,Kai-Min Chang,Piotr Paleczny,17.0,17.0,19.59
+Stage 1,28,Kai-Min Chang,Ewa Pobłocka,21.0,21.0,19.59
+Stage 1,28,Kai-Min Chang,K. Popowa-Zydroń,24.0,22.69,19.59
+Stage 1,28,Kai-Min Chang,John Rink,19.0,19.0,19.59
+Stage 1,28,Kai-Min Chang,Wojciech Świtała,21.0,21.0,19.59
+Stage 1,29,Kevin Chen,Garrick Ohlsson,20.0,20.0,22.93
+Stage 1,29,Kevin Chen,John Allison,23.0,23.0,22.93
+Stage 1,29,Kevin Chen,Yulianna Avdeeva,22.0,22.0,22.93
+Stage 1,29,Kevin Chen,Michel Beroff,25.0,25.0,22.93
+Stage 1,29,Kevin Chen,Sa Chen,24.0,24.0,22.93
+Stage 1,29,Kevin Chen,Dang Thai Son,18.0,19.82,22.93
+Stage 1,29,Kevin Chen,Akiko Ebi,25.0,25.0,22.93
+Stage 1,29,Kevin Chen,Nelson Goerner,23.0,23.0,22.93
+Stage 1,29,Kevin Chen,Krzysztof Jabłoński,24.0,24.0,22.93
+Stage 1,29,Kevin Chen,Kevin Kenner,24.0,24.0,22.93
+Stage 1,29,Kevin Chen,Momo Kodama,24.0,24.0,22.93
+Stage 1,29,Kevin Chen,Robert McDonald,24.0,24.0,22.93
+Stage 1,29,Kevin Chen,Piotr Paleczny,22.0,22.0,22.93
+Stage 1,29,Kevin Chen,Ewa Pobłocka,22.0,22.0,22.93
+Stage 1,29,Kevin Chen,K. Popowa-Zydroń,21.0,21.0,22.93
+Stage 1,29,Kevin Chen,John Rink,22.0,22.0,22.93
+Stage 1,29,Kevin Chen,Wojciech Świtała,25.0,25.0,22.93
+Stage 1,30,Xuehong Chen,Garrick Ohlsson,19.0,19.0,20.4
+Stage 1,30,Xuehong Chen,John Allison,18.0,18.0,20.4
+Stage 1,30,Xuehong Chen,Yulianna Avdeeva,21.0,21.0,20.4
+Stage 1,30,Xuehong Chen,Michel Beroff,19.0,19.0,20.4
+Stage 1,30,Xuehong Chen,Sa Chen,21.0,21.0,20.4
+Stage 1,30,Xuehong Chen,Dang Thai Son,17.0,17.41,20.4
+Stage 1,30,Xuehong Chen,Akiko Ebi,21.0,21.0,20.4
+Stage 1,30,Xuehong Chen,Nelson Goerner,22.0,22.0,20.4
+Stage 1,30,Xuehong Chen,Krzysztof Jabłoński,19.0,19.0,20.4
+Stage 1,30,Xuehong Chen,Kevin Kenner,24.0,23.41,20.4
+Stage 1,30,Xuehong Chen,Momo Kodama,19.0,19.0,20.4
+Stage 1,30,Xuehong Chen,Robert McDonald,23.0,23.0,20.4
+Stage 1,30,Xuehong Chen,Piotr Paleczny,23.0,23.0,20.4
+Stage 1,30,Xuehong Chen,Ewa Pobłocka,20.0,20.0,20.4
+Stage 1,30,Xuehong Chen,K. Popowa-Zydroń,21.0,21.0,20.4
+Stage 1,30,Xuehong Chen,John Rink,19.0,19.0,20.4
+Stage 1,30,Xuehong Chen,Wojciech Świtała,21.0,21.0,20.4
+Stage 1,31,Zixi Chen,Garrick Ohlsson,23.0,23.0,20.25
+Stage 1,31,Zixi Chen,John Allison,18.0,18.0,20.25
+Stage 1,31,Zixi Chen,Yulianna Avdeeva,23.0,23.0,20.25
+Stage 1,31,Zixi Chen,Michel Beroff,18.0,18.0,20.25
+Stage 1,31,Zixi Chen,Sa Chen,21.0,21.0,20.25
+Stage 1,31,Zixi Chen,Dang Thai Son,18.0,18.0,20.25
+Stage 1,31,Zixi Chen,Akiko Ebi,20.0,20.0,20.25
+Stage 1,31,Zixi Chen,Nelson Goerner,21.0,21.0,20.25
+Stage 1,31,Zixi Chen,Krzysztof Jabłoński,17.0,17.24,20.25
+Stage 1,31,Zixi Chen,Kevin Kenner,20.0,20.0,20.25
+Stage 1,31,Zixi Chen,Momo Kodama,21.0,21.0,20.25
+Stage 1,31,Zixi Chen,Robert McDonald,19.0,19.0,20.25
+Stage 1,31,Zixi Chen,Piotr Paleczny,20.0,20.0,20.25
+Stage 1,31,Zixi Chen,Ewa Pobłocka,21.0,21.0,20.25
+Stage 1,31,Zixi Chen,K. Popowa-Zydroń,23.0,23.0,20.25
+Stage 1,31,Zixi Chen,John Rink,22.0,22.0,20.25
+Stage 1,31,Zixi Chen,Wojciech Świtała,19.0,19.0,20.25
+Stage 1,32,Hoi Leong Cheong,Garrick Ohlsson,22.0,22.0,19.39
+Stage 1,32,Hoi Leong Cheong,John Allison,13.0,16.19,19.39
+Stage 1,32,Hoi Leong Cheong,Yulianna Avdeeva,19.0,19.0,19.39
+Stage 1,32,Hoi Leong Cheong,Michel Beroff,17.0,17.0,19.39
+Stage 1,32,Hoi Leong Cheong,Sa Chen,22.0,22.0,19.39
+Stage 1,32,Hoi Leong Cheong,Dang Thai Son,20.0,20.0,19.39
+Stage 1,32,Hoi Leong Cheong,Akiko Ebi,22.0,22.0,19.39
+Stage 1,32,Hoi Leong Cheong,Nelson Goerner,17.0,17.0,19.39
+Stage 1,32,Hoi Leong Cheong,Krzysztof Jabłoński,17.0,17.0,19.39
+Stage 1,32,Hoi Leong Cheong,Kevin Kenner,22.0,22.0,19.39
+Stage 1,32,Hoi Leong Cheong,Momo Kodama,18.0,18.0,19.39
+Stage 1,32,Hoi Leong Cheong,Robert McDonald,,,19.39
+Stage 1,32,Hoi Leong Cheong,Piotr Paleczny,19.0,19.0,19.39
+Stage 1,32,Hoi Leong Cheong,Ewa Pobłocka,22.0,22.0,19.39
+Stage 1,32,Hoi Leong Cheong,K. Popowa-Zydroń,22.0,22.0,19.39
+Stage 1,32,Hoi Leong Cheong,John Rink,18.0,18.0,19.39
+Stage 1,32,Hoi Leong Cheong,Wojciech Świtała,17.0,17.0,19.39
+Stage 1,33,Diana Cooper,Garrick Ohlsson,22.0,21.71,18.71
+Stage 1,33,Diana Cooper,John Allison,17.0,17.0,18.71
+Stage 1,33,Diana Cooper,Yulianna Avdeeva,20.0,20.0,18.71
+Stage 1,33,Diana Cooper,Michel Beroff,19.0,19.0,18.71
+Stage 1,33,Diana Cooper,Sa Chen,20.0,20.0,18.71
+Stage 1,33,Diana Cooper,Dang Thai Son,22.0,21.71,18.71
+Stage 1,33,Diana Cooper,Akiko Ebi,21.0,21.0,18.71
+Stage 1,33,Diana Cooper,Nelson Goerner,15.0,15.71,18.71
+Stage 1,33,Diana Cooper,Krzysztof Jabłoński,16.0,16.0,18.71
+Stage 1,33,Diana Cooper,Kevin Kenner,18.0,18.0,18.71
+Stage 1,33,Diana Cooper,Momo Kodama,19.0,19.0,18.71
+Stage 1,33,Diana Cooper,Robert McDonald,16.0,16.0,18.71
+Stage 1,33,Diana Cooper,Piotr Paleczny,19.0,19.0,18.71
+Stage 1,33,Diana Cooper,Ewa Pobłocka,16.0,16.0,18.71
+Stage 1,33,Diana Cooper,K. Popowa-Zydroń,19.0,19.0,18.71
+Stage 1,33,Diana Cooper,John Rink,20.0,20.0,18.71
+Stage 1,33,Diana Cooper,Wojciech Świtała,19.0,19.0,18.71
+Stage 1,34,Athena Deng,Garrick Ohlsson,23.0,20.94,17.8
+Stage 1,34,Athena Deng,John Allison,13.0,14.94,17.8
+Stage 1,34,Athena Deng,Yulianna Avdeeva,20.0,20.0,17.8
+Stage 1,34,Athena Deng,Michel Beroff,17.0,17.0,17.8
+Stage 1,34,Athena Deng,Sa Chen,19.0,19.0,17.8
+Stage 1,34,Athena Deng,Dang Thai Son,,,17.8
+Stage 1,34,Athena Deng,Akiko Ebi,23.0,20.94,17.8
+Stage 1,34,Athena Deng,Nelson Goerner,16.0,16.0,17.8
+Stage 1,34,Athena Deng,Krzysztof Jabłoński,16.0,16.0,17.8
+Stage 1,34,Athena Deng,Kevin Kenner,17.0,17.0,17.8
+Stage 1,34,Athena Deng,Momo Kodama,17.0,17.0,17.8
+Stage 1,34,Athena Deng,Robert McDonald,18.0,18.0,17.8
+Stage 1,34,Athena Deng,Piotr Paleczny,18.0,18.0,17.8
+Stage 1,34,Athena Deng,Ewa Pobłocka,17.0,17.0,17.8
+Stage 1,34,Athena Deng,K. Popowa-Zydroń,18.0,18.0,17.8
+Stage 1,34,Athena Deng,John Rink,18.0,18.0,17.8
+Stage 1,34,Athena Deng,Wojciech Świtała,17.0,17.0,17.8
+Stage 1,35,Yubo Deng,Garrick Ohlsson,19.0,19.0,19.72
+Stage 1,35,Yubo Deng,John Allison,18.0,18.0,19.72
+Stage 1,35,Yubo Deng,Yulianna Avdeeva,20.0,20.0,19.72
+Stage 1,35,Yubo Deng,Michel Beroff,18.0,18.0,19.72
+Stage 1,35,Yubo Deng,Sa Chen,22.0,22.0,19.72
+Stage 1,35,Yubo Deng,Dang Thai Son,,,19.72
+Stage 1,35,Yubo Deng,Akiko Ebi,17.0,17.0,19.72
+Stage 1,35,Yubo Deng,Nelson Goerner,23.0,22.63,19.72
+Stage 1,35,Yubo Deng,Krzysztof Jabłoński,16.0,16.63,19.72
+Stage 1,35,Yubo Deng,Kevin Kenner,19.0,19.0,19.72
+Stage 1,35,Yubo Deng,Momo Kodama,19.0,19.0,19.72
+Stage 1,35,Yubo Deng,Robert McDonald,20.0,20.0,19.72
+Stage 1,35,Yubo Deng,Piotr Paleczny,22.0,22.0,19.72
+Stage 1,35,Yubo Deng,Ewa Pobłocka,22.0,22.0,19.72
+Stage 1,35,Yubo Deng,K. Popowa-Zydroń,23.0,22.63,19.72
+Stage 1,35,Yubo Deng,John Rink,21.0,21.0,19.72
+Stage 1,35,Yubo Deng,Wojciech Świtała,15.0,16.63,19.72
+Stage 1,36,Mateusz Dubiel,Garrick Ohlsson,17.0,17.0,19.12
+Stage 1,36,Mateusz Dubiel,John Allison,20.0,20.0,19.12
+Stage 1,36,Mateusz Dubiel,Yulianna Avdeeva,20.0,20.0,19.12
+Stage 1,36,Mateusz Dubiel,Michel Beroff,21.0,21.0,19.12
+Stage 1,36,Mateusz Dubiel,Sa Chen,21.0,21.0,19.12
+Stage 1,36,Mateusz Dubiel,Dang Thai Son,18.0,18.0,19.12
+Stage 1,36,Mateusz Dubiel,Akiko Ebi,17.0,17.0,19.12
+Stage 1,36,Mateusz Dubiel,Nelson Goerner,21.0,21.0,19.12
+Stage 1,36,Mateusz Dubiel,Krzysztof Jabłoński,15.0,16.06,19.12
+Stage 1,36,Mateusz Dubiel,Kevin Kenner,19.0,19.0,19.12
+Stage 1,36,Mateusz Dubiel,Momo Kodama,19.0,19.0,19.12
+Stage 1,36,Mateusz Dubiel,Robert McDonald,16.0,16.06,19.12
+Stage 1,36,Mateusz Dubiel,Piotr Paleczny,21.0,21.0,19.12
+Stage 1,36,Mateusz Dubiel,Ewa Pobłocka,20.0,20.0,19.12
+Stage 1,36,Mateusz Dubiel,K. Popowa-Zydroń,20.0,20.0,19.12
+Stage 1,36,Mateusz Dubiel,John Rink,18.0,18.0,19.12
+Stage 1,36,Mateusz Dubiel,Wojciech Świtała,21.0,21.0,19.12
+Stage 1,37,Yu-Ang Fan,Garrick Ohlsson,12.0,14.82,17.71
+Stage 1,37,Yu-Ang Fan,John Allison,15.0,15.0,17.71
+Stage 1,37,Yu-Ang Fan,Yulianna Avdeeva,19.0,19.0,17.71
+Stage 1,37,Yu-Ang Fan,Michel Beroff,19.0,19.0,17.71
+Stage 1,37,Yu-Ang Fan,Sa Chen,22.0,20.82,17.71
+Stage 1,37,Yu-Ang Fan,Dang Thai Son,21.0,20.82,17.71
+Stage 1,37,Yu-Ang Fan,Akiko Ebi,16.0,16.0,17.71
+Stage 1,37,Yu-Ang Fan,Nelson Goerner,16.0,16.0,17.71
+Stage 1,37,Yu-Ang Fan,Krzysztof Jabłoński,15.0,15.0,17.71
+Stage 1,37,Yu-Ang Fan,Kevin Kenner,21.0,20.82,17.71
+Stage 1,37,Yu-Ang Fan,Momo Kodama,18.0,18.0,17.71
+Stage 1,37,Yu-Ang Fan,Robert McDonald,24.0,20.82,17.71
+Stage 1,37,Yu-Ang Fan,Piotr Paleczny,19.0,19.0,17.71
+Stage 1,37,Yu-Ang Fan,Ewa Pobłocka,17.0,17.0,17.71
+Stage 1,37,Yu-Ang Fan,K. Popowa-Zydroń,19.0,19.0,17.71
+Stage 1,37,Yu-Ang Fan,John Rink,15.0,15.0,17.71
+Stage 1,37,Yu-Ang Fan,Wojciech Świtała,15.0,15.0,17.71
+Stage 1,38,Alberto Ferro,Garrick Ohlsson,17.0,17.0,18.98
+Stage 1,38,Alberto Ferro,John Allison,15.0,15.94,18.98
+Stage 1,38,Alberto Ferro,Yulianna Avdeeva,21.0,21.0,18.98
+Stage 1,38,Alberto Ferro,Michel Beroff,22.0,21.94,18.98
+Stage 1,38,Alberto Ferro,Sa Chen,21.0,21.0,18.98
+Stage 1,38,Alberto Ferro,Dang Thai Son,17.0,17.0,18.98
+Stage 1,38,Alberto Ferro,Akiko Ebi,18.0,18.0,18.98
+Stage 1,38,Alberto Ferro,Nelson Goerner,22.0,21.94,18.98
+Stage 1,38,Alberto Ferro,Krzysztof Jabłoński,18.0,18.0,18.98
+Stage 1,38,Alberto Ferro,Kevin Kenner,15.0,15.94,18.98
+Stage 1,38,Alberto Ferro,Momo Kodama,23.0,21.94,18.98
+Stage 1,38,Alberto Ferro,Robert McDonald,19.0,19.0,18.98
+Stage 1,38,Alberto Ferro,Piotr Paleczny,18.0,18.0,18.98
+Stage 1,38,Alberto Ferro,Ewa Pobłocka,17.0,17.0,18.98
+Stage 1,38,Alberto Ferro,K. Popowa-Zydroń,20.0,20.0,18.98
+Stage 1,38,Alberto Ferro,John Rink,19.0,19.0,18.98
+Stage 1,38,Alberto Ferro,Wojciech Świtała,20.0,20.0,18.98
+Stage 1,39,Yang (Jack) Gao,Garrick Ohlsson,24.0,23.35,20.51
+Stage 1,39,Yang (Jack) Gao,John Allison,17.0,17.35,20.51
+Stage 1,39,Yang (Jack) Gao,Yulianna Avdeeva,20.0,20.0,20.51
+Stage 1,39,Yang (Jack) Gao,Michel Beroff,21.0,21.0,20.51
+Stage 1,39,Yang (Jack) Gao,Sa Chen,21.0,21.0,20.51
+Stage 1,39,Yang (Jack) Gao,Dang Thai Son,21.0,21.0,20.51
+Stage 1,39,Yang (Jack) Gao,Akiko Ebi,23.0,23.0,20.51
+Stage 1,39,Yang (Jack) Gao,Nelson Goerner,23.0,23.0,20.51
+Stage 1,39,Yang (Jack) Gao,Krzysztof Jabłoński,15.0,17.35,20.51
+Stage 1,39,Yang (Jack) Gao,Kevin Kenner,20.0,20.0,20.51
+Stage 1,39,Yang (Jack) Gao,Momo Kodama,19.0,19.0,20.51
+Stage 1,39,Yang (Jack) Gao,Robert McDonald,23.0,23.0,20.51
+Stage 1,39,Yang (Jack) Gao,Piotr Paleczny,18.0,18.0,20.51
+Stage 1,39,Yang (Jack) Gao,Ewa Pobłocka,19.0,19.0,20.51
+Stage 1,39,Yang (Jack) Gao,K. Popowa-Zydroń,24.0,23.35,20.51
+Stage 1,39,Yang (Jack) Gao,John Rink,22.0,22.0,20.51
+Stage 1,39,Yang (Jack) Gao,Wojciech Świtała,16.0,17.35,20.51
+Stage 1,40,Shuguang Gong,Garrick Ohlsson,18.0,18.0,18.91
+Stage 1,40,Shuguang Gong,John Allison,13.0,15.81,18.91
+Stage 1,40,Shuguang Gong,Yulianna Avdeeva,19.0,19.0,18.91
+Stage 1,40,Shuguang Gong,Michel Beroff,17.0,17.0,18.91
+Stage 1,40,Shuguang Gong,Sa Chen,21.0,21.0,18.91
+Stage 1,40,Shuguang Gong,Dang Thai Son,18.0,18.0,18.91
+Stage 1,40,Shuguang Gong,Akiko Ebi,21.0,21.0,18.91
+Stage 1,40,Shuguang Gong,Nelson Goerner,18.0,18.0,18.91
+Stage 1,40,Shuguang Gong,Krzysztof Jabłoński,19.0,19.0,18.91
+Stage 1,40,Shuguang Gong,Kevin Kenner,,,18.91
+Stage 1,40,Shuguang Gong,Momo Kodama,19.0,19.0,18.91
+Stage 1,40,Shuguang Gong,Robert McDonald,21.0,21.0,18.91
+Stage 1,40,Shuguang Gong,Piotr Paleczny,18.0,18.0,18.91
+Stage 1,40,Shuguang Gong,Ewa Pobłocka,16.0,16.0,18.91
+Stage 1,40,Shuguang Gong,K. Popowa-Zydroń,23.0,21.81,18.91
+Stage 1,40,Shuguang Gong,John Rink,19.0,19.0,18.91
+Stage 1,40,Shuguang Gong,Wojciech Świtała,21.0,21.0,18.91
+Stage 1,41,Eric Guo,Garrick Ohlsson,18.0,19.59,22.78
+Stage 1,41,Eric Guo,John Allison,22.0,22.0,22.78
+Stage 1,41,Eric Guo,Yulianna Avdeeva,24.0,24.0,22.78
+Stage 1,41,Eric Guo,Michel Beroff,24.0,24.0,22.78
+Stage 1,41,Eric Guo,Sa Chen,22.0,22.0,22.78
+Stage 1,41,Eric Guo,Dang Thai Son,22.0,22.0,22.78
+Stage 1,41,Eric Guo,Akiko Ebi,22.0,22.0,22.78
+Stage 1,41,Eric Guo,Nelson Goerner,25.0,25.0,22.78
+Stage 1,41,Eric Guo,Krzysztof Jabłoński,18.0,19.59,22.78
+Stage 1,41,Eric Guo,Kevin Kenner,22.0,22.0,22.78
+Stage 1,41,Eric Guo,Momo Kodama,25.0,25.0,22.78
+Stage 1,41,Eric Guo,Robert McDonald,22.0,22.0,22.78
+Stage 1,41,Eric Guo,Piotr Paleczny,24.0,24.0,22.78
+Stage 1,41,Eric Guo,Ewa Pobłocka,23.0,23.0,22.78
+Stage 1,41,Eric Guo,K. Popowa-Zydroń,23.0,23.0,22.78
+Stage 1,41,Eric Guo,John Rink,25.0,25.0,22.78
+Stage 1,41,Eric Guo,Wojciech Świtała,23.0,23.0,22.78
+Stage 1,42,Wei-Ting Hsieh,Garrick Ohlsson,14.0,15.88,19.02
+Stage 1,42,Wei-Ting Hsieh,John Allison,21.0,21.0,19.02
+Stage 1,42,Wei-Ting Hsieh,Yulianna Avdeeva,24.0,21.88,19.02
+Stage 1,42,Wei-Ting Hsieh,Michel Beroff,21.0,21.0,19.02
+Stage 1,42,Wei-Ting Hsieh,Sa Chen,21.0,21.0,19.02
+Stage 1,42,Wei-Ting Hsieh,Dang Thai Son,17.0,17.0,19.02
+Stage 1,42,Wei-Ting Hsieh,Akiko Ebi,22.0,21.88,19.02
+Stage 1,42,Wei-Ting Hsieh,Nelson Goerner,17.0,17.0,19.02
+Stage 1,42,Wei-Ting Hsieh,Krzysztof Jabłoński,14.0,15.88,19.02
+Stage 1,42,Wei-Ting Hsieh,Kevin Kenner,19.0,19.0,19.02
+Stage 1,42,Wei-Ting Hsieh,Momo Kodama,21.0,21.0,19.02
+Stage 1,42,Wei-Ting Hsieh,Robert McDonald,18.0,18.0,19.02
+Stage 1,42,Wei-Ting Hsieh,Piotr Paleczny,17.0,17.0,19.02
+Stage 1,42,Wei-Ting Hsieh,Ewa Pobłocka,15.0,15.88,19.02
+Stage 1,42,Wei-Ting Hsieh,K. Popowa-Zydroń,19.0,19.0,19.02
+Stage 1,42,Wei-Ting Hsieh,John Rink,21.0,21.0,19.02
+Stage 1,42,Wei-Ting Hsieh,Wojciech Świtała,20.0,20.0,19.02
+Stage 1,43,Xiaoyu Hu,Garrick Ohlsson,24.0,22.65,19.6
+Stage 1,43,Xiaoyu Hu,John Allison,13.0,16.65,19.6
+Stage 1,43,Xiaoyu Hu,Yulianna Avdeeva,25.0,22.65,19.6
+Stage 1,43,Xiaoyu Hu,Michel Beroff,17.0,17.0,19.6
+Stage 1,43,Xiaoyu Hu,Sa Chen,21.0,21.0,19.6
+Stage 1,43,Xiaoyu Hu,Dang Thai Son,24.0,22.65,19.6
+Stage 1,43,Xiaoyu Hu,Akiko Ebi,23.0,22.65,19.6
+Stage 1,43,Xiaoyu Hu,Nelson Goerner,16.0,16.65,19.6
+Stage 1,43,Xiaoyu Hu,Krzysztof Jabłoński,15.0,16.65,19.6
+Stage 1,43,Xiaoyu Hu,Kevin Kenner,20.0,20.0,19.6
+Stage 1,43,Xiaoyu Hu,Momo Kodama,19.0,19.0,19.6
+Stage 1,43,Xiaoyu Hu,Robert McDonald,16.0,16.65,19.6
+Stage 1,43,Xiaoyu Hu,Piotr Paleczny,19.0,19.0,19.6
+Stage 1,43,Xiaoyu Hu,Ewa Pobłocka,24.0,22.65,19.6
+Stage 1,43,Xiaoyu Hu,K. Popowa-Zydroń,24.0,22.65,19.6
+Stage 1,43,Xiaoyu Hu,John Rink,18.0,18.0,19.6
+Stage 1,43,Xiaoyu Hu,Wojciech Świtała,16.0,16.65,19.6
+Stage 1,44,Hasan Ignatov,Garrick Ohlsson,18.0,18.0,18.51
+Stage 1,44,Hasan Ignatov,John Allison,16.0,16.0,18.51
+Stage 1,44,Hasan Ignatov,Yulianna Avdeeva,22.0,21.53,18.51
+Stage 1,44,Hasan Ignatov,Michel Beroff,16.0,16.0,18.51
+Stage 1,44,Hasan Ignatov,Sa Chen,22.0,21.53,18.51
+Stage 1,44,Hasan Ignatov,Dang Thai Son,17.0,17.0,18.51
+Stage 1,44,Hasan Ignatov,Akiko Ebi,21.0,21.0,18.51
+Stage 1,44,Hasan Ignatov,Nelson Goerner,21.0,21.0,18.51
+Stage 1,44,Hasan Ignatov,Krzysztof Jabłoński,15.0,15.53,18.51
+Stage 1,44,Hasan Ignatov,Kevin Kenner,16.0,16.0,18.51
+Stage 1,44,Hasan Ignatov,Momo Kodama,19.0,19.0,18.51
+Stage 1,44,Hasan Ignatov,Robert McDonald,16.0,16.0,18.51
+Stage 1,44,Hasan Ignatov,Piotr Paleczny,18.0,18.0,18.51
+Stage 1,44,Hasan Ignatov,Ewa Pobłocka,20.0,20.0,18.51
+Stage 1,44,Hasan Ignatov,K. Popowa-Zydroń,19.0,19.0,18.51
+Stage 1,44,Hasan Ignatov,John Rink,20.0,20.0,18.51
+Stage 1,44,Hasan Ignatov,Wojciech Świtała,19.0,19.0,18.51
+Stage 1,45,Zihan Jin,Garrick Ohlsson,22.0,22.0,20.53
+Stage 1,45,Zihan Jin,John Allison,21.0,21.0,20.53
+Stage 1,45,Zihan Jin,Yulianna Avdeeva,23.0,23.0,20.53
+Stage 1,45,Zihan Jin,Michel Beroff,20.0,20.0,20.53
+Stage 1,45,Zihan Jin,Sa Chen,21.0,21.0,20.53
+Stage 1,45,Zihan Jin,Dang Thai Son,20.0,20.0,20.53
+Stage 1,45,Zihan Jin,Akiko Ebi,20.0,20.0,20.53
+Stage 1,45,Zihan Jin,Nelson Goerner,21.0,21.0,20.53
+Stage 1,45,Zihan Jin,Krzysztof Jabłoński,21.0,21.0,20.53
+Stage 1,45,Zihan Jin,Kevin Kenner,23.0,23.0,20.53
+Stage 1,45,Zihan Jin,Momo Kodama,19.0,19.0,20.53
+Stage 1,45,Zihan Jin,Robert McDonald,22.0,22.0,20.53
+Stage 1,45,Zihan Jin,Piotr Paleczny,18.0,18.0,20.53
+Stage 1,45,Zihan Jin,Ewa Pobłocka,21.0,21.0,20.53
+Stage 1,45,Zihan Jin,K. Popowa-Zydroń,18.0,18.0,20.53
+Stage 1,45,Zihan Jin,John Rink,19.0,19.0,20.53
+Stage 1,45,Zihan Jin,Wojciech Świtała,20.0,20.0,20.53
+Stage 1,46,Adam Kałduński,Garrick Ohlsson,22.0,22.0,21.44
+Stage 1,46,Adam Kałduński,John Allison,15.0,18.0,21.44
+Stage 1,46,Adam Kałduński,Yulianna Avdeeva,24.0,24.0,21.44
+Stage 1,46,Adam Kałduński,Michel Beroff,23.0,23.0,21.44
+Stage 1,46,Adam Kałduński,Sa Chen,23.0,23.0,21.44
+Stage 1,46,Adam Kałduński,Dang Thai Son,21.0,21.0,21.44
+Stage 1,46,Adam Kałduński,Akiko Ebi,25.0,24.0,21.44
+Stage 1,46,Adam Kałduński,Nelson Goerner,21.0,21.0,21.44
+Stage 1,46,Adam Kałduński,Krzysztof Jabłoński,15.0,18.0,21.44
+Stage 1,46,Adam Kałduński,Kevin Kenner,21.0,21.0,21.44
+Stage 1,46,Adam Kałduński,Momo Kodama,23.0,23.0,21.44
+Stage 1,46,Adam Kałduński,Robert McDonald,20.0,20.0,21.44
+Stage 1,46,Adam Kałduński,Piotr Paleczny,23.0,23.0,21.44
+Stage 1,46,Adam Kałduński,Ewa Pobłocka,16.0,18.0,21.44
+Stage 1,46,Adam Kałduński,K. Popowa-Zydroń,,,21.44
+Stage 1,46,Adam Kałduński,John Rink,23.0,23.0,21.44
+Stage 1,46,Adam Kałduński,Wojciech Świtała,21.0,21.0,21.44
+Stage 1,47,David Khrikuli,Garrick Ohlsson,18.0,18.0,20.52
+Stage 1,47,David Khrikuli,John Allison,21.0,21.0,20.52
+Stage 1,47,David Khrikuli,Yulianna Avdeeva,23.0,23.0,20.52
+Stage 1,47,David Khrikuli,Michel Beroff,23.0,23.0,20.52
+Stage 1,47,David Khrikuli,Sa Chen,23.0,23.0,20.52
+Stage 1,47,David Khrikuli,Dang Thai Son,24.0,23.29,20.52
+Stage 1,47,David Khrikuli,Akiko Ebi,22.0,22.0,20.52
+Stage 1,47,David Khrikuli,Nelson Goerner,19.0,19.0,20.52
+Stage 1,47,David Khrikuli,Krzysztof Jabłoński,15.0,17.29,20.52
+Stage 1,47,David Khrikuli,Kevin Kenner,19.0,19.0,20.52
+Stage 1,47,David Khrikuli,Momo Kodama,23.0,23.0,20.52
+Stage 1,47,David Khrikuli,Robert McDonald,19.0,19.0,20.52
+Stage 1,47,David Khrikuli,Piotr Paleczny,18.0,18.0,20.52
+Stage 1,47,David Khrikuli,Ewa Pobłocka,15.0,17.29,20.52
+Stage 1,47,David Khrikuli,K. Popowa-Zydroń,20.0,20.0,20.52
+Stage 1,47,David Khrikuli,John Rink,23.0,23.0,20.52
+Stage 1,47,David Khrikuli,Wojciech Świtała,20.0,20.0,20.52
+Stage 1,48,Antoni Kłeczek,Garrick Ohlsson,20.0,20.0,17.64
+Stage 1,48,Antoni Kłeczek,John Allison,14.0,14.53,17.64
+Stage 1,48,Antoni Kłeczek,Yulianna Avdeeva,18.0,18.0,17.64
+Stage 1,48,Antoni Kłeczek,Michel Beroff,16.0,16.0,17.64
+Stage 1,48,Antoni Kłeczek,Sa Chen,21.0,20.53,17.64
+Stage 1,48,Antoni Kłeczek,Dang Thai Son,16.0,16.0,17.64
+Stage 1,48,Antoni Kłeczek,Akiko Ebi,18.0,18.0,17.64
+Stage 1,48,Antoni Kłeczek,Nelson Goerner,20.0,20.0,17.64
+Stage 1,48,Antoni Kłeczek,Krzysztof Jabłoński,20.0,20.0,17.64
+Stage 1,48,Antoni Kłeczek,Kevin Kenner,15.0,15.0,17.64
+Stage 1,48,Antoni Kłeczek,Momo Kodama,19.0,19.0,17.64
+Stage 1,48,Antoni Kłeczek,Robert McDonald,19.0,19.0,17.64
+Stage 1,48,Antoni Kłeczek,Piotr Paleczny,,,17.64
+Stage 1,48,Antoni Kłeczek,Ewa Pobłocka,,,17.64
+Stage 1,48,Antoni Kłeczek,K. Popowa-Zydroń,18.0,18.0,17.64
+Stage 1,48,Antoni Kłeczek,John Rink,13.0,14.53,17.64
+Stage 1,48,Antoni Kłeczek,Wojciech Świtała,16.0,16.0,17.64
+Stage 1,49,Kaito Kobayashi,Garrick Ohlsson,21.0,21.0,18.96
+Stage 1,49,Kaito Kobayashi,John Allison,20.0,20.0,18.96
+Stage 1,49,Kaito Kobayashi,Yulianna Avdeeva,20.0,20.0,18.96
+Stage 1,49,Kaito Kobayashi,Michel Beroff,21.0,21.0,18.96
+Stage 1,49,Kaito Kobayashi,Sa Chen,21.0,21.0,18.96
+Stage 1,49,Kaito Kobayashi,Dang Thai Son,18.0,18.0,18.96
+Stage 1,49,Kaito Kobayashi,Akiko Ebi,20.0,20.0,18.96
+Stage 1,49,Kaito Kobayashi,Nelson Goerner,19.0,19.0,18.96
+Stage 1,49,Kaito Kobayashi,Krzysztof Jabłoński,12.0,15.76,18.96
+Stage 1,49,Kaito Kobayashi,Kevin Kenner,16.0,16.0,18.96
+Stage 1,49,Kaito Kobayashi,Momo Kodama,22.0,21.76,18.96
+Stage 1,49,Kaito Kobayashi,Robert McDonald,22.0,21.76,18.96
+Stage 1,49,Kaito Kobayashi,Piotr Paleczny,18.0,18.0,18.96
+Stage 1,49,Kaito Kobayashi,Ewa Pobłocka,20.0,20.0,18.96
+Stage 1,49,Kaito Kobayashi,K. Popowa-Zydroń,17.0,17.0,18.96
+Stage 1,49,Kaito Kobayashi,John Rink,16.0,16.0,18.96
+Stage 1,49,Kaito Kobayashi,Wojciech Świtała,16.0,16.0,18.96
+Stage 1,50,Mateusz Krzyżowski,Garrick Ohlsson,22.0,21.94,19.03
+Stage 1,50,Mateusz Krzyżowski,John Allison,13.0,15.94,19.03
+Stage 1,50,Mateusz Krzyżowski,Yulianna Avdeeva,22.0,21.94,19.03
+Stage 1,50,Mateusz Krzyżowski,Michel Beroff,19.0,19.0,19.03
+Stage 1,50,Mateusz Krzyżowski,Sa Chen,22.0,21.94,19.03
+Stage 1,50,Mateusz Krzyżowski,Dang Thai Son,23.0,21.94,19.03
+Stage 1,50,Mateusz Krzyżowski,Akiko Ebi,22.0,21.94,19.03
+Stage 1,50,Mateusz Krzyżowski,Nelson Goerner,18.0,18.0,19.03
+Stage 1,50,Mateusz Krzyżowski,Krzysztof Jabłoński,15.0,15.94,19.03
+Stage 1,50,Mateusz Krzyżowski,Kevin Kenner,17.0,17.0,19.03
+Stage 1,50,Mateusz Krzyżowski,Momo Kodama,17.0,17.0,19.03
+Stage 1,50,Mateusz Krzyżowski,Robert McDonald,16.0,16.0,19.03
+Stage 1,50,Mateusz Krzyżowski,Piotr Paleczny,23.0,21.94,19.03
+Stage 1,50,Mateusz Krzyżowski,Ewa Pobłocka,18.0,18.0,19.03
+Stage 1,50,Mateusz Krzyżowski,K. Popowa-Zydroń,20.0,20.0,19.03
+Stage 1,50,Mateusz Krzyżowski,John Rink,16.0,16.0,19.03
+Stage 1,50,Mateusz Krzyżowski,Wojciech Świtała,19.0,19.0,19.03
+Stage 1,51,Shiori Kuwahara,Garrick Ohlsson,22.0,22.0,22.03
+Stage 1,51,Shiori Kuwahara,John Allison,16.0,18.71,22.03
+Stage 1,51,Shiori Kuwahara,Yulianna Avdeeva,25.0,24.71,22.03
+Stage 1,51,Shiori Kuwahara,Michel Beroff,24.0,24.0,22.03
+Stage 1,51,Shiori Kuwahara,Sa Chen,24.0,24.0,22.03
+Stage 1,51,Shiori Kuwahara,Dang Thai Son,22.0,22.0,22.03
+Stage 1,51,Shiori Kuwahara,Akiko Ebi,23.0,23.0,22.03
+Stage 1,51,Shiori Kuwahara,Nelson Goerner,25.0,24.71,22.03
+Stage 1,51,Shiori Kuwahara,Krzysztof Jabłoński,16.0,18.71,22.03
+Stage 1,51,Shiori Kuwahara,Kevin Kenner,21.0,21.0,22.03
+Stage 1,51,Shiori Kuwahara,Momo Kodama,23.0,23.0,22.03
+Stage 1,51,Shiori Kuwahara,Robert McDonald,20.0,20.0,22.03
+Stage 1,51,Shiori Kuwahara,Piotr Paleczny,22.0,22.0,22.03
+Stage 1,51,Shiori Kuwahara,Ewa Pobłocka,24.0,24.0,22.03
+Stage 1,51,Shiori Kuwahara,K. Popowa-Zydroń,23.0,23.0,22.03
+Stage 1,51,Shiori Kuwahara,John Rink,18.0,18.71,22.03
+Stage 1,51,Shiori Kuwahara,Wojciech Świtała,21.0,21.0,22.03
+Stage 1,52,Shushi Kyomasu,Garrick Ohlsson,24.0,22.35,19.3
+Stage 1,52,Shushi Kyomasu,John Allison,15.0,16.35,19.3
+Stage 1,52,Shushi Kyomasu,Yulianna Avdeeva,19.0,19.0,19.3
+Stage 1,52,Shushi Kyomasu,Michel Beroff,19.0,19.0,19.3
+Stage 1,52,Shushi Kyomasu,Sa Chen,20.0,20.0,19.3
+Stage 1,52,Shushi Kyomasu,Dang Thai Son,17.0,17.0,19.3
+Stage 1,52,Shushi Kyomasu,Akiko Ebi,19.0,19.0,19.3
+Stage 1,52,Shushi Kyomasu,Nelson Goerner,19.0,19.0,19.3
+Stage 1,52,Shushi Kyomasu,Krzysztof Jabłoński,21.0,21.0,19.3
+Stage 1,52,Shushi Kyomasu,Kevin Kenner,19.0,19.0,19.3
+Stage 1,52,Shushi Kyomasu,Momo Kodama,21.0,21.0,19.3
+Stage 1,52,Shushi Kyomasu,Robert McDonald,18.0,18.0,19.3
+Stage 1,52,Shushi Kyomasu,Piotr Paleczny,18.0,18.0,19.3
+Stage 1,52,Shushi Kyomasu,Ewa Pobłocka,20.0,20.0,19.3
+Stage 1,52,Shushi Kyomasu,K. Popowa-Zydroń,23.0,22.35,19.3
+Stage 1,52,Shushi Kyomasu,John Rink,17.0,17.0,19.3
+Stage 1,52,Shushi Kyomasu,Wojciech Świtała,20.0,20.0,19.3
+Stage 1,53,Hyo Lee,Garrick Ohlsson,23.0,23.0,21.13
+Stage 1,53,Hyo Lee,John Allison,20.0,20.0,21.13
+Stage 1,53,Hyo Lee,Yulianna Avdeeva,21.0,21.0,21.13
+Stage 1,53,Hyo Lee,Michel Beroff,24.0,24.0,21.13
+Stage 1,53,Hyo Lee,Sa Chen,21.0,21.0,21.13
+Stage 1,53,Hyo Lee,Dang Thai Son,17.0,18.06,21.13
+Stage 1,53,Hyo Lee,Akiko Ebi,24.0,24.0,21.13
+Stage 1,53,Hyo Lee,Nelson Goerner,20.0,20.0,21.13
+Stage 1,53,Hyo Lee,Krzysztof Jabłoński,20.0,20.0,21.13
+Stage 1,53,Hyo Lee,Kevin Kenner,19.0,19.0,21.13
+Stage 1,53,Hyo Lee,Momo Kodama,21.0,21.0,21.13
+Stage 1,53,Hyo Lee,Robert McDonald,23.0,23.0,21.13
+Stage 1,53,Hyo Lee,Piotr Paleczny,23.0,23.0,21.13
+Stage 1,53,Hyo Lee,Ewa Pobłocka,,,21.13
+Stage 1,53,Hyo Lee,K. Popowa-Zydroń,19.0,19.0,21.13
+Stage 1,53,Hyo Lee,John Rink,22.0,22.0,21.13
+Stage 1,53,Hyo Lee,Wojciech Świtała,20.0,20.0,21.13
+Stage 1,54,Hyuk Lee,Garrick Ohlsson,20.0,20.0,21.13
+Stage 1,54,Hyuk Lee,John Allison,21.0,21.0,21.13
+Stage 1,54,Hyuk Lee,Yulianna Avdeeva,20.0,20.0,21.13
+Stage 1,54,Hyuk Lee,Michel Beroff,25.0,24.06,21.13
+Stage 1,54,Hyuk Lee,Sa Chen,21.0,21.0,21.13
+Stage 1,54,Hyuk Lee,Dang Thai Son,16.0,18.06,21.13
+Stage 1,54,Hyuk Lee,Akiko Ebi,22.0,22.0,21.13
+Stage 1,54,Hyuk Lee,Nelson Goerner,19.0,19.0,21.13
+Stage 1,54,Hyuk Lee,Krzysztof Jabłoński,22.0,22.0,21.13
+Stage 1,54,Hyuk Lee,Kevin Kenner,22.0,22.0,21.13
+Stage 1,54,Hyuk Lee,Momo Kodama,22.0,22.0,21.13
+Stage 1,54,Hyuk Lee,Robert McDonald,21.0,21.0,21.13
+Stage 1,54,Hyuk Lee,Piotr Paleczny,22.0,22.0,21.13
+Stage 1,54,Hyuk Lee,Ewa Pobłocka,,,21.13
+Stage 1,54,Hyuk Lee,K. Popowa-Zydroń,20.0,20.0,21.13
+Stage 1,54,Hyuk Lee,John Rink,23.0,23.0,21.13
+Stage 1,54,Hyuk Lee,Wojciech Świtała,21.0,21.0,21.13
+Stage 1,55,Kwanwook Lee,Garrick Ohlsson,19.0,19.0,19.87
+Stage 1,55,Kwanwook Lee,John Allison,18.0,18.0,19.87
+Stage 1,55,Kwanwook Lee,Yulianna Avdeeva,21.0,21.0,19.87
+Stage 1,55,Kwanwook Lee,Michel Beroff,23.0,22.88,19.87
+Stage 1,55,Kwanwook Lee,Sa Chen,21.0,21.0,19.87
+Stage 1,55,Kwanwook Lee,Dang Thai Son,21.0,21.0,19.87
+Stage 1,55,Kwanwook Lee,Akiko Ebi,22.0,22.0,19.87
+Stage 1,55,Kwanwook Lee,Nelson Goerner,18.0,18.0,19.87
+Stage 1,55,Kwanwook Lee,Krzysztof Jabłoński,23.0,22.88,19.87
+Stage 1,55,Kwanwook Lee,Kevin Kenner,21.0,21.0,19.87
+Stage 1,55,Kwanwook Lee,Momo Kodama,19.0,19.0,19.87
+Stage 1,55,Kwanwook Lee,Robert McDonald,19.0,19.0,19.87
+Stage 1,55,Kwanwook Lee,Piotr Paleczny,18.0,18.0,19.87
+Stage 1,55,Kwanwook Lee,Ewa Pobłocka,21.0,21.0,19.87
+Stage 1,55,Kwanwook Lee,K. Popowa-Zydroń,18.0,18.0,19.87
+Stage 1,55,Kwanwook Lee,John Rink,19.0,19.0,19.87
+Stage 1,55,Kwanwook Lee,Wojciech Świtała,17.0,17.0,19.87
+Stage 1,56,Luwangzi Li,Garrick Ohlsson,19.0,19.0,19.03
+Stage 1,56,Luwangzi Li,John Allison,17.0,17.0,19.03
+Stage 1,56,Luwangzi Li,Yulianna Avdeeva,19.0,19.0,19.03
+Stage 1,56,Luwangzi Li,Michel Beroff,21.0,21.0,19.03
+Stage 1,56,Luwangzi Li,Sa Chen,24.0,22.12,19.03
+Stage 1,56,Luwangzi Li,Dang Thai Son,15.0,16.12,19.03
+Stage 1,56,Luwangzi Li,Akiko Ebi,20.0,20.0,19.03
+Stage 1,56,Luwangzi Li,Nelson Goerner,17.0,17.0,19.03
+Stage 1,56,Luwangzi Li,Krzysztof Jabłoński,19.0,19.0,19.03
+Stage 1,56,Luwangzi Li,Kevin Kenner,22.0,22.0,19.03
+Stage 1,56,Luwangzi Li,Momo Kodama,18.0,18.0,19.03
+Stage 1,56,Luwangzi Li,Robert McDonald,23.0,22.12,19.03
+Stage 1,56,Luwangzi Li,Piotr Paleczny,19.0,19.0,19.03
+Stage 1,56,Luwangzi Li,Ewa Pobłocka,17.0,17.0,19.03
+Stage 1,56,Luwangzi Li,K. Popowa-Zydroń,22.0,22.0,19.03
+Stage 1,56,Luwangzi Li,John Rink,16.0,16.12,19.03
+Stage 1,56,Luwangzi Li,Wojciech Świtała,17.0,17.0,19.03
+Stage 1,57,Tianyou Li,Garrick Ohlsson,21.0,21.0,19.69
+Stage 1,57,Tianyou Li,John Allison,18.0,18.0,19.69
+Stage 1,57,Tianyou Li,Yulianna Avdeeva,20.0,20.0,19.69
+Stage 1,57,Tianyou Li,Michel Beroff,20.0,20.0,19.69
+Stage 1,57,Tianyou Li,Sa Chen,24.0,22.76,19.69
+Stage 1,57,Tianyou Li,Dang Thai Son,17.0,17.0,19.69
+Stage 1,57,Tianyou Li,Akiko Ebi,21.0,21.0,19.69
+Stage 1,57,Tianyou Li,Nelson Goerner,18.0,18.0,19.69
+Stage 1,57,Tianyou Li,Krzysztof Jabłoński,18.0,18.0,19.69
+Stage 1,57,Tianyou Li,Kevin Kenner,22.0,22.0,19.69
+Stage 1,57,Tianyou Li,Momo Kodama,20.0,20.0,19.69
+Stage 1,57,Tianyou Li,Robert McDonald,18.0,18.0,19.69
+Stage 1,57,Tianyou Li,Piotr Paleczny,18.0,18.0,19.69
+Stage 1,57,Tianyou Li,Ewa Pobłocka,22.0,22.0,19.69
+Stage 1,57,Tianyou Li,K. Popowa-Zydroń,22.0,22.0,19.69
+Stage 1,57,Tianyou Li,John Rink,20.0,20.0,19.69
+Stage 1,57,Tianyou Li,Wojciech Świtała,17.0,17.0,19.69
+Stage 1,58,Xiaoxuan Li,Garrick Ohlsson,15.0,17.69,20.88
+Stage 1,58,Xiaoxuan Li,John Allison,19.0,19.0,20.88
+Stage 1,58,Xiaoxuan Li,Yulianna Avdeeva,20.0,20.0,20.88
+Stage 1,58,Xiaoxuan Li,Michel Beroff,17.0,17.69,20.88
+Stage 1,58,Xiaoxuan Li,Sa Chen,24.0,23.69,20.88
+Stage 1,58,Xiaoxuan Li,Dang Thai Son,21.0,21.0,20.88
+Stage 1,58,Xiaoxuan Li,Akiko Ebi,23.0,23.0,20.88
+Stage 1,58,Xiaoxuan Li,Nelson Goerner,22.0,22.0,20.88
+Stage 1,58,Xiaoxuan Li,Krzysztof Jabłoński,17.0,17.69,20.88
+Stage 1,58,Xiaoxuan Li,Kevin Kenner,23.0,23.0,20.88
+Stage 1,58,Xiaoxuan Li,Momo Kodama,20.0,20.0,20.88
+Stage 1,58,Xiaoxuan Li,Robert McDonald,,,20.88
+Stage 1,58,Xiaoxuan Li,Piotr Paleczny,23.0,23.0,20.88
+Stage 1,58,Xiaoxuan Li,Ewa Pobłocka,24.0,23.69,20.88
+Stage 1,58,Xiaoxuan Li,K. Popowa-Zydroń,19.0,19.0,20.88
+Stage 1,58,Xiaoxuan Li,John Rink,24.0,23.69,20.88
+Stage 1,58,Xiaoxuan Li,Wojciech Świtała,20.0,20.0,20.88
+Stage 1,59,Zhexiang Li,Garrick Ohlsson,19.0,19.0,19.89
+Stage 1,59,Zhexiang Li,John Allison,19.0,19.0,19.89
+Stage 1,59,Zhexiang Li,Yulianna Avdeeva,21.0,21.0,19.89
+Stage 1,59,Zhexiang Li,Michel Beroff,17.0,17.0,19.89
+Stage 1,59,Zhexiang Li,Sa Chen,20.0,20.0,19.89
+Stage 1,59,Zhexiang Li,Dang Thai Son,23.0,22.82,19.89
+Stage 1,59,Zhexiang Li,Akiko Ebi,23.0,22.82,19.89
+Stage 1,59,Zhexiang Li,Nelson Goerner,15.0,16.82,19.89
+Stage 1,59,Zhexiang Li,Krzysztof Jabłoński,19.0,19.0,19.89
+Stage 1,59,Zhexiang Li,Kevin Kenner,21.0,21.0,19.89
+Stage 1,59,Zhexiang Li,Momo Kodama,21.0,21.0,19.89
+Stage 1,59,Zhexiang Li,Robert McDonald,21.0,21.0,19.89
+Stage 1,59,Zhexiang Li,Piotr Paleczny,24.0,22.82,19.89
+Stage 1,59,Zhexiang Li,Ewa Pobłocka,19.0,19.0,19.89
+Stage 1,59,Zhexiang Li,K. Popowa-Zydroń,16.0,16.82,19.89
+Stage 1,59,Zhexiang Li,John Rink,18.0,18.0,19.89
+Stage 1,59,Zhexiang Li,Wojciech Świtała,21.0,21.0,19.89
+Stage 1,60,Hao-Wei Lin,Garrick Ohlsson,10.0,13.94,17.22
+Stage 1,60,Hao-Wei Lin,John Allison,10.0,13.94,17.22
+Stage 1,60,Hao-Wei Lin,Yulianna Avdeeva,19.0,19.0,17.22
+Stage 1,60,Hao-Wei Lin,Michel Beroff,22.0,19.94,17.22
+Stage 1,60,Hao-Wei Lin,Sa Chen,21.0,19.94,17.22
+Stage 1,60,Hao-Wei Lin,Dang Thai Son,17.0,17.0,17.22
+Stage 1,60,Hao-Wei Lin,Akiko Ebi,19.0,19.0,17.22
+Stage 1,60,Hao-Wei Lin,Nelson Goerner,14.0,14.0,17.22
+Stage 1,60,Hao-Wei Lin,Krzysztof Jabłoński,17.0,17.0,17.22
+Stage 1,60,Hao-Wei Lin,Kevin Kenner,18.0,18.0,17.22
+Stage 1,60,Hao-Wei Lin,Momo Kodama,19.0,19.0,17.22
+Stage 1,60,Hao-Wei Lin,Robert McDonald,16.0,16.0,17.22
+Stage 1,60,Hao-Wei Lin,Piotr Paleczny,17.0,17.0,17.22
+Stage 1,60,Hao-Wei Lin,Ewa Pobłocka,19.0,19.0,17.22
+Stage 1,60,Hao-Wei Lin,K. Popowa-Zydroń,17.0,17.0,17.22
+Stage 1,60,Hao-Wei Lin,John Rink,18.0,18.0,17.22
+Stage 1,60,Hao-Wei Lin,Wojciech Świtała,15.0,15.0,17.22
+Stage 1,61,Pedro Lopez Salas,Garrick Ohlsson,8.0,12.24,15.33
+Stage 1,61,Pedro Lopez Salas,John Allison,9.0,12.24,15.33
+Stage 1,61,Pedro Lopez Salas,Yulianna Avdeeva,22.0,18.24,15.33
+Stage 1,61,Pedro Lopez Salas,Michel Beroff,16.0,16.0,15.33
+Stage 1,61,Pedro Lopez Salas,Sa Chen,20.0,18.24,15.33
+Stage 1,61,Pedro Lopez Salas,Dang Thai Son,14.0,14.0,15.33
+Stage 1,61,Pedro Lopez Salas,Akiko Ebi,16.0,16.0,15.33
+Stage 1,61,Pedro Lopez Salas,Nelson Goerner,12.0,12.24,15.33
+Stage 1,61,Pedro Lopez Salas,Krzysztof Jabłoński,16.0,16.0,15.33
+Stage 1,61,Pedro Lopez Salas,Kevin Kenner,19.0,18.24,15.33
+Stage 1,61,Pedro Lopez Salas,Momo Kodama,18.0,18.0,15.33
+Stage 1,61,Pedro Lopez Salas,Robert McDonald,16.0,16.0,15.33
+Stage 1,61,Pedro Lopez Salas,Piotr Paleczny,17.0,17.0,15.33
+Stage 1,61,Pedro Lopez Salas,Ewa Pobłocka,16.0,16.0,15.33
+Stage 1,61,Pedro Lopez Salas,K. Popowa-Zydroń,15.0,15.0,15.33
+Stage 1,61,Pedro Lopez Salas,John Rink,13.0,13.0,15.33
+Stage 1,61,Pedro Lopez Salas,Wojciech Świtała,12.0,12.24,15.33
+Stage 1,62,Eric Lu,Garrick Ohlsson,22.0,22.0,21.82
+Stage 1,62,Eric Lu,John Allison,19.0,19.0,21.82
+Stage 1,62,Eric Lu,Yulianna Avdeeva,23.0,23.0,21.82
+Stage 1,62,Eric Lu,Michel Beroff,24.0,24.0,21.82
+Stage 1,62,Eric Lu,Sa Chen,23.0,23.0,21.82
+Stage 1,62,Eric Lu,Dang Thai Son,,,21.82
+Stage 1,62,Eric Lu,Akiko Ebi,22.0,22.0,21.82
+Stage 1,62,Eric Lu,Nelson Goerner,21.0,21.0,21.82
+Stage 1,62,Eric Lu,Krzysztof Jabłoński,17.0,18.67,21.82
+Stage 1,62,Eric Lu,Kevin Kenner,21.0,21.0,21.82
+Stage 1,62,Eric Lu,Momo Kodama,24.0,24.0,21.82
+Stage 1,62,Eric Lu,Robert McDonald,,,21.82
+Stage 1,62,Eric Lu,Piotr Paleczny,24.0,24.0,21.82
+Stage 1,62,Eric Lu,Ewa Pobłocka,22.0,22.0,21.82
+Stage 1,62,Eric Lu,K. Popowa-Zydroń,18.0,18.67,21.82
+Stage 1,62,Eric Lu,John Rink,22.0,22.0,21.82
+Stage 1,62,Eric Lu,Wojciech Świtała,23.0,23.0,21.82
+Stage 1,63,Philipp Lynov,Garrick Ohlsson,20.0,20.0,21.0
+Stage 1,63,Philipp Lynov,John Allison,20.0,20.0,21.0
+Stage 1,63,Philipp Lynov,Yulianna Avdeeva,23.0,23.0,21.0
+Stage 1,63,Philipp Lynov,Michel Beroff,20.0,20.0,21.0
+Stage 1,63,Philipp Lynov,Sa Chen,23.0,23.0,21.0
+Stage 1,63,Philipp Lynov,Dang Thai Son,20.0,20.0,21.0
+Stage 1,63,Philipp Lynov,Akiko Ebi,23.0,23.0,21.0
+Stage 1,63,Philipp Lynov,Nelson Goerner,23.0,23.0,21.0
+Stage 1,63,Philipp Lynov,Krzysztof Jabłoński,20.0,20.0,21.0
+Stage 1,63,Philipp Lynov,Kevin Kenner,21.0,21.0,21.0
+Stage 1,63,Philipp Lynov,Momo Kodama,24.0,24.0,21.0
+Stage 1,63,Philipp Lynov,Robert McDonald,19.0,19.0,21.0
+Stage 1,63,Philipp Lynov,Piotr Paleczny,22.0,22.0,21.0
+Stage 1,63,Philipp Lynov,Ewa Pobłocka,22.0,22.0,21.0
+Stage 1,63,Philipp Lynov,K. Popowa-Zydroń,19.0,19.0,21.0
+Stage 1,63,Philipp Lynov,John Rink,19.0,19.0,21.0
+Stage 1,63,Philipp Lynov,Wojciech Świtała,19.0,19.0,21.0
+Stage 1,64,Tianyao Lyu,Garrick Ohlsson,20.0,20.0,22.06
+Stage 1,64,Tianyao Lyu,John Allison,16.0,18.88,22.06
+Stage 1,64,Tianyao Lyu,Yulianna Avdeeva,23.0,23.0,22.06
+Stage 1,64,Tianyao Lyu,Michel Beroff,22.0,22.0,22.06
+Stage 1,64,Tianyao Lyu,Sa Chen,22.0,22.0,22.06
+Stage 1,64,Tianyao Lyu,Dang Thai Son,23.0,23.0,22.06
+Stage 1,64,Tianyao Lyu,Akiko Ebi,23.0,23.0,22.06
+Stage 1,64,Tianyao Lyu,Nelson Goerner,19.0,19.0,22.06
+Stage 1,64,Tianyao Lyu,Krzysztof Jabłoński,24.0,24.0,22.06
+Stage 1,64,Tianyao Lyu,Kevin Kenner,23.0,23.0,22.06
+Stage 1,64,Tianyao Lyu,Momo Kodama,22.0,22.0,22.06
+Stage 1,64,Tianyao Lyu,Robert McDonald,23.0,23.0,22.06
+Stage 1,64,Tianyao Lyu,Piotr Paleczny,24.0,24.0,22.06
+Stage 1,64,Tianyao Lyu,Ewa Pobłocka,24.0,24.0,22.06
+Stage 1,64,Tianyao Lyu,K. Popowa-Zydroń,,,22.06
+Stage 1,64,Tianyao Lyu,John Rink,19.0,19.0,22.06
+Stage 1,64,Tianyao Lyu,Wojciech Świtała,23.0,23.0,22.06
+Stage 1,65,Tiankun Ma,Garrick Ohlsson,19.0,19.0,19.45
+Stage 1,65,Tiankun Ma,John Allison,18.0,18.0,19.45
+Stage 1,65,Tiankun Ma,Yulianna Avdeeva,24.0,22.65,19.45
+Stage 1,65,Tiankun Ma,Michel Beroff,25.0,22.65,19.45
+Stage 1,65,Tiankun Ma,Sa Chen,22.0,22.0,19.45
+Stage 1,65,Tiankun Ma,Dang Thai Son,19.0,19.0,19.45
+Stage 1,65,Tiankun Ma,Akiko Ebi,18.0,18.0,19.45
+Stage 1,65,Tiankun Ma,Nelson Goerner,20.0,20.0,19.45
+Stage 1,65,Tiankun Ma,Krzysztof Jabłoński,17.0,17.0,19.45
+Stage 1,65,Tiankun Ma,Kevin Kenner,20.0,20.0,19.45
+Stage 1,65,Tiankun Ma,Momo Kodama,23.0,22.65,19.45
+Stage 1,65,Tiankun Ma,Robert McDonald,20.0,20.0,19.45
+Stage 1,65,Tiankun Ma,Piotr Paleczny,18.0,18.0,19.45
+Stage 1,65,Tiankun Ma,Ewa Pobłocka,18.0,18.0,19.45
+Stage 1,65,Tiankun Ma,K. Popowa-Zydroń,19.0,19.0,19.45
+Stage 1,65,Tiankun Ma,John Rink,16.0,16.65,19.45
+Stage 1,65,Tiankun Ma,Wojciech Świtała,18.0,18.0,19.45
+Stage 1,66,Xuanyi Mao,Garrick Ohlsson,23.0,21.76,18.56
+Stage 1,66,Xuanyi Mao,John Allison,20.0,20.0,18.56
+Stage 1,66,Xuanyi Mao,Yulianna Avdeeva,24.0,21.76,18.56
+Stage 1,66,Xuanyi Mao,Michel Beroff,24.0,21.76,18.56
+Stage 1,66,Xuanyi Mao,Sa Chen,20.0,20.0,18.56
+Stage 1,66,Xuanyi Mao,Dang Thai Son,17.0,17.0,18.56
+Stage 1,66,Xuanyi Mao,Akiko Ebi,21.0,21.0,18.56
+Stage 1,66,Xuanyi Mao,Nelson Goerner,18.0,18.0,18.56
+Stage 1,66,Xuanyi Mao,Krzysztof Jabłoński,18.0,18.0,18.56
+Stage 1,66,Xuanyi Mao,Kevin Kenner,18.0,18.0,18.56
+Stage 1,66,Xuanyi Mao,Momo Kodama,17.0,17.0,18.56
+Stage 1,66,Xuanyi Mao,Robert McDonald,18.0,18.0,18.56
+Stage 1,66,Xuanyi Mao,Piotr Paleczny,20.0,20.0,18.56
+Stage 1,66,Xuanyi Mao,Ewa Pobłocka,15.0,15.76,18.56
+Stage 1,66,Xuanyi Mao,K. Popowa-Zydroń,15.0,15.76,18.56
+Stage 1,66,Xuanyi Mao,John Rink,15.0,15.76,18.56
+Stage 1,66,Xuanyi Mao,Wojciech Świtała,16.0,16.0,18.56
+Stage 1,67,Ruben Micieli,Garrick Ohlsson,23.0,23.0,20.61
+Stage 1,67,Ruben Micieli,John Allison,17.0,17.47,20.61
+Stage 1,67,Ruben Micieli,Yulianna Avdeeva,22.0,22.0,20.61
+Stage 1,67,Ruben Micieli,Michel Beroff,21.0,21.0,20.61
+Stage 1,67,Ruben Micieli,Sa Chen,24.0,23.47,20.61
+Stage 1,67,Ruben Micieli,Dang Thai Son,23.0,23.0,20.61
+Stage 1,67,Ruben Micieli,Akiko Ebi,23.0,23.0,20.61
+Stage 1,67,Ruben Micieli,Nelson Goerner,19.0,19.0,20.61
+Stage 1,67,Ruben Micieli,Krzysztof Jabłoński,19.0,19.0,20.61
+Stage 1,67,Ruben Micieli,Kevin Kenner,20.0,20.0,20.61
+Stage 1,67,Ruben Micieli,Momo Kodama,19.0,19.0,20.61
+Stage 1,67,Ruben Micieli,Robert McDonald,21.0,21.0,20.61
+Stage 1,67,Ruben Micieli,Piotr Paleczny,21.0,21.0,20.61
+Stage 1,67,Ruben Micieli,Ewa Pobłocka,15.0,17.47,20.61
+Stage 1,67,Ruben Micieli,K. Popowa-Zydroń,21.0,21.0,20.61
+Stage 1,67,Ruben Micieli,John Rink,21.0,21.0,20.61
+Stage 1,67,Ruben Micieli,Wojciech Świtała,19.0,19.0,20.61
+Stage 1,68,Nathalia Milstein,Garrick Ohlsson,24.0,24.0,21.26
+Stage 1,68,Nathalia Milstein,John Allison,21.0,21.0,21.26
+Stage 1,68,Nathalia Milstein,Yulianna Avdeeva,22.0,22.0,21.26
+Stage 1,68,Nathalia Milstein,Michel Beroff,22.0,22.0,21.26
+Stage 1,68,Nathalia Milstein,Sa Chen,23.0,23.0,21.26
+Stage 1,68,Nathalia Milstein,Dang Thai Son,18.0,18.12,21.26
+Stage 1,68,Nathalia Milstein,Akiko Ebi,24.0,24.0,21.26
+Stage 1,68,Nathalia Milstein,Nelson Goerner,25.0,24.12,21.26
+Stage 1,68,Nathalia Milstein,Krzysztof Jabłoński,16.0,18.12,21.26
+Stage 1,68,Nathalia Milstein,Kevin Kenner,17.0,18.12,21.26
+Stage 1,68,Nathalia Milstein,Momo Kodama,23.0,23.0,21.26
+Stage 1,68,Nathalia Milstein,Robert McDonald,21.0,21.0,21.26
+Stage 1,68,Nathalia Milstein,Piotr Paleczny,19.0,19.0,21.26
+Stage 1,68,Nathalia Milstein,Ewa Pobłocka,19.0,19.0,21.26
+Stage 1,68,Nathalia Milstein,K. Popowa-Zydroń,21.0,21.0,21.26
+Stage 1,68,Nathalia Milstein,John Rink,24.0,24.0,21.26
+Stage 1,68,Nathalia Milstein,Wojciech Świtała,20.0,20.0,21.26
+Stage 1,69,Yumeka Nakagawa,Garrick Ohlsson,17.0,17.0,19.78
+Stage 1,69,Yumeka Nakagawa,John Allison,16.0,16.82,19.78
+Stage 1,69,Yumeka Nakagawa,Yulianna Avdeeva,21.0,21.0,19.78
+Stage 1,69,Yumeka Nakagawa,Michel Beroff,22.0,22.0,19.78
+Stage 1,69,Yumeka Nakagawa,Sa Chen,23.0,22.82,19.78
+Stage 1,69,Yumeka Nakagawa,Dang Thai Son,17.0,17.0,19.78
+Stage 1,69,Yumeka Nakagawa,Akiko Ebi,23.0,22.82,19.78
+Stage 1,69,Yumeka Nakagawa,Nelson Goerner,17.0,17.0,19.78
+Stage 1,69,Yumeka Nakagawa,Krzysztof Jabłoński,17.0,17.0,19.78
+Stage 1,69,Yumeka Nakagawa,Kevin Kenner,19.0,19.0,19.78
+Stage 1,69,Yumeka Nakagawa,Momo Kodama,22.0,22.0,19.78
+Stage 1,69,Yumeka Nakagawa,Robert McDonald,24.0,22.82,19.78
+Stage 1,69,Yumeka Nakagawa,Piotr Paleczny,20.0,20.0,19.78
+Stage 1,69,Yumeka Nakagawa,Ewa Pobłocka,22.0,22.0,19.78
+Stage 1,69,Yumeka Nakagawa,K. Popowa-Zydroń,21.0,21.0,19.78
+Stage 1,69,Yumeka Nakagawa,John Rink,18.0,18.0,19.78
+Stage 1,69,Yumeka Nakagawa,Wojciech Świtała,18.0,18.0,19.78
+Stage 1,70,Yulia Nakashima,Garrick Ohlsson,17.0,17.0,17.56
+Stage 1,70,Yulia Nakashima,John Allison,18.0,18.0,17.56
+Stage 1,70,Yulia Nakashima,Yulianna Avdeeva,20.0,20.0,17.56
+Stage 1,70,Yulia Nakashima,Michel Beroff,17.0,17.0,17.56
+Stage 1,70,Yulia Nakashima,Sa Chen,20.0,20.0,17.56
+Stage 1,70,Yulia Nakashima,Dang Thai Son,17.0,17.0,17.56
+Stage 1,70,Yulia Nakashima,Akiko Ebi,19.0,19.0,17.56
+Stage 1,70,Yulia Nakashima,Nelson Goerner,16.0,16.0,17.56
+Stage 1,70,Yulia Nakashima,Krzysztof Jabłoński,16.0,16.0,17.56
+Stage 1,70,Yulia Nakashima,Kevin Kenner,15.0,15.0,17.56
+Stage 1,70,Yulia Nakashima,Momo Kodama,20.0,20.0,17.56
+Stage 1,70,Yulia Nakashima,Robert McDonald,19.0,19.0,17.56
+Stage 1,70,Yulia Nakashima,Piotr Paleczny,18.0,18.0,17.56
+Stage 1,70,Yulia Nakashima,Ewa Pobłocka,14.0,14.53,17.56
+Stage 1,70,Yulia Nakashima,K. Popowa-Zydroń,18.0,18.0,17.56
+Stage 1,70,Yulia Nakashima,John Rink,16.0,16.0,17.56
+Stage 1,70,Yulia Nakashima,Wojciech Świtała,18.0,18.0,17.56
+Stage 1,71,Viet Trung Nguyen,Garrick Ohlsson,17.0,17.0,19.37
+Stage 1,71,Viet Trung Nguyen,John Allison,20.0,20.0,19.37
+Stage 1,71,Viet Trung Nguyen,Yulianna Avdeeva,22.0,22.0,19.37
+Stage 1,71,Viet Trung Nguyen,Michel Beroff,18.0,18.0,19.37
+Stage 1,71,Viet Trung Nguyen,Sa Chen,21.0,21.0,19.37
+Stage 1,71,Viet Trung Nguyen,Dang Thai Son,,,19.37
+Stage 1,71,Viet Trung Nguyen,Akiko Ebi,18.0,18.0,19.37
+Stage 1,71,Viet Trung Nguyen,Nelson Goerner,14.0,16.21,19.37
+Stage 1,71,Viet Trung Nguyen,Krzysztof Jabłoński,20.0,20.0,19.37
+Stage 1,71,Viet Trung Nguyen,Kevin Kenner,,,19.37
+Stage 1,71,Viet Trung Nguyen,Momo Kodama,21.0,21.0,19.37
+Stage 1,71,Viet Trung Nguyen,Robert McDonald,22.0,22.0,19.37
+Stage 1,71,Viet Trung Nguyen,Piotr Paleczny,19.0,19.0,19.37
+Stage 1,71,Viet Trung Nguyen,Ewa Pobłocka,20.0,20.0,19.37
+Stage 1,71,Viet Trung Nguyen,K. Popowa-Zydroń,,,19.37
+Stage 1,71,Viet Trung Nguyen,John Rink,20.0,20.0,19.37
+Stage 1,71,Viet Trung Nguyen,Wojciech Świtała,17.0,17.0,19.37
+Stage 1,72,Yuya Nishimoto,Garrick Ohlsson,18.0,18.0,18.84
+Stage 1,72,Yuya Nishimoto,John Allison,16.0,16.0,18.84
+Stage 1,72,Yuya Nishimoto,Yulianna Avdeeva,21.0,21.0,18.84
+Stage 1,72,Yuya Nishimoto,Michel Beroff,20.0,20.0,18.84
+Stage 1,72,Yuya Nishimoto,Sa Chen,21.0,21.0,18.84
+Stage 1,72,Yuya Nishimoto,Dang Thai Son,16.0,16.0,18.84
+Stage 1,72,Yuya Nishimoto,Akiko Ebi,19.0,19.0,18.84
+Stage 1,72,Yuya Nishimoto,Nelson Goerner,13.0,15.81,18.84
+Stage 1,72,Yuya Nishimoto,Krzysztof Jabłoński,20.0,20.0,18.84
+Stage 1,72,Yuya Nishimoto,Kevin Kenner,16.0,16.0,18.84
+Stage 1,72,Yuya Nishimoto,Momo Kodama,24.0,21.81,18.84
+Stage 1,72,Yuya Nishimoto,Robert McDonald,20.0,20.0,18.84
+Stage 1,72,Yuya Nishimoto,Piotr Paleczny,22.0,21.81,18.84
+Stage 1,72,Yuya Nishimoto,Ewa Pobłocka,16.0,16.0,18.84
+Stage 1,72,Yuya Nishimoto,K. Popowa-Zydroń,18.0,18.0,18.84
+Stage 1,72,Yuya Nishimoto,John Rink,21.0,21.0,18.84
+Stage 1,72,Yuya Nishimoto,Wojciech Świtała,,,18.84
+Stage 1,73,Vincent Ong,Garrick Ohlsson,21.0,21.0,22.07
+Stage 1,73,Vincent Ong,John Allison,11.0,18.53,22.07
+Stage 1,73,Vincent Ong,Yulianna Avdeeva,22.0,22.0,22.07
+Stage 1,73,Vincent Ong,Michel Beroff,19.0,19.0,22.07
+Stage 1,73,Vincent Ong,Sa Chen,24.0,24.0,22.07
+Stage 1,73,Vincent Ong,Dang Thai Son,24.0,24.0,22.07
+Stage 1,73,Vincent Ong,Akiko Ebi,23.0,23.0,22.07
+Stage 1,73,Vincent Ong,Nelson Goerner,24.0,24.0,22.07
+Stage 1,73,Vincent Ong,Krzysztof Jabłoński,24.0,24.0,22.07
+Stage 1,73,Vincent Ong,Kevin Kenner,25.0,24.53,22.07
+Stage 1,73,Vincent Ong,Momo Kodama,24.0,24.0,22.07
+Stage 1,73,Vincent Ong,Robert McDonald,24.0,24.0,22.07
+Stage 1,73,Vincent Ong,Piotr Paleczny,18.0,18.53,22.07
+Stage 1,73,Vincent Ong,Ewa Pobłocka,23.0,23.0,22.07
+Stage 1,73,Vincent Ong,K. Popowa-Zydroń,22.0,22.0,22.07
+Stage 1,73,Vincent Ong,John Rink,17.0,18.53,22.07
+Stage 1,73,Vincent Ong,Wojciech Świtała,21.0,21.0,22.07
+Stage 1,74,Arisa Onoda,Garrick Ohlsson,17.0,17.0,17.63
+Stage 1,74,Arisa Onoda,John Allison,14.0,14.5,17.63
+Stage 1,74,Arisa Onoda,Yulianna Avdeeva,18.0,18.0,17.63
+Stage 1,74,Arisa Onoda,Michel Beroff,17.0,17.0,17.63
+Stage 1,74,Arisa Onoda,Sa Chen,21.0,20.5,17.63
+Stage 1,74,Arisa Onoda,Dang Thai Son,,,17.63
+Stage 1,74,Arisa Onoda,Akiko Ebi,20.0,20.0,17.63
+Stage 1,74,Arisa Onoda,Nelson Goerner,13.0,14.5,17.63
+Stage 1,74,Arisa Onoda,Krzysztof Jabłoński,14.0,14.5,17.63
+Stage 1,74,Arisa Onoda,Kevin Kenner,20.0,20.0,17.63
+Stage 1,74,Arisa Onoda,Momo Kodama,19.0,19.0,17.63
+Stage 1,74,Arisa Onoda,Robert McDonald,19.0,19.0,17.63
+Stage 1,74,Arisa Onoda,Piotr Paleczny,18.0,18.0,17.63
+Stage 1,74,Arisa Onoda,Ewa Pobłocka,18.0,18.0,17.63
+Stage 1,74,Arisa Onoda,K. Popowa-Zydroń,16.0,16.0,17.63
+Stage 1,74,Arisa Onoda,John Rink,19.0,19.0,17.63
+Stage 1,74,Arisa Onoda,Wojciech Świtała,17.0,17.0,17.63
+Stage 1,75,Piotr Pawlak,Garrick Ohlsson,24.0,23.59,20.92
+Stage 1,75,Piotr Pawlak,John Allison,24.0,23.59,20.92
+Stage 1,75,Piotr Pawlak,Yulianna Avdeeva,25.0,23.59,20.92
+Stage 1,75,Piotr Pawlak,Michel Beroff,22.0,22.0,20.92
+Stage 1,75,Piotr Pawlak,Sa Chen,21.0,21.0,20.92
+Stage 1,75,Piotr Pawlak,Dang Thai Son,17.0,17.59,20.92
+Stage 1,75,Piotr Pawlak,Akiko Ebi,24.0,23.59,20.92
+Stage 1,75,Piotr Pawlak,Nelson Goerner,19.0,19.0,20.92
+Stage 1,75,Piotr Pawlak,Krzysztof Jabłoński,12.0,17.59,20.92
+Stage 1,75,Piotr Pawlak,Kevin Kenner,15.0,17.59,20.92
+Stage 1,75,Piotr Pawlak,Momo Kodama,20.0,20.0,20.92
+Stage 1,75,Piotr Pawlak,Robert McDonald,23.0,23.0,20.92
+Stage 1,75,Piotr Pawlak,Piotr Paleczny,23.0,23.0,20.92
+Stage 1,75,Piotr Pawlak,Ewa Pobłocka,19.0,19.0,20.92
+Stage 1,75,Piotr Pawlak,K. Popowa-Zydroń,19.0,19.0,20.92
+Stage 1,75,Piotr Pawlak,John Rink,24.0,23.59,20.92
+Stage 1,75,Piotr Pawlak,Wojciech Świtała,19.0,19.0,20.92
+Stage 1,76,Yehuda Prokopowicz,Garrick Ohlsson,24.0,23.59,20.73
+Stage 1,76,Yehuda Prokopowicz,John Allison,20.0,20.0,20.73
+Stage 1,76,Yehuda Prokopowicz,Yulianna Avdeeva,23.0,23.0,20.73
+Stage 1,76,Yehuda Prokopowicz,Michel Beroff,23.0,23.0,20.73
+Stage 1,76,Yehuda Prokopowicz,Sa Chen,24.0,23.59,20.73
+Stage 1,76,Yehuda Prokopowicz,Dang Thai Son,17.0,17.59,20.73
+Stage 1,76,Yehuda Prokopowicz,Akiko Ebi,21.0,21.0,20.73
+Stage 1,76,Yehuda Prokopowicz,Nelson Goerner,19.0,19.0,20.73
+Stage 1,76,Yehuda Prokopowicz,Krzysztof Jabłoński,15.0,17.59,20.73
+Stage 1,76,Yehuda Prokopowicz,Kevin Kenner,19.0,19.0,20.73
+Stage 1,76,Yehuda Prokopowicz,Momo Kodama,20.0,20.0,20.73
+Stage 1,76,Yehuda Prokopowicz,Robert McDonald,19.0,19.0,20.73
+Stage 1,76,Yehuda Prokopowicz,Piotr Paleczny,23.0,23.0,20.73
+Stage 1,76,Yehuda Prokopowicz,Ewa Pobłocka,20.0,20.0,20.73
+Stage 1,76,Yehuda Prokopowicz,K. Popowa-Zydroń,22.0,22.0,20.73
+Stage 1,76,Yehuda Prokopowicz,John Rink,22.0,22.0,20.73
+Stage 1,76,Yehuda Prokopowicz,Wojciech Świtała,19.0,19.0,20.73
+Stage 1,77,Hao Rao,Garrick Ohlsson,17.0,18.12,21.27
+Stage 1,77,Hao Rao,John Allison,15.0,18.12,21.27
+Stage 1,77,Hao Rao,Yulianna Avdeeva,24.0,24.0,21.27
+Stage 1,77,Hao Rao,Michel Beroff,23.0,23.0,21.27
+Stage 1,77,Hao Rao,Sa Chen,21.0,21.0,21.27
+Stage 1,77,Hao Rao,Dang Thai Son,18.0,18.12,21.27
+Stage 1,77,Hao Rao,Akiko Ebi,21.0,21.0,21.27
+Stage 1,77,Hao Rao,Nelson Goerner,25.0,24.12,21.27
+Stage 1,77,Hao Rao,Krzysztof Jabłoński,19.0,19.0,21.27
+Stage 1,77,Hao Rao,Kevin Kenner,21.0,21.0,21.27
+Stage 1,77,Hao Rao,Momo Kodama,20.0,20.0,21.27
+Stage 1,77,Hao Rao,Robert McDonald,20.0,20.0,21.27
+Stage 1,77,Hao Rao,Piotr Paleczny,25.0,24.12,21.27
+Stage 1,77,Hao Rao,Ewa Pobłocka,23.0,23.0,21.27
+Stage 1,77,Hao Rao,K. Popowa-Zydroń,24.0,24.0,21.27
+Stage 1,77,Hao Rao,John Rink,19.0,19.0,21.27
+Stage 1,77,Hao Rao,Wojciech Świtała,24.0,24.0,21.27
+Stage 1,78,Anthony Ratinov,Garrick Ohlsson,23.0,23.0,21.06
+Stage 1,78,Anthony Ratinov,John Allison,18.0,18.0,21.06
+Stage 1,78,Anthony Ratinov,Yulianna Avdeeva,23.0,23.0,21.06
+Stage 1,78,Anthony Ratinov,Michel Beroff,21.0,21.0,21.06
+Stage 1,78,Anthony Ratinov,Sa Chen,22.0,22.0,21.06
+Stage 1,78,Anthony Ratinov,Dang Thai Son,16.0,17.94,21.06
+Stage 1,78,Anthony Ratinov,Akiko Ebi,23.0,23.0,21.06
+Stage 1,78,Anthony Ratinov,Nelson Goerner,18.0,18.0,21.06
+Stage 1,78,Anthony Ratinov,Krzysztof Jabłoński,19.0,19.0,21.06
+Stage 1,78,Anthony Ratinov,Kevin Kenner,18.0,18.0,21.06
+Stage 1,78,Anthony Ratinov,Momo Kodama,23.0,23.0,21.06
+Stage 1,78,Anthony Ratinov,Robert McDonald,,,21.06
+Stage 1,78,Anthony Ratinov,Piotr Paleczny,22.0,22.0,21.06
+Stage 1,78,Anthony Ratinov,Ewa Pobłocka,24.0,23.94,21.06
+Stage 1,78,Anthony Ratinov,K. Popowa-Zydroń,23.0,23.0,21.06
+Stage 1,78,Anthony Ratinov,John Rink,20.0,20.0,21.06
+Stage 1,78,Anthony Ratinov,Wojciech Świtała,22.0,22.0,21.06
+Stage 1,79,Zuzanna Sejbuk,Garrick Ohlsson,18.0,18.0,17.72
+Stage 1,79,Zuzanna Sejbuk,John Allison,17.0,17.0,17.72
+Stage 1,79,Zuzanna Sejbuk,Yulianna Avdeeva,19.0,19.0,17.72
+Stage 1,79,Zuzanna Sejbuk,Michel Beroff,16.0,16.0,17.72
+Stage 1,79,Zuzanna Sejbuk,Sa Chen,20.0,20.0,17.72
+Stage 1,79,Zuzanna Sejbuk,Dang Thai Son,16.0,16.0,17.72
+Stage 1,79,Zuzanna Sejbuk,Akiko Ebi,17.0,17.0,17.72
+Stage 1,79,Zuzanna Sejbuk,Nelson Goerner,15.0,15.0,17.72
+Stage 1,79,Zuzanna Sejbuk,Krzysztof Jabłoński,15.0,15.0,17.72
+Stage 1,79,Zuzanna Sejbuk,Kevin Kenner,17.0,17.0,17.72
+Stage 1,79,Zuzanna Sejbuk,Momo Kodama,20.0,20.0,17.72
+Stage 1,79,Zuzanna Sejbuk,Robert McDonald,22.0,20.76,17.72
+Stage 1,79,Zuzanna Sejbuk,Piotr Paleczny,21.0,20.76,17.72
+Stage 1,79,Zuzanna Sejbuk,Ewa Pobłocka,17.0,17.0,17.72
+Stage 1,79,Zuzanna Sejbuk,K. Popowa-Zydroń,19.0,19.0,17.72
+Stage 1,79,Zuzanna Sejbuk,John Rink,14.0,14.76,17.72
+Stage 1,79,Zuzanna Sejbuk,Wojciech Świtała,19.0,19.0,17.72
+Stage 1,80,Jun Shimada,Garrick Ohlsson,19.0,19.0,19.25
+Stage 1,80,Jun Shimada,John Allison,17.0,17.0,19.25
+Stage 1,80,Jun Shimada,Yulianna Avdeeva,21.0,21.0,19.25
+Stage 1,80,Jun Shimada,Michel Beroff,22.0,22.0,19.25
+Stage 1,80,Jun Shimada,Sa Chen,21.0,21.0,19.25
+Stage 1,80,Jun Shimada,Dang Thai Son,19.0,19.0,19.25
+Stage 1,80,Jun Shimada,Akiko Ebi,22.0,22.0,19.25
+Stage 1,80,Jun Shimada,Nelson Goerner,18.0,18.0,19.25
+Stage 1,80,Jun Shimada,Krzysztof Jabłoński,16.0,16.24,19.25
+Stage 1,80,Jun Shimada,Kevin Kenner,19.0,19.0,19.25
+Stage 1,80,Jun Shimada,Momo Kodama,20.0,20.0,19.25
+Stage 1,80,Jun Shimada,Robert McDonald,22.0,22.0,19.25
+Stage 1,80,Jun Shimada,Piotr Paleczny,18.0,18.0,19.25
+Stage 1,80,Jun Shimada,Ewa Pobłocka,18.0,18.0,19.25
+Stage 1,80,Jun Shimada,K. Popowa-Zydroń,20.0,20.0,19.25
+Stage 1,80,Jun Shimada,John Rink,17.0,17.0,19.25
+Stage 1,80,Jun Shimada,Wojciech Świtała,18.0,18.0,19.25
+Stage 1,81,Miyu Shindo,Garrick Ohlsson,20.0,20.0,21.92
+Stage 1,81,Miyu Shindo,John Allison,18.0,18.82,21.92
+Stage 1,81,Miyu Shindo,Yulianna Avdeeva,21.0,21.0,21.92
+Stage 1,81,Miyu Shindo,Michel Beroff,24.0,24.0,21.92
+Stage 1,81,Miyu Shindo,Sa Chen,23.0,23.0,21.92
+Stage 1,81,Miyu Shindo,Dang Thai Son,23.0,23.0,21.92
+Stage 1,81,Miyu Shindo,Akiko Ebi,24.0,24.0,21.92
+Stage 1,81,Miyu Shindo,Nelson Goerner,20.0,20.0,21.92
+Stage 1,81,Miyu Shindo,Krzysztof Jabłoński,18.0,18.82,21.92
+Stage 1,81,Miyu Shindo,Kevin Kenner,24.0,24.0,21.92
+Stage 1,81,Miyu Shindo,Momo Kodama,22.0,22.0,21.92
+Stage 1,81,Miyu Shindo,Robert McDonald,22.0,22.0,21.92
+Stage 1,81,Miyu Shindo,Piotr Paleczny,23.0,23.0,21.92
+Stage 1,81,Miyu Shindo,Ewa Pobłocka,22.0,22.0,21.92
+Stage 1,81,Miyu Shindo,K. Popowa-Zydroń,22.0,22.0,21.92
+Stage 1,81,Miyu Shindo,John Rink,22.0,22.0,21.92
+Stage 1,81,Miyu Shindo,Wojciech Świtała,23.0,23.0,21.92
+Stage 1,82,Mana Shoji,Garrick Ohlsson,18.0,18.0,18.93
+Stage 1,82,Mana Shoji,John Allison,16.0,16.0,18.93
+Stage 1,82,Mana Shoji,Yulianna Avdeeva,20.0,20.0,18.93
+Stage 1,82,Mana Shoji,Michel Beroff,16.0,16.0,18.93
+Stage 1,82,Mana Shoji,Sa Chen,21.0,21.0,18.93
+Stage 1,82,Mana Shoji,Dang Thai Son,18.0,18.0,18.93
+Stage 1,82,Mana Shoji,Akiko Ebi,19.0,19.0,18.93
+Stage 1,82,Mana Shoji,Nelson Goerner,16.0,16.0,18.93
+Stage 1,82,Mana Shoji,Krzysztof Jabłoński,16.0,16.0,18.93
+Stage 1,82,Mana Shoji,Kevin Kenner,22.0,21.94,18.93
+Stage 1,82,Mana Shoji,Momo Kodama,21.0,21.0,18.93
+Stage 1,82,Mana Shoji,Robert McDonald,22.0,21.94,18.93
+Stage 1,82,Mana Shoji,Piotr Paleczny,18.0,18.0,18.93
+Stage 1,82,Mana Shoji,Ewa Pobłocka,18.0,18.0,18.93
+Stage 1,82,Mana Shoji,K. Popowa-Zydroń,,,18.93
+Stage 1,82,Mana Shoji,John Rink,22.0,21.94,18.93
+Stage 1,82,Mana Shoji,Wojciech Świtała,20.0,20.0,18.93
+Stage 1,83,Gabriele Strata,Garrick Ohlsson,16.0,16.65,19.84
+Stage 1,83,Gabriele Strata,John Allison,20.0,20.0,19.84
+Stage 1,83,Gabriele Strata,Yulianna Avdeeva,22.0,22.0,19.84
+Stage 1,83,Gabriele Strata,Michel Beroff,15.0,16.65,19.84
+Stage 1,83,Gabriele Strata,Sa Chen,19.0,19.0,19.84
+Stage 1,83,Gabriele Strata,Dang Thai Son,24.0,22.65,19.84
+Stage 1,83,Gabriele Strata,Akiko Ebi,22.0,22.0,19.84
+Stage 1,83,Gabriele Strata,Nelson Goerner,19.0,19.0,19.84
+Stage 1,83,Gabriele Strata,Krzysztof Jabłoński,14.0,16.65,19.84
+Stage 1,83,Gabriele Strata,Kevin Kenner,20.0,20.0,19.84
+Stage 1,83,Gabriele Strata,Momo Kodama,19.0,19.0,19.84
+Stage 1,83,Gabriele Strata,Robert McDonald,20.0,20.0,19.84
+Stage 1,83,Gabriele Strata,Piotr Paleczny,18.0,18.0,19.84
+Stage 1,83,Gabriele Strata,Ewa Pobłocka,22.0,22.0,19.84
+Stage 1,83,Gabriele Strata,K. Popowa-Zydroń,21.0,21.0,19.84
+Stage 1,83,Gabriele Strata,John Rink,23.0,22.65,19.84
+Stage 1,83,Gabriele Strata,Wojciech Świtała,20.0,20.0,19.84
+Stage 1,84,Eva Strejcova,Garrick Ohlsson,17.0,17.0,18.11
+Stage 1,84,Eva Strejcova,John Allison,21.0,21.0,18.11
+Stage 1,84,Eva Strejcova,Yulianna Avdeeva,20.0,20.0,18.11
+Stage 1,84,Eva Strejcova,Michel Beroff,15.0,15.18,18.11
+Stage 1,84,Eva Strejcova,Sa Chen,21.0,21.0,18.11
+Stage 1,84,Eva Strejcova,Dang Thai Son,16.0,16.0,18.11
+Stage 1,84,Eva Strejcova,Akiko Ebi,24.0,21.18,18.11
+Stage 1,84,Eva Strejcova,Nelson Goerner,16.0,16.0,18.11
+Stage 1,84,Eva Strejcova,Krzysztof Jabłoński,13.0,15.18,18.11
+Stage 1,84,Eva Strejcova,Kevin Kenner,16.0,16.0,18.11
+Stage 1,84,Eva Strejcova,Momo Kodama,20.0,20.0,18.11
+Stage 1,84,Eva Strejcova,Robert McDonald,16.0,16.0,18.11
+Stage 1,84,Eva Strejcova,Piotr Paleczny,20.0,20.0,18.11
+Stage 1,84,Eva Strejcova,Ewa Pobłocka,15.0,15.18,18.11
+Stage 1,84,Eva Strejcova,K. Popowa-Zydroń,22.0,21.18,18.11
+Stage 1,84,Eva Strejcova,John Rink,19.0,19.0,18.11
+Stage 1,84,Eva Strejcova,Wojciech Świtała,18.0,18.0,18.11
+Stage 2,20,Jacky Zhang,Garrick Ohlsson,19.0,19.0,18.8
+Stage 2,20,Jacky Zhang,John Allison,19.0,19.0,18.8
+Stage 2,20,Jacky Zhang,Yulianna Avdeeva,20.0,20.0,18.8
+Stage 2,20,Jacky Zhang,Michel Beroff,21.0,20.88,18.8
+Stage 2,20,Jacky Zhang,Sa Chen,20.0,20.0,18.8
+Stage 2,20,Jacky Zhang,Dang Thai Son,19.0,19.0,18.8
+Stage 2,20,Jacky Zhang,Akiko Ebi,18.0,18.0,18.8
+Stage 2,20,Jacky Zhang,Nelson Goerner,18.0,18.0,18.8
+Stage 2,20,Jacky Zhang,Krzysztof Jabłoński,16.0,16.88,18.8
+Stage 2,20,Jacky Zhang,Kevin Kenner,18.0,18.0,18.8
+Stage 2,20,Jacky Zhang,Momo Kodama,18.0,18.0,18.8
+Stage 2,20,Jacky Zhang,Robert McDonald,19.0,19.0,18.8
+Stage 2,20,Jacky Zhang,Piotr Paleczny,23.0,20.88,18.8
+Stage 2,20,Jacky Zhang,Ewa Pobłocka,19.0,19.0,18.8
+Stage 2,20,Jacky Zhang,K. Popowa-Zydroń,17.0,17.0,18.8
+Stage 2,20,Jacky Zhang,John Rink,18.0,18.0,18.8
+Stage 2,20,Jacky Zhang,Wojciech Świtała,19.0,19.0,18.8
+Stage 2,24,Piotr Alexewicz,Garrick Ohlsson,19.0,19.0,21.08
+Stage 2,24,Piotr Alexewicz,John Allison,23.0,22.88,21.08
+Stage 2,24,Piotr Alexewicz,Yulianna Avdeeva,22.0,22.0,21.08
+Stage 2,24,Piotr Alexewicz,Michel Beroff,22.0,22.0,21.08
+Stage 2,24,Piotr Alexewicz,Sa Chen,22.0,22.0,21.08
+Stage 2,24,Piotr Alexewicz,Dang Thai Son,19.0,19.0,21.08
+Stage 2,24,Piotr Alexewicz,Akiko Ebi,23.0,22.88,21.08
+Stage 2,24,Piotr Alexewicz,Nelson Goerner,23.0,22.88,21.08
+Stage 2,24,Piotr Alexewicz,Krzysztof Jabłoński,17.0,18.88,21.08
+Stage 2,24,Piotr Alexewicz,Kevin Kenner,17.0,18.88,21.08
+Stage 2,24,Piotr Alexewicz,Momo Kodama,22.0,22.0,21.08
+Stage 2,24,Piotr Alexewicz,Robert McDonald,21.0,21.0,21.08
+Stage 2,24,Piotr Alexewicz,Piotr Paleczny,21.0,21.0,21.08
+Stage 2,24,Piotr Alexewicz,Ewa Pobłocka,21.0,21.0,21.08
+Stage 2,24,Piotr Alexewicz,K. Popowa-Zydroń,21.0,21.0,21.08
+Stage 2,24,Piotr Alexewicz,John Rink,21.0,21.0,21.08
+Stage 2,24,Piotr Alexewicz,Wojciech Świtała,21.0,21.0,21.08
+Stage 2,25,Jonas Aumiller,Garrick Ohlsson,19.0,19.0,19.81
+Stage 2,25,Jonas Aumiller,John Allison,20.0,20.0,19.81
+Stage 2,25,Jonas Aumiller,Yulianna Avdeeva,21.0,21.0,19.81
+Stage 2,25,Jonas Aumiller,Michel Beroff,20.0,20.0,19.81
+Stage 2,25,Jonas Aumiller,Sa Chen,21.0,21.0,19.81
+Stage 2,25,Jonas Aumiller,Dang Thai Son,22.0,21.76,19.81
+Stage 2,25,Jonas Aumiller,Akiko Ebi,23.0,21.76,19.81
+Stage 2,25,Jonas Aumiller,Nelson Goerner,22.0,21.76,19.81
+Stage 2,25,Jonas Aumiller,Krzysztof Jabłoński,18.0,18.0,19.81
+Stage 2,25,Jonas Aumiller,Kevin Kenner,17.0,17.76,19.81
+Stage 2,25,Jonas Aumiller,Momo Kodama,21.0,21.0,19.81
+Stage 2,25,Jonas Aumiller,Robert McDonald,20.0,20.0,19.81
+Stage 2,25,Jonas Aumiller,Piotr Paleczny,19.0,19.0,19.81
+Stage 2,25,Jonas Aumiller,Ewa Pobłocka,19.0,19.0,19.81
+Stage 2,25,Jonas Aumiller,K. Popowa-Zydroń,16.0,17.76,19.81
+Stage 2,25,Jonas Aumiller,John Rink,20.0,20.0,19.81
+Stage 2,25,Jonas Aumiller,Wojciech Świtała,18.0,18.0,19.81
+Stage 2,26,Yanyan Bao,Garrick Ohlsson,18.0,18.0,18.82
+Stage 2,26,Yanyan Bao,John Allison,18.0,18.0,18.82
+Stage 2,26,Yanyan Bao,Yulianna Avdeeva,21.0,21.0,18.82
+Stage 2,26,Yanyan Bao,Michel Beroff,19.0,19.0,18.82
+Stage 2,26,Yanyan Bao,Sa Chen,23.0,21.0,18.82
+Stage 2,26,Yanyan Bao,Dang Thai Son,17.0,17.0,18.82
+Stage 2,26,Yanyan Bao,Akiko Ebi,18.0,18.0,18.82
+Stage 2,26,Yanyan Bao,Nelson Goerner,18.0,18.0,18.82
+Stage 2,26,Yanyan Bao,Krzysztof Jabłoński,17.0,17.0,18.82
+Stage 2,26,Yanyan Bao,Kevin Kenner,19.0,19.0,18.82
+Stage 2,26,Yanyan Bao,Momo Kodama,16.0,17.0,18.82
+Stage 2,26,Yanyan Bao,Robert McDonald,19.0,19.0,18.82
+Stage 2,26,Yanyan Bao,Piotr Paleczny,22.0,21.0,18.82
+Stage 2,26,Yanyan Bao,Ewa Pobłocka,17.0,17.0,18.82
+Stage 2,26,Yanyan Bao,K. Popowa-Zydroń,19.0,19.0,18.82
+Stage 2,26,Yanyan Bao,John Rink,20.0,20.0,18.82
+Stage 2,26,Yanyan Bao,Wojciech Świtała,22.0,21.0,18.82
+Stage 2,28,Kai-Min Chang,Garrick Ohlsson,21.0,21.0,20.52
+Stage 2,28,Kai-Min Chang,John Allison,20.0,20.0,20.52
+Stage 2,28,Kai-Min Chang,Yulianna Avdeeva,20.0,20.0,20.52
+Stage 2,28,Kai-Min Chang,Michel Beroff,21.0,21.0,20.52
+Stage 2,28,Kai-Min Chang,Sa Chen,23.0,22.56,20.52
+Stage 2,28,Kai-Min Chang,Dang Thai Son,,,20.52
+Stage 2,28,Kai-Min Chang,Akiko Ebi,18.0,18.56,20.52
+Stage 2,28,Kai-Min Chang,Nelson Goerner,22.0,22.0,20.52
+Stage 2,28,Kai-Min Chang,Krzysztof Jabłoński,19.0,19.0,20.52
+Stage 2,28,Kai-Min Chang,Kevin Kenner,21.0,21.0,20.52
+Stage 2,28,Kai-Min Chang,Momo Kodama,20.0,20.0,20.52
+Stage 2,28,Kai-Min Chang,Robert McDonald,20.0,20.0,20.52
+Stage 2,28,Kai-Min Chang,Piotr Paleczny,18.0,18.56,20.52
+Stage 2,28,Kai-Min Chang,Ewa Pobłocka,24.0,22.56,20.52
+Stage 2,28,Kai-Min Chang,K. Popowa-Zydroń,20.0,20.0,20.52
+Stage 2,28,Kai-Min Chang,John Rink,22.0,22.0,20.52
+Stage 2,28,Kai-Min Chang,Wojciech Świtała,20.0,20.0,20.52
+Stage 2,29,Kevin Chen,Garrick Ohlsson,20.0,20.24,22.41
+Stage 2,29,Kevin Chen,John Allison,22.0,22.0,22.41
+Stage 2,29,Kevin Chen,Yulianna Avdeeva,23.0,23.0,22.41
+Stage 2,29,Kevin Chen,Michel Beroff,24.0,24.0,22.41
+Stage 2,29,Kevin Chen,Sa Chen,24.0,24.0,22.41
+Stage 2,29,Kevin Chen,Dang Thai Son,19.0,20.24,22.41
+Stage 2,29,Kevin Chen,Akiko Ebi,23.0,23.0,22.41
+Stage 2,29,Kevin Chen,Nelson Goerner,23.0,23.0,22.41
+Stage 2,29,Kevin Chen,Krzysztof Jabłoński,24.0,24.0,22.41
+Stage 2,29,Kevin Chen,Kevin Kenner,24.0,24.0,22.41
+Stage 2,29,Kevin Chen,Momo Kodama,23.0,23.0,22.41
+Stage 2,29,Kevin Chen,Robert McDonald,22.0,22.0,22.41
+Stage 2,29,Kevin Chen,Piotr Paleczny,22.0,22.0,22.41
+Stage 2,29,Kevin Chen,Ewa Pobłocka,20.0,20.24,22.41
+Stage 2,29,Kevin Chen,K. Popowa-Zydroń,19.0,20.24,22.41
+Stage 2,29,Kevin Chen,John Rink,22.0,22.0,22.41
+Stage 2,29,Kevin Chen,Wojciech Świtała,24.0,24.0,22.41
+Stage 2,30,Xuehong Chen,Garrick Ohlsson,18.0,18.0,19.9
+Stage 2,30,Xuehong Chen,John Allison,19.0,19.0,19.9
+Stage 2,30,Xuehong Chen,Yulianna Avdeeva,21.0,21.0,19.9
+Stage 2,30,Xuehong Chen,Michel Beroff,20.0,20.0,19.9
+Stage 2,30,Xuehong Chen,Sa Chen,21.0,21.0,19.9
+Stage 2,30,Xuehong Chen,Dang Thai Son,19.0,19.0,19.9
+Stage 2,30,Xuehong Chen,Akiko Ebi,23.0,21.88,19.9
+Stage 2,30,Xuehong Chen,Nelson Goerner,19.0,19.0,19.9
+Stage 2,30,Xuehong Chen,Krzysztof Jabłoński,19.0,19.0,19.9
+Stage 2,30,Xuehong Chen,Kevin Kenner,20.0,20.0,19.9
+Stage 2,30,Xuehong Chen,Momo Kodama,17.0,17.88,19.9
+Stage 2,30,Xuehong Chen,Robert McDonald,22.0,21.88,19.9
+Stage 2,30,Xuehong Chen,Piotr Paleczny,22.0,21.88,19.9
+Stage 2,30,Xuehong Chen,Ewa Pobłocka,17.0,17.88,19.9
+Stage 2,30,Xuehong Chen,K. Popowa-Zydroń,22.0,21.88,19.9
+Stage 2,30,Xuehong Chen,John Rink,18.0,18.0,19.9
+Stage 2,30,Xuehong Chen,Wojciech Świtała,21.0,21.0,19.9
+Stage 2,31,Zixi Chen,Garrick Ohlsson,22.0,21.24,19.29
+Stage 2,31,Zixi Chen,John Allison,16.0,17.24,19.29
+Stage 2,31,Zixi Chen,Yulianna Avdeeva,21.0,21.0,19.29
+Stage 2,31,Zixi Chen,Michel Beroff,21.0,21.0,19.29
+Stage 2,31,Zixi Chen,Sa Chen,21.0,21.0,19.29
+Stage 2,31,Zixi Chen,Dang Thai Son,17.0,17.24,19.29
+Stage 2,31,Zixi Chen,Akiko Ebi,18.0,18.0,19.29
+Stage 2,31,Zixi Chen,Nelson Goerner,22.0,21.24,19.29
+Stage 2,31,Zixi Chen,Krzysztof Jabłoński,19.0,19.0,19.29
+Stage 2,31,Zixi Chen,Kevin Kenner,21.0,21.0,19.29
+Stage 2,31,Zixi Chen,Momo Kodama,22.0,21.24,19.29
+Stage 2,31,Zixi Chen,Robert McDonald,21.0,21.0,19.29
+Stage 2,31,Zixi Chen,Piotr Paleczny,17.0,17.24,19.29
+Stage 2,31,Zixi Chen,Ewa Pobłocka,16.0,17.24,19.29
+Stage 2,31,Zixi Chen,K. Popowa-Zydroń,18.0,18.0,19.29
+Stage 2,31,Zixi Chen,John Rink,17.0,17.24,19.29
+Stage 2,31,Zixi Chen,Wojciech Świtała,18.0,18.0,19.29
+Stage 2,35,Yubo Deng,Garrick Ohlsson,17.0,17.06,19.09
+Stage 2,35,Yubo Deng,John Allison,15.0,17.06,19.09
+Stage 2,35,Yubo Deng,Yulianna Avdeeva,20.0,20.0,19.09
+Stage 2,35,Yubo Deng,Michel Beroff,19.0,19.0,19.09
+Stage 2,35,Yubo Deng,Sa Chen,22.0,21.06,19.09
+Stage 2,35,Yubo Deng,Dang Thai Son,,,19.09
+Stage 2,35,Yubo Deng,Akiko Ebi,23.0,21.06,19.09
+Stage 2,35,Yubo Deng,Nelson Goerner,22.0,21.06,19.09
+Stage 2,35,Yubo Deng,Krzysztof Jabłoński,18.0,18.0,19.09
+Stage 2,35,Yubo Deng,Kevin Kenner,17.0,17.06,19.09
+Stage 2,35,Yubo Deng,Momo Kodama,19.0,19.0,19.09
+Stage 2,35,Yubo Deng,Robert McDonald,19.0,19.0,19.09
+Stage 2,35,Yubo Deng,Piotr Paleczny,21.0,21.0,19.09
+Stage 2,35,Yubo Deng,Ewa Pobłocka,21.0,21.0,19.09
+Stage 2,35,Yubo Deng,K. Popowa-Zydroń,20.0,20.0,19.09
+Stage 2,35,Yubo Deng,John Rink,16.0,17.06,19.09
+Stage 2,35,Yubo Deng,Wojciech Świtała,16.0,17.06,19.09
+Stage 2,39,Yang (Jack) Gao,Garrick Ohlsson,25.0,23.0,21.18
+Stage 2,39,Yang (Jack) Gao,John Allison,17.0,19.0,21.18
+Stage 2,39,Yang (Jack) Gao,Yulianna Avdeeva,20.0,20.0,21.18
+Stage 2,39,Yang (Jack) Gao,Michel Beroff,21.0,21.0,21.18
+Stage 2,39,Yang (Jack) Gao,Sa Chen,24.0,23.0,21.18
+Stage 2,39,Yang (Jack) Gao,Dang Thai Son,18.0,19.0,21.18
+Stage 2,39,Yang (Jack) Gao,Akiko Ebi,23.0,23.0,21.18
+Stage 2,39,Yang (Jack) Gao,Nelson Goerner,24.0,23.0,21.18
+Stage 2,39,Yang (Jack) Gao,Krzysztof Jabłoński,17.0,19.0,21.18
+Stage 2,39,Yang (Jack) Gao,Kevin Kenner,20.0,20.0,21.18
+Stage 2,39,Yang (Jack) Gao,Momo Kodama,23.0,23.0,21.18
+Stage 2,39,Yang (Jack) Gao,Robert McDonald,23.0,23.0,21.18
+Stage 2,39,Yang (Jack) Gao,Piotr Paleczny,16.0,19.0,21.18
+Stage 2,39,Yang (Jack) Gao,Ewa Pobłocka,24.0,23.0,21.18
+Stage 2,39,Yang (Jack) Gao,K. Popowa-Zydroń,20.0,20.0,21.18
+Stage 2,39,Yang (Jack) Gao,John Rink,24.0,23.0,21.18
+Stage 2,39,Yang (Jack) Gao,Wojciech Świtała,18.0,19.0,21.18
+Stage 2,41,Eric Guo,Garrick Ohlsson,18.0,18.41,20.32
+Stage 2,41,Eric Guo,John Allison,19.0,19.0,20.32
+Stage 2,41,Eric Guo,Yulianna Avdeeva,22.0,22.0,20.32
+Stage 2,41,Eric Guo,Michel Beroff,24.0,22.41,20.32
+Stage 2,41,Eric Guo,Sa Chen,21.0,21.0,20.32
+Stage 2,41,Eric Guo,Dang Thai Son,18.0,18.41,20.32
+Stage 2,41,Eric Guo,Akiko Ebi,18.0,18.41,20.32
+Stage 2,41,Eric Guo,Nelson Goerner,22.0,22.0,20.32
+Stage 2,41,Eric Guo,Krzysztof Jabłoński,20.0,20.0,20.32
+Stage 2,41,Eric Guo,Kevin Kenner,20.0,20.0,20.32
+Stage 2,41,Eric Guo,Momo Kodama,24.0,22.41,20.32
+Stage 2,41,Eric Guo,Robert McDonald,21.0,21.0,20.32
+Stage 2,41,Eric Guo,Piotr Paleczny,20.0,20.0,20.32
+Stage 2,41,Eric Guo,Ewa Pobłocka,21.0,21.0,20.32
+Stage 2,41,Eric Guo,K. Popowa-Zydroń,18.0,18.41,20.32
+Stage 2,41,Eric Guo,John Rink,22.0,22.0,20.32
+Stage 2,41,Eric Guo,Wojciech Świtała,19.0,19.0,20.32
+Stage 2,43,Xiaoyu Hu,Garrick Ohlsson,20.0,20.0,18.81
+Stage 2,43,Xiaoyu Hu,John Allison,20.0,20.0,18.81
+Stage 2,43,Xiaoyu Hu,Yulianna Avdeeva,22.0,20.94,18.81
+Stage 2,43,Xiaoyu Hu,Michel Beroff,18.0,18.0,18.81
+Stage 2,43,Xiaoyu Hu,Sa Chen,21.0,20.94,18.81
+Stage 2,43,Xiaoyu Hu,Dang Thai Son,18.0,18.0,18.81
+Stage 2,43,Xiaoyu Hu,Akiko Ebi,17.0,17.0,18.81
+Stage 2,43,Xiaoyu Hu,Nelson Goerner,17.0,17.0,18.81
+Stage 2,43,Xiaoyu Hu,Krzysztof Jabłoński,17.0,17.0,18.81
+Stage 2,43,Xiaoyu Hu,Kevin Kenner,20.0,20.0,18.81
+Stage 2,43,Xiaoyu Hu,Momo Kodama,18.0,18.0,18.81
+Stage 2,43,Xiaoyu Hu,Robert McDonald,20.0,20.0,18.81
+Stage 2,43,Xiaoyu Hu,Piotr Paleczny,20.0,20.0,18.81
+Stage 2,43,Xiaoyu Hu,Ewa Pobłocka,22.0,20.94,18.81
+Stage 2,43,Xiaoyu Hu,K. Popowa-Zydroń,18.0,18.0,18.81
+Stage 2,43,Xiaoyu Hu,John Rink,17.0,17.0,18.81
+Stage 2,43,Xiaoyu Hu,Wojciech Świtała,17.0,17.0,18.81
+Stage 2,45,Zihan Jin,Garrick Ohlsson,21.0,21.0,19.14
+Stage 2,45,Zihan Jin,John Allison,22.0,21.06,19.14
+Stage 2,45,Zihan Jin,Yulianna Avdeeva,20.0,20.0,19.14
+Stage 2,45,Zihan Jin,Michel Beroff,18.0,18.0,19.14
+Stage 2,45,Zihan Jin,Sa Chen,20.0,20.0,19.14
+Stage 2,45,Zihan Jin,Dang Thai Son,20.0,20.0,19.14
+Stage 2,45,Zihan Jin,Akiko Ebi,17.0,17.06,19.14
+Stage 2,45,Zihan Jin,Nelson Goerner,21.0,21.0,19.14
+Stage 2,45,Zihan Jin,Krzysztof Jabłoński,21.0,21.0,19.14
+Stage 2,45,Zihan Jin,Kevin Kenner,22.0,21.06,19.14
+Stage 2,45,Zihan Jin,Momo Kodama,16.0,17.06,19.14
+Stage 2,45,Zihan Jin,Robert McDonald,21.0,21.0,19.14
+Stage 2,45,Zihan Jin,Piotr Paleczny,16.0,17.06,19.14
+Stage 2,45,Zihan Jin,Ewa Pobłocka,18.0,18.0,19.14
+Stage 2,45,Zihan Jin,K. Popowa-Zydroń,16.0,17.06,19.14
+Stage 2,45,Zihan Jin,John Rink,18.0,18.0,19.14
+Stage 2,45,Zihan Jin,Wojciech Świtała,17.0,17.06,19.14
+Stage 2,46,Adam Kałduński,Garrick Ohlsson,21.0,21.0,19.72
+Stage 2,46,Adam Kałduński,John Allison,16.0,17.63,19.72
+Stage 2,46,Adam Kałduński,Yulianna Avdeeva,22.0,21.63,19.72
+Stage 2,46,Adam Kałduński,Michel Beroff,21.0,21.0,19.72
+Stage 2,46,Adam Kałduński,Sa Chen,20.0,20.0,19.72
+Stage 2,46,Adam Kałduński,Dang Thai Son,18.0,18.0,19.72
+Stage 2,46,Adam Kałduński,Akiko Ebi,20.0,20.0,19.72
+Stage 2,46,Adam Kałduński,Nelson Goerner,20.0,20.0,19.72
+Stage 2,46,Adam Kałduński,Krzysztof Jabłoński,17.0,17.63,19.72
+Stage 2,46,Adam Kałduński,Kevin Kenner,18.0,18.0,19.72
+Stage 2,46,Adam Kałduński,Momo Kodama,20.0,20.0,19.72
+Stage 2,46,Adam Kałduński,Robert McDonald,21.0,21.0,19.72
+Stage 2,46,Adam Kałduński,Piotr Paleczny,21.0,21.0,19.72
+Stage 2,46,Adam Kałduński,Ewa Pobłocka,18.0,18.0,19.72
+Stage 2,46,Adam Kałduński,K. Popowa-Zydroń,,,19.72
+Stage 2,46,Adam Kałduński,John Rink,22.0,21.63,19.72
+Stage 2,46,Adam Kałduński,Wojciech Świtała,19.0,19.0,19.72
+Stage 2,47,David Khrikuli,Garrick Ohlsson,17.0,19.0,21.35
+Stage 2,47,David Khrikuli,John Allison,24.0,23.0,21.35
+Stage 2,47,David Khrikuli,Yulianna Avdeeva,23.0,23.0,21.35
+Stage 2,47,David Khrikuli,Michel Beroff,24.0,23.0,21.35
+Stage 2,47,David Khrikuli,Sa Chen,23.0,23.0,21.35
+Stage 2,47,David Khrikuli,Dang Thai Son,22.0,22.0,21.35
+Stage 2,47,David Khrikuli,Akiko Ebi,23.0,23.0,21.35
+Stage 2,47,David Khrikuli,Nelson Goerner,24.0,23.0,21.35
+Stage 2,47,David Khrikuli,Krzysztof Jabłoński,19.0,19.0,21.35
+Stage 2,47,David Khrikuli,Kevin Kenner,23.0,23.0,21.35
+Stage 2,47,David Khrikuli,Momo Kodama,23.0,23.0,21.35
+Stage 2,47,David Khrikuli,Robert McDonald,18.0,19.0,21.35
+Stage 2,47,David Khrikuli,Piotr Paleczny,19.0,19.0,21.35
+Stage 2,47,David Khrikuli,Ewa Pobłocka,12.0,19.0,21.35
+Stage 2,47,David Khrikuli,K. Popowa-Zydroń,19.0,19.0,21.35
+Stage 2,47,David Khrikuli,John Rink,24.0,23.0,21.35
+Stage 2,47,David Khrikuli,Wojciech Świtała,20.0,20.0,21.35
+Stage 2,51,Shiori Kuwahara,Garrick Ohlsson,21.0,21.0,21.28
+Stage 2,51,Shiori Kuwahara,John Allison,20.0,20.0,21.28
+Stage 2,51,Shiori Kuwahara,Yulianna Avdeeva,22.0,22.0,21.28
+Stage 2,51,Shiori Kuwahara,Michel Beroff,24.0,23.12,21.28
+Stage 2,51,Shiori Kuwahara,Sa Chen,23.0,23.0,21.28
+Stage 2,51,Shiori Kuwahara,Dang Thai Son,19.0,19.12,21.28
+Stage 2,51,Shiori Kuwahara,Akiko Ebi,23.0,23.0,21.28
+Stage 2,51,Shiori Kuwahara,Nelson Goerner,22.0,22.0,21.28
+Stage 2,51,Shiori Kuwahara,Krzysztof Jabłoński,19.0,19.12,21.28
+Stage 2,51,Shiori Kuwahara,Kevin Kenner,18.0,19.12,21.28
+Stage 2,51,Shiori Kuwahara,Momo Kodama,23.0,23.0,21.28
+Stage 2,51,Shiori Kuwahara,Robert McDonald,16.0,19.12,21.28
+Stage 2,51,Shiori Kuwahara,Piotr Paleczny,22.0,22.0,21.28
+Stage 2,51,Shiori Kuwahara,Ewa Pobłocka,24.0,23.12,21.28
+Stage 2,51,Shiori Kuwahara,K. Popowa-Zydroń,22.0,22.0,21.28
+Stage 2,51,Shiori Kuwahara,John Rink,21.0,21.0,21.28
+Stage 2,51,Shiori Kuwahara,Wojciech Świtała,20.0,20.0,21.28
+Stage 2,53,Hyo Lee,Garrick Ohlsson,22.0,22.0,20.79
+Stage 2,53,Hyo Lee,John Allison,22.0,22.0,20.79
+Stage 2,53,Hyo Lee,Yulianna Avdeeva,22.0,22.0,20.79
+Stage 2,53,Hyo Lee,Michel Beroff,20.0,20.0,20.79
+Stage 2,53,Hyo Lee,Sa Chen,20.0,20.0,20.79
+Stage 2,53,Hyo Lee,Dang Thai Son,21.0,21.0,20.79
+Stage 2,53,Hyo Lee,Akiko Ebi,23.0,22.81,20.79
+Stage 2,53,Hyo Lee,Nelson Goerner,20.0,20.0,20.79
+Stage 2,53,Hyo Lee,Krzysztof Jabłoński,20.0,20.0,20.79
+Stage 2,53,Hyo Lee,Kevin Kenner,20.0,20.0,20.79
+Stage 2,53,Hyo Lee,Momo Kodama,20.0,20.0,20.79
+Stage 2,53,Hyo Lee,Robert McDonald,20.0,20.0,20.79
+Stage 2,53,Hyo Lee,Piotr Paleczny,23.0,22.81,20.79
+Stage 2,53,Hyo Lee,Ewa Pobłocka,,,20.79
+Stage 2,53,Hyo Lee,K. Popowa-Zydroń,19.0,19.0,20.79
+Stage 2,53,Hyo Lee,John Rink,19.0,19.0,20.79
+Stage 2,53,Hyo Lee,Wojciech Świtała,22.0,22.0,20.79
+Stage 2,54,Hyuk Lee,Garrick Ohlsson,17.0,18.88,20.79
+Stage 2,54,Hyuk Lee,John Allison,20.0,20.0,20.79
+Stage 2,54,Hyuk Lee,Yulianna Avdeeva,20.0,20.0,20.79
+Stage 2,54,Hyuk Lee,Michel Beroff,25.0,22.88,20.79
+Stage 2,54,Hyuk Lee,Sa Chen,20.0,20.0,20.79
+Stage 2,54,Hyuk Lee,Dang Thai Son,20.0,20.0,20.79
+Stage 2,54,Hyuk Lee,Akiko Ebi,22.0,22.0,20.79
+Stage 2,54,Hyuk Lee,Nelson Goerner,20.0,20.0,20.79
+Stage 2,54,Hyuk Lee,Krzysztof Jabłoński,21.0,21.0,20.79
+Stage 2,54,Hyuk Lee,Kevin Kenner,21.0,21.0,20.79
+Stage 2,54,Hyuk Lee,Momo Kodama,19.0,19.0,20.79
+Stage 2,54,Hyuk Lee,Robert McDonald,24.0,22.88,20.79
+Stage 2,54,Hyuk Lee,Piotr Paleczny,22.0,22.0,20.79
+Stage 2,54,Hyuk Lee,Ewa Pobłocka,,,20.79
+Stage 2,54,Hyuk Lee,K. Popowa-Zydroń,21.0,21.0,20.79
+Stage 2,54,Hyuk Lee,John Rink,21.0,21.0,20.79
+Stage 2,54,Hyuk Lee,Wojciech Świtała,21.0,21.0,20.79
+Stage 2,55,Kwanwook Lee,Garrick Ohlsson,21.0,20.82,18.72
+Stage 2,55,Kwanwook Lee,John Allison,17.0,17.0,18.72
+Stage 2,55,Kwanwook Lee,Yulianna Avdeeva,20.0,20.0,18.72
+Stage 2,55,Kwanwook Lee,Michel Beroff,20.0,20.0,18.72
+Stage 2,55,Kwanwook Lee,Sa Chen,22.0,20.82,18.72
+Stage 2,55,Kwanwook Lee,Dang Thai Son,21.0,20.82,18.72
+Stage 2,55,Kwanwook Lee,Akiko Ebi,20.0,20.0,18.72
+Stage 2,55,Kwanwook Lee,Nelson Goerner,18.0,18.0,18.72
+Stage 2,55,Kwanwook Lee,Krzysztof Jabłoński,18.0,18.0,18.72
+Stage 2,55,Kwanwook Lee,Kevin Kenner,21.0,20.82,18.72
+Stage 2,55,Kwanwook Lee,Momo Kodama,17.0,17.0,18.72
+Stage 2,55,Kwanwook Lee,Robert McDonald,18.0,18.0,18.72
+Stage 2,55,Kwanwook Lee,Piotr Paleczny,18.0,18.0,18.72
+Stage 2,55,Kwanwook Lee,Ewa Pobłocka,17.0,17.0,18.72
+Stage 2,55,Kwanwook Lee,K. Popowa-Zydroń,18.0,18.0,18.72
+Stage 2,55,Kwanwook Lee,John Rink,17.0,17.0,18.72
+Stage 2,55,Kwanwook Lee,Wojciech Świtała,17.0,17.0,18.72
+Stage 2,58,Xiaoxuan Li,Garrick Ohlsson,22.0,22.0,20.3
+Stage 2,58,Xiaoxuan Li,John Allison,18.0,18.25,20.3
+Stage 2,58,Xiaoxuan Li,Yulianna Avdeeva,21.0,21.0,20.3
+Stage 2,58,Xiaoxuan Li,Michel Beroff,23.0,22.25,20.3
+Stage 2,58,Xiaoxuan Li,Sa Chen,20.0,20.0,20.3
+Stage 2,58,Xiaoxuan Li,Dang Thai Son,18.0,18.25,20.3
+Stage 2,58,Xiaoxuan Li,Akiko Ebi,21.0,21.0,20.3
+Stage 2,58,Xiaoxuan Li,Nelson Goerner,20.0,20.0,20.3
+Stage 2,58,Xiaoxuan Li,Krzysztof Jabłoński,16.0,18.25,20.3
+Stage 2,58,Xiaoxuan Li,Kevin Kenner,23.0,22.25,20.3
+Stage 2,58,Xiaoxuan Li,Momo Kodama,18.0,18.25,20.3
+Stage 2,58,Xiaoxuan Li,Robert McDonald,,,20.3
+Stage 2,58,Xiaoxuan Li,Piotr Paleczny,22.0,22.0,20.3
+Stage 2,58,Xiaoxuan Li,Ewa Pobłocka,23.0,22.25,20.3
+Stage 2,58,Xiaoxuan Li,K. Popowa-Zydroń,19.0,19.0,20.3
+Stage 2,58,Xiaoxuan Li,John Rink,19.0,19.0,20.3
+Stage 2,58,Xiaoxuan Li,Wojciech Świtała,21.0,21.0,20.3
+Stage 2,59,Zhexiang Li,Garrick Ohlsson,19.0,19.0,19.08
+Stage 2,59,Zhexiang Li,John Allison,22.0,21.24,19.08
+Stage 2,59,Zhexiang Li,Yulianna Avdeeva,23.0,21.24,19.08
+Stage 2,59,Zhexiang Li,Michel Beroff,21.0,21.0,19.08
+Stage 2,59,Zhexiang Li,Sa Chen,21.0,21.0,19.08
+Stage 2,59,Zhexiang Li,Dang Thai Son,22.0,21.24,19.08
+Stage 2,59,Zhexiang Li,Akiko Ebi,23.0,21.24,19.08
+Stage 2,59,Zhexiang Li,Nelson Goerner,17.0,17.24,19.08
+Stage 2,59,Zhexiang Li,Krzysztof Jabłoński,17.0,17.24,19.08
+Stage 2,59,Zhexiang Li,Kevin Kenner,19.0,19.0,19.08
+Stage 2,59,Zhexiang Li,Momo Kodama,17.0,17.24,19.08
+Stage 2,59,Zhexiang Li,Robert McDonald,17.0,17.24,19.08
+Stage 2,59,Zhexiang Li,Piotr Paleczny,19.0,19.0,19.08
+Stage 2,59,Zhexiang Li,Ewa Pobłocka,16.0,17.24,19.08
+Stage 2,59,Zhexiang Li,K. Popowa-Zydroń,17.0,17.24,19.08
+Stage 2,59,Zhexiang Li,John Rink,19.0,19.0,19.08
+Stage 2,59,Zhexiang Li,Wojciech Świtała,18.0,18.0,19.08
+Stage 2,57,Tianyou Li,Garrick Ohlsson,23.0,23.0,21.86
+Stage 2,57,Tianyou Li,John Allison,20.0,20.0,21.86
+Stage 2,57,Tianyou Li,Yulianna Avdeeva,23.0,23.0,21.86
+Stage 2,57,Tianyou Li,Michel Beroff,21.0,21.0,21.86
+Stage 2,57,Tianyou Li,Sa Chen,24.0,23.71,21.86
+Stage 2,57,Tianyou Li,Dang Thai Son,18.0,19.71,21.86
+Stage 2,57,Tianyou Li,Akiko Ebi,23.0,23.0,21.86
+Stage 2,57,Tianyou Li,Nelson Goerner,23.0,23.0,21.86
+Stage 2,57,Tianyou Li,Krzysztof Jabłoński,24.0,23.71,21.86
+Stage 2,57,Tianyou Li,Kevin Kenner,23.0,23.0,21.86
+Stage 2,57,Tianyou Li,Momo Kodama,19.0,19.71,21.86
+Stage 2,57,Tianyou Li,Robert McDonald,22.0,22.0,21.86
+Stage 2,57,Tianyou Li,Piotr Paleczny,19.0,19.71,21.86
+Stage 2,57,Tianyou Li,Ewa Pobłocka,22.0,22.0,21.86
+Stage 2,57,Tianyou Li,K. Popowa-Zydroń,20.0,20.0,21.86
+Stage 2,57,Tianyou Li,John Rink,23.0,23.0,21.86
+Stage 2,57,Tianyou Li,Wojciech Świtała,22.0,22.0,21.86
+Stage 2,62,Eric Lu,Garrick Ohlsson,24.0,24.0,23.03
+Stage 2,62,Eric Lu,John Allison,23.0,23.0,23.03
+Stage 2,62,Eric Lu,Yulianna Avdeeva,21.0,21.0,23.03
+Stage 2,62,Eric Lu,Michel Beroff,24.0,24.0,23.03
+Stage 2,62,Eric Lu,Sa Chen,22.0,22.0,23.03
+Stage 2,62,Eric Lu,Dang Thai Son,,,23.03
+Stage 2,62,Eric Lu,Akiko Ebi,24.0,24.0,23.03
+Stage 2,62,Eric Lu,Nelson Goerner,25.0,24.87,23.03
+Stage 2,62,Eric Lu,Krzysztof Jabłoński,18.0,20.87,23.03
+Stage 2,62,Eric Lu,Kevin Kenner,22.0,22.0,23.03
+Stage 2,62,Eric Lu,Momo Kodama,24.0,24.0,23.03
+Stage 2,62,Eric Lu,Robert McDonald,,,23.03
+Stage 2,62,Eric Lu,Piotr Paleczny,22.0,22.0,23.03
+Stage 2,62,Eric Lu,Ewa Pobłocka,25.0,24.87,23.03
+Stage 2,62,Eric Lu,K. Popowa-Zydroń,22.0,22.0,23.03
+Stage 2,62,Eric Lu,John Rink,25.0,24.87,23.03
+Stage 2,62,Eric Lu,Wojciech Świtała,22.0,22.0,23.03
+Stage 2,63,Philipp Lynov,Garrick Ohlsson,19.0,19.0,18.71
+Stage 2,63,Philipp Lynov,John Allison,22.0,21.0,18.71
+Stage 2,63,Philipp Lynov,Yulianna Avdeeva,22.0,21.0,18.71
+Stage 2,63,Philipp Lynov,Michel Beroff,18.0,18.0,18.71
+Stage 2,63,Philipp Lynov,Sa Chen,21.0,21.0,18.71
+Stage 2,63,Philipp Lynov,Dang Thai Son,18.0,18.0,18.71
+Stage 2,63,Philipp Lynov,Akiko Ebi,17.0,17.0,18.71
+Stage 2,63,Philipp Lynov,Nelson Goerner,20.0,20.0,18.71
+Stage 2,63,Philipp Lynov,Krzysztof Jabłoński,18.0,18.0,18.71
+Stage 2,63,Philipp Lynov,Kevin Kenner,17.0,17.0,18.71
+Stage 2,63,Philipp Lynov,Momo Kodama,24.0,21.0,18.71
+Stage 2,63,Philipp Lynov,Robert McDonald,17.0,17.0,18.71
+Stage 2,63,Philipp Lynov,Piotr Paleczny,18.0,18.0,18.71
+Stage 2,63,Philipp Lynov,Ewa Pobłocka,17.0,17.0,18.71
+Stage 2,63,Philipp Lynov,K. Popowa-Zydroń,17.0,17.0,18.71
+Stage 2,63,Philipp Lynov,John Rink,20.0,20.0,18.71
+Stage 2,63,Philipp Lynov,Wojciech Świtała,18.0,18.0,18.71
+Stage 2,64,Tianyao Lyu,Garrick Ohlsson,19.0,19.0,20.78
+Stage 2,64,Tianyao Lyu,John Allison,17.0,18.88,20.78
+Stage 2,64,Tianyao Lyu,Yulianna Avdeeva,20.0,20.0,20.78
+Stage 2,64,Tianyao Lyu,Michel Beroff,24.0,22.88,20.78
+Stage 2,64,Tianyao Lyu,Sa Chen,21.0,21.0,20.78
+Stage 2,64,Tianyao Lyu,Dang Thai Son,20.0,20.0,20.78
+Stage 2,64,Tianyao Lyu,Akiko Ebi,22.0,22.0,20.78
+Stage 2,64,Tianyao Lyu,Nelson Goerner,21.0,21.0,20.78
+Stage 2,64,Tianyao Lyu,Krzysztof Jabłoński,18.0,18.88,20.78
+Stage 2,64,Tianyao Lyu,Kevin Kenner,21.0,21.0,20.78
+Stage 2,64,Tianyao Lyu,Momo Kodama,20.0,20.0,20.78
+Stage 2,64,Tianyao Lyu,Robert McDonald,20.0,20.0,20.78
+Stage 2,64,Tianyao Lyu,Piotr Paleczny,25.0,22.88,20.78
+Stage 2,64,Tianyao Lyu,Ewa Pobłocka,24.0,22.88,20.78
+Stage 2,64,Tianyao Lyu,K. Popowa-Zydroń,,,20.78
+Stage 2,64,Tianyao Lyu,John Rink,20.0,20.0,20.78
+Stage 2,64,Tianyao Lyu,Wojciech Świtała,22.0,22.0,20.78
+Stage 2,67,Ruben Micieli,Garrick Ohlsson,23.0,21.12,19.12
+Stage 2,67,Ruben Micieli,John Allison,17.0,17.12,19.12
+Stage 2,67,Ruben Micieli,Yulianna Avdeeva,23.0,21.12,19.12
+Stage 2,67,Ruben Micieli,Michel Beroff,21.0,21.0,19.12
+Stage 2,67,Ruben Micieli,Sa Chen,21.0,21.0,19.12
+Stage 2,67,Ruben Micieli,Dang Thai Son,18.0,18.0,19.12
+Stage 2,67,Ruben Micieli,Akiko Ebi,17.0,17.12,19.12
+Stage 2,67,Ruben Micieli,Nelson Goerner,21.0,21.0,19.12
+Stage 2,67,Ruben Micieli,Krzysztof Jabłoński,19.0,19.0,19.12
+Stage 2,67,Ruben Micieli,Kevin Kenner,19.0,19.0,19.12
+Stage 2,67,Ruben Micieli,Momo Kodama,21.0,21.0,19.12
+Stage 2,67,Ruben Micieli,Robert McDonald,17.0,17.12,19.12
+Stage 2,67,Ruben Micieli,Piotr Paleczny,20.0,20.0,19.12
+Stage 2,67,Ruben Micieli,Ewa Pobłocka,15.0,17.12,19.12
+Stage 2,67,Ruben Micieli,K. Popowa-Zydroń,16.0,17.12,19.12
+Stage 2,67,Ruben Micieli,John Rink,20.0,20.0,19.12
+Stage 2,67,Ruben Micieli,Wojciech Świtała,17.0,17.12,19.12
+Stage 2,68,Nathalia Milstein,Garrick Ohlsson,21.0,21.0,19.26
+Stage 2,68,Nathalia Milstein,John Allison,21.0,21.0,19.26
+Stage 2,68,Nathalia Milstein,Yulianna Avdeeva,20.0,20.0,19.26
+Stage 2,68,Nathalia Milstein,Michel Beroff,22.0,21.06,19.26
+Stage 2,68,Nathalia Milstein,Sa Chen,20.0,20.0,19.26
+Stage 2,68,Nathalia Milstein,Dang Thai Son,17.0,17.06,19.26
+Stage 2,68,Nathalia Milstein,Akiko Ebi,20.0,20.0,19.26
+Stage 2,68,Nathalia Milstein,Nelson Goerner,21.0,21.0,19.26
+Stage 2,68,Nathalia Milstein,Krzysztof Jabłoński,16.0,17.06,19.26
+Stage 2,68,Nathalia Milstein,Kevin Kenner,21.0,21.0,19.26
+Stage 2,68,Nathalia Milstein,Momo Kodama,19.0,19.0,19.26
+Stage 2,68,Nathalia Milstein,Robert McDonald,20.0,20.0,19.26
+Stage 2,68,Nathalia Milstein,Piotr Paleczny,17.0,17.06,19.26
+Stage 2,68,Nathalia Milstein,Ewa Pobłocka,15.0,17.06,19.26
+Stage 2,68,Nathalia Milstein,K. Popowa-Zydroń,16.0,17.06,19.26
+Stage 2,68,Nathalia Milstein,John Rink,21.0,21.0,19.26
+Stage 2,68,Nathalia Milstein,Wojciech Świtała,17.0,17.06,19.26
+Stage 2,69,Yumeka Nakagawa,Garrick Ohlsson,17.0,17.94,19.98
+Stage 2,69,Yumeka Nakagawa,John Allison,21.0,21.0,19.98
+Stage 2,69,Yumeka Nakagawa,Yulianna Avdeeva,20.0,20.0,19.98
+Stage 2,69,Yumeka Nakagawa,Michel Beroff,23.0,21.94,19.98
+Stage 2,69,Yumeka Nakagawa,Sa Chen,21.0,21.0,19.98
+Stage 2,69,Yumeka Nakagawa,Dang Thai Son,23.0,21.94,19.98
+Stage 2,69,Yumeka Nakagawa,Akiko Ebi,24.0,21.94,19.98
+Stage 2,69,Yumeka Nakagawa,Nelson Goerner,21.0,21.0,19.98
+Stage 2,69,Yumeka Nakagawa,Krzysztof Jabłoński,17.0,17.94,19.98
+Stage 2,69,Yumeka Nakagawa,Kevin Kenner,22.0,21.94,19.98
+Stage 2,69,Yumeka Nakagawa,Momo Kodama,20.0,20.0,19.98
+Stage 2,69,Yumeka Nakagawa,Robert McDonald,20.0,20.0,19.98
+Stage 2,69,Yumeka Nakagawa,Piotr Paleczny,19.0,19.0,19.98
+Stage 2,69,Yumeka Nakagawa,Ewa Pobłocka,19.0,19.0,19.98
+Stage 2,69,Yumeka Nakagawa,K. Popowa-Zydroń,15.0,17.94,19.98
+Stage 2,69,Yumeka Nakagawa,John Rink,19.0,19.0,19.98
+Stage 2,69,Yumeka Nakagawa,Wojciech Świtała,18.0,18.0,19.98
+Stage 2,73,Vincent Ong,Garrick Ohlsson,17.0,19.12,21.23
+Stage 2,73,Vincent Ong,John Allison,16.0,19.12,21.23
+Stage 2,73,Vincent Ong,Yulianna Avdeeva,20.0,20.0,21.23
+Stage 2,73,Vincent Ong,Michel Beroff,19.0,19.12,21.23
+Stage 2,73,Vincent Ong,Sa Chen,23.0,23.0,21.23
+Stage 2,73,Vincent Ong,Dang Thai Son,24.0,23.12,21.23
+Stage 2,73,Vincent Ong,Akiko Ebi,23.0,23.0,21.23
+Stage 2,73,Vincent Ong,Nelson Goerner,24.0,23.12,21.23
+Stage 2,73,Vincent Ong,Krzysztof Jabłoński,18.0,19.12,21.23
+Stage 2,73,Vincent Ong,Kevin Kenner,21.0,21.0,21.23
+Stage 2,73,Vincent Ong,Momo Kodama,25.0,23.12,21.23
+Stage 2,73,Vincent Ong,Robert McDonald,21.0,21.0,21.23
+Stage 2,73,Vincent Ong,Piotr Paleczny,20.0,20.0,21.23
+Stage 2,73,Vincent Ong,Ewa Pobłocka,24.0,23.12,21.23
+Stage 2,73,Vincent Ong,K. Popowa-Zydroń,21.0,21.0,21.23
+Stage 2,73,Vincent Ong,John Rink,23.0,23.0,21.23
+Stage 2,73,Vincent Ong,Wojciech Świtała,20.0,20.0,21.23
+Stage 2,75,Piotr Pawlak,Garrick Ohlsson,25.0,22.59,20.59
+Stage 2,75,Piotr Pawlak,John Allison,23.0,22.59,20.59
+Stage 2,75,Piotr Pawlak,Yulianna Avdeeva,22.0,22.0,20.59
+Stage 2,75,Piotr Pawlak,Michel Beroff,21.0,21.0,20.59
+Stage 2,75,Piotr Pawlak,Sa Chen,19.0,19.0,20.59
+Stage 2,75,Piotr Pawlak,Dang Thai Son,19.0,19.0,20.59
+Stage 2,75,Piotr Pawlak,Akiko Ebi,22.0,22.0,20.59
+Stage 2,75,Piotr Pawlak,Nelson Goerner,21.0,21.0,20.59
+Stage 2,75,Piotr Pawlak,Krzysztof Jabłoński,17.0,18.59,20.59
+Stage 2,75,Piotr Pawlak,Kevin Kenner,21.0,21.0,20.59
+Stage 2,75,Piotr Pawlak,Momo Kodama,19.0,19.0,20.59
+Stage 2,75,Piotr Pawlak,Robert McDonald,19.0,19.0,20.59
+Stage 2,75,Piotr Pawlak,Piotr Paleczny,21.0,21.0,20.59
+Stage 2,75,Piotr Pawlak,Ewa Pobłocka,16.0,18.59,20.59
+Stage 2,75,Piotr Pawlak,K. Popowa-Zydroń,20.0,20.0,20.59
+Stage 2,75,Piotr Pawlak,John Rink,24.0,22.59,20.59
+Stage 2,75,Piotr Pawlak,Wojciech Świtała,21.0,21.0,20.59
+Stage 2,76,Yehuda Prokopowicz,Garrick Ohlsson,23.0,22.24,20.36
+Stage 2,76,Yehuda Prokopowicz,John Allison,22.0,22.0,20.36
+Stage 2,76,Yehuda Prokopowicz,Yulianna Avdeeva,23.0,22.24,20.36
+Stage 2,76,Yehuda Prokopowicz,Michel Beroff,22.0,22.0,20.36
+Stage 2,76,Yehuda Prokopowicz,Sa Chen,21.0,21.0,20.36
+Stage 2,76,Yehuda Prokopowicz,Dang Thai Son,17.0,18.24,20.36
+Stage 2,76,Yehuda Prokopowicz,Akiko Ebi,18.0,18.24,20.36
+Stage 2,76,Yehuda Prokopowicz,Nelson Goerner,22.0,22.0,20.36
+Stage 2,76,Yehuda Prokopowicz,Krzysztof Jabłoński,16.0,18.24,20.36
+Stage 2,76,Yehuda Prokopowicz,Kevin Kenner,22.0,22.0,20.36
+Stage 2,76,Yehuda Prokopowicz,Momo Kodama,19.0,19.0,20.36
+Stage 2,76,Yehuda Prokopowicz,Robert McDonald,21.0,21.0,20.36
+Stage 2,76,Yehuda Prokopowicz,Piotr Paleczny,21.0,21.0,20.36
+Stage 2,76,Yehuda Prokopowicz,Ewa Pobłocka,20.0,20.0,20.36
+Stage 2,76,Yehuda Prokopowicz,K. Popowa-Zydroń,19.0,19.0,20.36
+Stage 2,76,Yehuda Prokopowicz,John Rink,19.0,19.0,20.36
+Stage 2,76,Yehuda Prokopowicz,Wojciech Świtała,19.0,19.0,20.36
+Stage 2,77,Hao Rao,Garrick Ohlsson,16.0,17.29,19.15
+Stage 2,77,Hao Rao,John Allison,18.0,18.0,19.15
+Stage 2,77,Hao Rao,Yulianna Avdeeva,22.0,21.29,19.15
+Stage 2,77,Hao Rao,Michel Beroff,20.0,20.0,19.15
+Stage 2,77,Hao Rao,Sa Chen,21.0,21.0,19.15
+Stage 2,77,Hao Rao,Dang Thai Son,17.0,17.29,19.15
+Stage 2,77,Hao Rao,Akiko Ebi,17.0,17.29,19.15
+Stage 2,77,Hao Rao,Nelson Goerner,24.0,21.29,19.15
+Stage 2,77,Hao Rao,Krzysztof Jabłoński,17.0,17.29,19.15
+Stage 2,77,Hao Rao,Kevin Kenner,19.0,19.0,19.15
+Stage 2,77,Hao Rao,Momo Kodama,17.0,17.29,19.15
+Stage 2,77,Hao Rao,Robert McDonald,22.0,21.29,19.15
+Stage 2,77,Hao Rao,Piotr Paleczny,22.0,21.29,19.15
+Stage 2,77,Hao Rao,Ewa Pobłocka,21.0,21.0,19.15
+Stage 2,77,Hao Rao,K. Popowa-Zydroń,18.0,18.0,19.15
+Stage 2,77,Hao Rao,John Rink,18.0,18.0,19.15
+Stage 2,77,Hao Rao,Wojciech Świtała,19.0,19.0,19.15
+Stage 2,78,Anthony Ratinov,Garrick Ohlsson,22.0,22.0,20.13
+Stage 2,78,Anthony Ratinov,John Allison,17.0,18.0,20.13
+Stage 2,78,Anthony Ratinov,Yulianna Avdeeva,21.0,21.0,20.13
+Stage 2,78,Anthony Ratinov,Michel Beroff,20.0,20.0,20.13
+Stage 2,78,Anthony Ratinov,Sa Chen,21.0,21.0,20.13
+Stage 2,78,Anthony Ratinov,Dang Thai Son,18.0,18.0,20.13
+Stage 2,78,Anthony Ratinov,Akiko Ebi,21.0,21.0,20.13
+Stage 2,78,Anthony Ratinov,Nelson Goerner,17.0,18.0,20.13
+Stage 2,78,Anthony Ratinov,Krzysztof Jabłoński,19.0,19.0,20.13
+Stage 2,78,Anthony Ratinov,Kevin Kenner,21.0,21.0,20.13
+Stage 2,78,Anthony Ratinov,Momo Kodama,22.0,22.0,20.13
+Stage 2,78,Anthony Ratinov,Robert McDonald,,,20.13
+Stage 2,78,Anthony Ratinov,Piotr Paleczny,19.0,19.0,20.13
+Stage 2,78,Anthony Ratinov,Ewa Pobłocka,21.0,21.0,20.13
+Stage 2,78,Anthony Ratinov,K. Popowa-Zydroń,20.0,20.0,20.13
+Stage 2,78,Anthony Ratinov,John Rink,20.0,20.0,20.13
+Stage 2,78,Anthony Ratinov,Wojciech Świtała,21.0,21.0,20.13
+Stage 2,81,Miyu Shindo,Garrick Ohlsson,17.0,18.71,20.82
+Stage 2,81,Miyu Shindo,John Allison,20.0,20.0,20.82
+Stage 2,81,Miyu Shindo,Yulianna Avdeeva,20.0,20.0,20.82
+Stage 2,81,Miyu Shindo,Michel Beroff,23.0,22.71,20.82
+Stage 2,81,Miyu Shindo,Sa Chen,22.0,22.0,20.82
+Stage 2,81,Miyu Shindo,Dang Thai Son,20.0,20.0,20.82
+Stage 2,81,Miyu Shindo,Akiko Ebi,19.0,19.0,20.82
+Stage 2,81,Miyu Shindo,Nelson Goerner,18.0,18.71,20.82
+Stage 2,81,Miyu Shindo,Krzysztof Jabłoński,18.0,18.71,20.82
+Stage 2,81,Miyu Shindo,Kevin Kenner,21.0,21.0,20.82
+Stage 2,81,Miyu Shindo,Momo Kodama,22.0,22.0,20.82
+Stage 2,81,Miyu Shindo,Robert McDonald,19.0,19.0,20.82
+Stage 2,81,Miyu Shindo,Piotr Paleczny,23.0,22.71,20.82
+Stage 2,81,Miyu Shindo,Ewa Pobłocka,23.0,22.71,20.82
+Stage 2,81,Miyu Shindo,K. Popowa-Zydroń,22.0,22.0,20.82
+Stage 2,81,Miyu Shindo,John Rink,22.0,22.0,20.82
+Stage 2,81,Miyu Shindo,Wojciech Świtała,23.0,22.71,20.82
+Stage 2,83,Gabriele Strata,Garrick Ohlsson,16.0,18.41,20.63
+Stage 2,83,Gabriele Strata,John Allison,22.0,22.0,20.63
+Stage 2,83,Gabriele Strata,Yulianna Avdeeva,22.0,22.0,20.63
+Stage 2,83,Gabriele Strata,Michel Beroff,18.0,18.41,20.63
+Stage 2,83,Gabriele Strata,Sa Chen,22.0,22.0,20.63
+Stage 2,83,Gabriele Strata,Dang Thai Son,23.0,22.41,20.63
+Stage 2,83,Gabriele Strata,Akiko Ebi,24.0,22.41,20.63
+Stage 2,83,Gabriele Strata,Nelson Goerner,25.0,22.41,20.63
+Stage 2,83,Gabriele Strata,Krzysztof Jabłoński,17.0,18.41,20.63
+Stage 2,83,Gabriele Strata,Kevin Kenner,17.0,18.41,20.63
+Stage 2,83,Gabriele Strata,Momo Kodama,22.0,22.0,20.63
+Stage 2,83,Gabriele Strata,Robert McDonald,21.0,21.0,20.63
+Stage 2,83,Gabriele Strata,Piotr Paleczny,21.0,21.0,20.63
+Stage 2,83,Gabriele Strata,Ewa Pobłocka,17.0,18.41,20.63
+Stage 2,83,Gabriele Strata,K. Popowa-Zydroń,17.0,18.41,20.63
+Stage 2,83,Gabriele Strata,John Rink,22.0,22.0,20.63
+Stage 2,83,Gabriele Strata,Wojciech Świtała,21.0,21.0,20.63
+Stage 2,3,Tomoharu Ushida,Garrick Ohlsson,20.0,20.0,21.08
+Stage 2,3,Tomoharu Ushida,John Allison,19.0,19.19,21.08
+Stage 2,3,Tomoharu Ushida,Yulianna Avdeeva,24.0,23.19,21.08
+Stage 2,3,Tomoharu Ushida,Michel Beroff,25.0,23.19,21.08
+Stage 2,3,Tomoharu Ushida,Sa Chen,22.0,22.0,21.08
+Stage 2,3,Tomoharu Ushida,Dang Thai Son,19.0,19.19,21.08
+Stage 2,3,Tomoharu Ushida,Akiko Ebi,21.0,21.0,21.08
+Stage 2,3,Tomoharu Ushida,Nelson Goerner,21.0,21.0,21.08
+Stage 2,3,Tomoharu Ushida,Krzysztof Jabłoński,24.0,23.19,21.08
+Stage 2,3,Tomoharu Ushida,Kevin Kenner,22.0,22.0,21.08
+Stage 2,3,Tomoharu Ushida,Momo Kodama,21.0,21.0,21.08
+Stage 2,3,Tomoharu Ushida,Robert McDonald,22.0,22.0,21.08
+Stage 2,3,Tomoharu Ushida,Piotr Paleczny,,,21.08
+Stage 2,3,Tomoharu Ushida,Ewa Pobłocka,22.0,22.0,21.08
+Stage 2,3,Tomoharu Ushida,K. Popowa-Zydroń,20.0,20.0,21.08
+Stage 2,3,Tomoharu Ushida,John Rink,18.0,19.19,21.08
+Stage 2,3,Tomoharu Ushida,Wojciech Świtała,19.0,19.19,21.08
+Stage 2,5,Zitong Wang,Garrick Ohlsson,22.0,22.0,20.69
+Stage 2,5,Zitong Wang,John Allison,22.0,22.0,20.69
+Stage 2,5,Zitong Wang,Yulianna Avdeeva,23.0,22.56,20.69
+Stage 2,5,Zitong Wang,Michel Beroff,21.0,21.0,20.69
+Stage 2,5,Zitong Wang,Sa Chen,22.0,22.0,20.69
+Stage 2,5,Zitong Wang,Dang Thai Son,,,20.69
+Stage 2,5,Zitong Wang,Akiko Ebi,21.0,21.0,20.69
+Stage 2,5,Zitong Wang,Nelson Goerner,17.0,18.56,20.69
+Stage 2,5,Zitong Wang,Krzysztof Jabłoński,16.0,18.56,20.69
+Stage 2,5,Zitong Wang,Kevin Kenner,24.0,22.56,20.69
+Stage 2,5,Zitong Wang,Momo Kodama,19.0,19.0,20.69
+Stage 2,5,Zitong Wang,Robert McDonald,23.0,22.56,20.69
+Stage 2,5,Zitong Wang,Piotr Paleczny,18.0,18.56,20.69
+Stage 2,5,Zitong Wang,Ewa Pobłocka,24.0,22.56,20.69
+Stage 2,5,Zitong Wang,K. Popowa-Zydroń,18.0,18.56,20.69
+Stage 2,5,Zitong Wang,John Rink,21.0,21.0,20.69
+Stage 2,5,Zitong Wang,Wojciech Świtała,18.0,18.56,20.69
+Stage 2,11,Yifan Wu,Garrick Ohlsson,21.0,21.0,20.32
+Stage 2,11,Yifan Wu,John Allison,19.0,19.0,20.32
+Stage 2,11,Yifan Wu,Yulianna Avdeeva,21.0,21.0,20.32
+Stage 2,11,Yifan Wu,Michel Beroff,24.0,22.35,20.32
+Stage 2,11,Yifan Wu,Sa Chen,21.0,21.0,20.32
+Stage 2,11,Yifan Wu,Dang Thai Son,17.0,18.35,20.32
+Stage 2,11,Yifan Wu,Akiko Ebi,23.0,22.35,20.32
+Stage 2,11,Yifan Wu,Nelson Goerner,22.0,22.0,20.32
+Stage 2,11,Yifan Wu,Krzysztof Jabłoński,18.0,18.35,20.32
+Stage 2,11,Yifan Wu,Kevin Kenner,20.0,20.0,20.32
+Stage 2,11,Yifan Wu,Momo Kodama,23.0,22.35,20.32
+Stage 2,11,Yifan Wu,Robert McDonald,20.0,20.0,20.32
+Stage 2,11,Yifan Wu,Piotr Paleczny,19.0,19.0,20.32
+Stage 2,11,Yifan Wu,Ewa Pobłocka,18.0,18.35,20.32
+Stage 2,11,Yifan Wu,K. Popowa-Zydroń,18.0,18.35,20.32
+Stage 2,11,Yifan Wu,John Rink,20.0,20.0,20.32
+Stage 2,11,Yifan Wu,Wojciech Świtała,22.0,22.0,20.32
+Stage 2,12,Miki Yamagata,Garrick Ohlsson,19.0,19.0,20.35
+Stage 2,12,Miki Yamagata,John Allison,18.0,18.24,20.35
+Stage 2,12,Miki Yamagata,Yulianna Avdeeva,21.0,21.0,20.35
+Stage 2,12,Miki Yamagata,Michel Beroff,24.0,22.24,20.35
+Stage 2,12,Miki Yamagata,Sa Chen,20.0,20.0,20.35
+Stage 2,12,Miki Yamagata,Dang Thai Son,17.0,18.24,20.35
+Stage 2,12,Miki Yamagata,Akiko Ebi,22.0,22.0,20.35
+Stage 2,12,Miki Yamagata,Nelson Goerner,21.0,21.0,20.35
+Stage 2,12,Miki Yamagata,Krzysztof Jabłoński,17.0,18.24,20.35
+Stage 2,12,Miki Yamagata,Kevin Kenner,22.0,22.0,20.35
+Stage 2,12,Miki Yamagata,Momo Kodama,23.0,22.24,20.35
+Stage 2,12,Miki Yamagata,Robert McDonald,21.0,21.0,20.35
+Stage 2,12,Miki Yamagata,Piotr Paleczny,18.0,18.24,20.35
+Stage 2,12,Miki Yamagata,Ewa Pobłocka,16.0,18.24,20.35
+Stage 2,12,Miki Yamagata,K. Popowa-Zydroń,21.0,21.0,20.35
+Stage 2,12,Miki Yamagata,John Rink,21.0,21.0,20.35
+Stage 2,12,Miki Yamagata,Wojciech Świtała,23.0,22.24,20.35
+Stage 2,15,William Yang,Garrick Ohlsson,21.0,21.0,22.38
+Stage 2,15,William Yang,John Allison,16.0,20.0,22.38
+Stage 2,15,William Yang,Yulianna Avdeeva,20.0,20.0,22.38
+Stage 2,15,William Yang,Michel Beroff,23.0,23.0,22.38
+Stage 2,15,William Yang,Sa Chen,24.0,24.0,22.38
+Stage 2,15,William Yang,Dang Thai Son,24.0,24.0,22.38
+Stage 2,15,William Yang,Akiko Ebi,24.0,24.0,22.38
+Stage 2,15,William Yang,Nelson Goerner,16.0,20.0,22.38
+Stage 2,15,William Yang,Krzysztof Jabłoński,22.0,22.0,22.38
+Stage 2,15,William Yang,Kevin Kenner,24.0,24.0,22.38
+Stage 2,15,William Yang,Momo Kodama,22.0,22.0,22.38
+Stage 2,15,William Yang,Robert McDonald,,,22.38
+Stage 2,15,William Yang,Piotr Paleczny,21.0,21.0,22.38
+Stage 2,15,William Yang,Ewa Pobłocka,25.0,24.0,22.38
+Stage 2,15,William Yang,K. Popowa-Zydroń,24.0,24.0,22.38
+Stage 2,15,William Yang,John Rink,25.0,24.0,22.38
+Stage 2,15,William Yang,Wojciech Świtała,21.0,21.0,22.38
