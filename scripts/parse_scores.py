@@ -48,7 +48,7 @@ with pdfplumber.open(pdf_path) as pdf:
                 if row[0] is None:
                     continue
                 first_cell = row[0].replace("\n", " ")
-                match = re.search(r"(\d+)\s+([^\d]+?)\s+punktacja", first_cell)
+                match = re.search(r"(\d+)\s*([^\d]+?)\s+punktacja", first_cell)
                 if not match:
                     continue
 

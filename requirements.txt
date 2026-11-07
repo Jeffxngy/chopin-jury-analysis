@@ -14,6 +14,7 @@ cffi==2.1.1
 charset-normalizer==3.5.2
 comm==0.2.3
 contourpy==1.4.0
+cryptography==50.0.2
 cycler==0.12.1
 debugpy==1.8.22
 defusedxml==0.7.1
@@ -66,6 +67,8 @@ packaging==26.3
 pandas==3.1.0
 pandocfilters==1.5.1
 parso==0.8.7
+pdfminer.six==20260107
+pdfplumber==0.11.10
 pexpect==4.9.0
 pillow==13.0.0
 platformdirs==4.14.4
@@ -77,6 +80,7 @@ pure_eval==0.2.4
 pycparser==3.12
 Pygments==2.21.0
 pyparsing==3.3.3
+pypdfium2==5.15.1
 python-dateutil==4.0.0
 python-json-logger==4.2.0
 PyYAML==6.0.3
