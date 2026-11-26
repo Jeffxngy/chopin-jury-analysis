@@ -24,6 +24,13 @@ p3 = simulate_advance(M3, carried3, 0.7, 11, 2, 10000);
 [~, loc2] = ismember(n4, n2);
 [~, loc3] = ismember(n4, n3);
 carried4 = 0.1*off1(loc1)+0.2*off2(loc2) + 0.35*off3(loc3);
-p4 = simulate_advance(M4, carried4, 0.35, 6,2, 10000)
+p4 = simulate_advance(M4, carried4, 0.35, 1,2, 10000) %1 Winner 
+
 
 sortrows(table(n4, p4), "p4", "descend")
+% final: 6 prize levels, but 8 laureates because some places were shared
+p4win   = simulate_advance(M4, carried4, 0.35, 1, 2, 10000);   % chance to win
+p4prize = simulate_advance(M4, carried4, 0.35, 8, 2, 10000);   % chance of a prize
+
+finalResult = table(n4, p4win, p4prize);
+sortrows(finalResult, "p4win", "descend")
