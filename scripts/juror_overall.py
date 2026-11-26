@@ -18,7 +18,6 @@ for juror, score in zip(df["juror"], df["original"]):
 for juror in totals:
     averages[juror] = totals[juror]/counts[juror]
 
-# TODO 3: for each juror in totals, compute totals / counts
 
 for juror, avg in sorted(averages.items(), key=lambda item: item[1]):
     print(f"{juror:22s} {avg:.2f}")

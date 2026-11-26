@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#ignoring backup files of matlab
+data/raw/
+*.asv
+.DS_Store
